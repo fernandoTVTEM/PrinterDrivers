@@ -1,47 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<document>
-	<en>
-		<header>Interpret control-panel light patterns</header>
-		<view_labels>»View control-panel labels</view_labels>
-		<toner_light>Toner light</toner_light>
-		<attn_light>Attention light</attn_light>
-		<ready_light>Ready light</ready_light>
-		<go_light>Go light</go_light>
-		<go_button>Go button</go_button>
-		<cancel_button>Cancel button</cancel_button>
-		<state_of_the_product>State of the product</state_of_the_product>
-		<action>Action</action>
-		<allOff_title>All control-panel lights are off.</allOff_title>
-		<allOff_choice>Is the power button backlight on or off?</allOff_choice>
-		<off>Off</off>
-		<on>On</on>
-		<allOff1_stateBody>The power button backlight is off. The product is in Auto-Off mode or is turned off.</allOff1_stateBody>
-		<allOff1_actionBody>Press the power button to deactivate the Auto-Off mode or to turn on the product.</allOff1_actionBody>
-		<allOff2_stateBody>The power button backlight is on. The formatter is not connected to the product correctly.</allOff2_stateBody>
-		<allOff2_actionBody>Press the power button to deactivate the Auto-Off mode or to turn on the product.</allOff2_actionBody>
-		<readyOn_title>Ready light is on, and all other lights are off.</readyOn_title>
-		<readyOn_stateBody>The product is in the ready state.</readyOn_stateBody>
-		<readyOn_actionBody>No action required. The product is ready to receive a print job.</readyOn_actionBody>
-		<readyBlinking_title>Ready light is blinking, and all other lights are off.</readyBlinking_title>
-		<readyBlinking_stateBody>The product is receiving or processing a print job.</readyBlinking_stateBody>
-		<readyBlinking_actionBody>No action required. The product is receiving or processing a print job.To cancel the current job, press the cancel button.</readyBlinking_actionBody>
-		<attnBlinking_title>Attention light is blinking, and all other lights are off.</attnBlinking_title>
-		<attnBlinking_stateBody>The product has experienced an error that can be corrected at the product, such as a jam, an open door, the absence of a print cartridge, or the absence of paper in the proper tray.</attnBlinking_stateBody>
-		<attnBlinking_actionBody>Inspect the product, determine the error, and then correct the error.</attnBlinking_actionBody>
-		<alternating_title>Attention, ready, and go lights cycle. Toner light is off.</alternating_title>
-		<alternating_stateBody>The formatter is initializing.</alternating_stateBody>
-		<alternating_actionBody>No action required. Wait for the initialization period to end. The product enters the Ready state when the initialization period is finished.</alternating_actionBody>
-		<readyOn_attnBlinking_title>Attention light is blinking, ready light is on, and all other lights are off.</readyOn_attnBlinking_title>
-		<readyOn_attnBlinking_stateBody>The product has experienced a continual error.</readyOn_attnBlinking_stateBody>
-		<readyOn_attnBlinking_actionBody>To recover from the error and print the available data, press the go button. If the recovery is successful, the product continues to the Processing Data state and completesthe job. If the recovery is unsuccessful, the product continues to the Continuable Error state. Try removing any media from the media path and turning the product power off, and then on again.</readyOn_attnBlinking_actionBody>
-		<allOn_title>Attention, ready, and go lights are on. Toner light is off.</allOn_title>
-		<allOn_stateBody>The product has experienced a fatal error from which it cannot recover.</allOn_stateBody>
-		<allOn_actionBody>1. Turn off the product.2. Wait 30 seconds, and then turn on the product.3. Wait for the product to initialize.If the error persists, contact HP customer support.</allOn_actionBody>
-		<ready_tonerOn_title>Ready and toner lights are on. All other lights are off.</ready_tonerOn_title>
-		<ready_tonerOn_stateBody>The print cartridge is near the estimated end of life.</ready_tonerOn_stateBody>
-		<ready_tonerOn_actionBody>Order a new print cartridge and have it ready.</ready_tonerOn_actionBody>
-		<tonerBlinking_title>Toner light is blinking. All other lights are off.</tonerBlinking_title>
-		<tonerBlinking_stateBody>The print cartridge has been removed from the product.</tonerBlinking_stateBody>
-		<tonerBlinking_actionBody>Reinsert the print cartridge into the product.</tonerBlinking_actionBody>
-	</en>
-</document>
