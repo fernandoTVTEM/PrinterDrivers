@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><document>
+	<lv>
+		<header>Mainīt vadības paneļa indikatoru norādes</header>
+		<view_labels>»Skatīt vadības paneļa uzlīmes</view_labels>
+		<state_of_the_product>Produkta stāvoklis</state_of_the_product>
+		<action>Darbība</action>
+		<wlan_button>Bezvadu tīkla poga</wlan_button>
+		<wlan_light>Bezvadu tīkla indikators</wlan_light>
+		<ready_light>Gatavības indikators</ready_light>
+		<attn_light>Brīdinājuma indikators</attn_light>
+		<cancel_button>Poga Atcelt</cancel_button>
+		<allOff_title>Visi indikatori ir izslēgti.</allOff_title>
+		<allOff_stateBody>TProdukts ir automātiskas izslēgšanas režīmā vai ir izslēgts.</allOff_stateBody>
+		<allOff_actionBody>Nospiediet strāvas pogu, lai deaktivizētu automātiskas izslēgšanas režīmu vai ieslēgtu produktu.</allOff_actionBody>
+		<readyOn_title>Gatavības indikators ir iesl., bet brīdinājuma indikators ir izsl.</readyOn_title>
+		<readyOn_stateBody>Produkts ir gatavības stāvoklī.</readyOn_stateBody>
+		<readyOn_actionBody>Nav nepieciešama nekāda darbība. Produkts ir gatavs saņemt drukas uzdevumu.</readyOn_actionBody>
+		<readyBlinking_title>Gatavības indikators mirgo, bet brīdinājuma indikators ir izsl.</readyBlinking_title>
+		<readyBlinking_stateBody>Produkts saņem vai apstrādā datus.</readyBlinking_stateBody>
+		<readyBlinking_actionBody>Nav nepieciešama nekāda darbība. Produkts saņem vai apstrādā drukas uzdevumu.</readyBlinking_actionBody>
+		<attnBlinking_title>Brīdinājuma indikators mirgo, bet gatavības indikators ir izsl.</attnBlinking_title>
+		<attnBlinking_stateBody>Produktā radās kļūda, kas turpat novēršama, piemēram, iesprūšana, atvērts vāks, drukas kasetnes trūkums vai arī papīra trūkums attiecīgajā teknē.</attnBlinking_stateBody>
+		<attnBlinking_actionBody>Pārbaudiet produktu, nosakiet kļūdu un pēc tam to izlabojiet. Ja kļūdu radījis papīra trūkums attiecīgajā teknē vai produkta atrašanās manuālas padeves režīmā, ievietojiet teknē atbilstošu papīru un izpildiet ekrānā redzamos norādījumus vai atveriet un aizveriet printera kasetnes vāku, lai sāktu drukāšanu.</attnBlinking_actionBody>
+		<alternating_title>Statusa indikatoru cikls.</alternating_title>
+		<alternating_stateBody>Statusa indikatoru cikls, produktam apstrādājot tīrīšanas lapu.</alternating_stateBody>
+		<alternating_actionBody>Nav nepieciešama nekāda darbība. Apstrādājot tīrīšanas lapu, produktam jānonāk gatavības stāvoklī.</alternating_actionBody>
+		<unison_title>Statusa indikatori mirgo vienlaikus.</unison_title>
+		<unison_stateBody>Formatētāja inicializācijas laikā vienlaikus mirgo visi statusa indikatori.</unison_stateBody>
+		<unison_actionBody>Nav nepieciešama nekāda darbība. Gaidiet, līdz beigsies inicializācija. Tiklīdz inicializācija ir pabeigta, produktam jānonāk gatavības stāvoklī.</unison_actionBody>
+		<readyOn_attnBlinking_title>Brīdinājuma indikators mirgo, bet gatavības indikators ir iesl.</readyOn_attnBlinking_title>
+		<readyOn_attnBlinking_stateBody>Produktā ir radusies nekritiska kļūda, kuru produkts izlabos pats.</readyOn_attnBlinking_stateBody>
+		<readyOn_attnBlinking_actionBody>Ja izlabošana ir sekmīga, produkts pāriet uz datu saņemšanas režīmu un pabeidz darbu.
+Ja izlabošana ir nesekmīga, produkts atgriežas nekritiskās kļūdas stāvoklī. Izņemiet visus apdrukājamos materiālus no materiālu ceļa un izslēdziet produktu, bet pēc tam atkal ieslēdziet.</readyOn_attnBlinking_actionBody>
+		<allOn_title>Brīdinājuma un gatavības indikatori ir ieslēgti.</allOn_title>
+		<allOn_stateBody>Produktā ir radusies fatāla kļūda, kuru produkts pats izlabot nevar.</allOn_stateBody>
+		<allOn_actionBody>1. Izslēdziet produktu.&#xD;2. Pagaidiet 30 sekundes un ieslēdziet produktu vai pievienojiet tam barošanas vadu.&#xD;3. Gaidiet produkta inicializāciju.
+Ja kļūda joprojām pastāv, sazinieties ar HP klientu atbalstu.</allOn_actionBody>
+		<wirelessBlinking_title>Bezvadu indikators mirgo.</wirelessBlinking_title>
+		<wirelessBlinking_stateBody>Produkts mēģina atrast bezvadu tīklu.</wirelessBlinking_stateBody>
+		<wirelessBlinking_actionBody>Nav nepieciešama nekāda darbība.</wirelessBlinking_actionBody>
+		<wirelessOn_title>Bezvadu indikators ir ieslēgts.</wirelessOn_title>
+		<wirelessOn_stateBody>Produkts ir izveidojis savienojumu ar bezvadu tīklu.</wirelessOn_stateBody>
+		<wirelessOn_actionBody>Nav nepieciešama nekāda darbība.</wirelessOn_actionBody>
+	</lv>
+</document>
+

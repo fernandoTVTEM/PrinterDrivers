@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<bg>
+		<header>Начини на светене на панела за управление</header>
+		<view_labels>»Преглед на етикетите на панела за управление</view_labels>
+		<toner_light>Лампичка за тонера</toner_light>
+		<attn_light>Лампичка "внимание"</attn_light>
+		<ready_light>Лампичка "готовност"</ready_light>
+		<go_light>Лампичка "старт"</go_light>
+		<go_button>Бутон "Старт"</go_button>
+		<cancel_button>Бутон "Отказ"</cancel_button>
+		<state_of_the_product>Състояние на продукта</state_of_the_product>
+		<action>Действие</action>
+		<allOff_title>Всички лампички на панела за управление са изключени.</allOff_title>
+		<allOff_choice>Свети ли или не фоновата светлина на бутона на захранването?</allOff_choice>
+		<off>Изкл.</off>
+		<on>Вкл.</on>
+		<allOff1_stateBody>Фоновата светлина на бутона на захранването не свети? Продуктът е в режим на автоматично изключване или е изключен.</allOff1_stateBody>
+		<allOff1_actionBody>Натиснете бутона за захранването, за да деактивирате режима на автоматично изключване или за да включите продукта.</allOff1_actionBody>
+		<allOff2_stateBody>Фоновата светлина на бутона на захранването свети. Модулът за форматиране не е свързан правилно към продукта.</allOff2_stateBody>
+		<allOff2_actionBody>Натиснете бутона за захранването, за да деактивирате режима на автоматично изключване или за да включите продукта.</allOff2_actionBody>
+		<readyOn_title>Лампичката "готовност" свети, а всички останали лампички са изключени.</readyOn_title>
+		<readyOn_stateBody>Продуктът е в състояние на готовност.</readyOn_stateBody>
+		<readyOn_actionBody>Не е необходимо никакво действие. Продуктът е готов да получи задание за печат.</readyOn_actionBody>
+		<readyBlinking_title>Лампичката "готовност" мига, а всички останали лампички са изключени.</readyBlinking_title>
+		<readyBlinking_stateBody>Продуктът получава или обработва задание за печат.</readyBlinking_stateBody>
+		<readyBlinking_actionBody>Не е необходимо никакво действие. Продуктът получава или обработва задание за печат.
+За да отмените текущото задание, натиснете бутона "Отказ".</readyBlinking_actionBody>
+		<attnBlinking_title>Лампичката "внимание" мига, а всички останали лампички са изключени.</attnBlinking_title>
+		<attnBlinking_stateBody>Възникнала е грешка в продукта, която може да се коригира в него, като например засядане на хартия, отворена врата, липса на печатаща касета или липса на хартия в съответната тава.</attnBlinking_stateBody>
+		<attnBlinking_actionBody>Проверете продукта, определете грешката и я коригирайте.</attnBlinking_actionBody>
+		<alternating_title>Лампичките "внимание", "готовност" и "старт" светят последователно. Лампичката за тонера е изключена.</alternating_title>
+		<alternating_stateBody>Модулът за форматиране се инициализира.</alternating_stateBody>
+		<alternating_actionBody>Не е необходимо никакво действие. Изчакайте да изтече времето за инициализиране. Продуктът ще се превключи в състояние на готовност след изтичане на времето за инициализиране.</alternating_actionBody>
+		<readyOn_attnBlinking_title>Лампичката "внимание" мига, лампичката "готовност" свети, а всички останали лампички са изключени.</readyOn_attnBlinking_title>
+		<readyOn_attnBlinking_stateBody>В продукта е възникнала е повтаряща се грешка.</readyOn_attnBlinking_stateBody>
+		<readyOn_attnBlinking_actionBody>За да отстраните грешката и да отпечатате наличните данни, натиснете бутона "Старт". Ако отстраняването е успешно, продуктът продължава с "Обработване на данни" и довършва заданието.
+Ако отстраняването не е успешно, продуктът продължава с "Повтаряща се грешка". Опитайте се да отстраните носителите от пътя на медията и включете и изключете захранването на продукта.</readyOn_attnBlinking_actionBody>
+		<allOn_title>Лампичките "внимание", "готовност" и "старт" светят. Лампичката за тонера е изключена.</allOn_title>
+		<allOn_stateBody>Възникнала е фатална грешка, от която продуктът не може да се възстанови.</allOn_stateBody>
+		<allOn_actionBody>1. Изключете продукта.&#xD;2. Изчакайте 30 секунди, след което включете продукта.&#xD;3. Изчакайте продуктът да се инициализира.
+Ако грешката не бъде отстранена, свържете се отдела за поддръжка на клиенти на HP.</allOn_actionBody>
+		<ready_tonerOn_title>Лампичката "готовност" и лампичката за тонера светят. Всички други лампички са изключени.</ready_tonerOn_title>
+		<ready_tonerOn_stateBody>Печатащата касета е към края на приблизителния си жизнен цикъл.</ready_tonerOn_stateBody>
+		<ready_tonerOn_actionBody>Поръчайте нова печатаща касета и я подгответе за използване.</ready_tonerOn_actionBody>
+		<tonerBlinking_title>Лампичката за тонера мига. Всички други лампички са изключени.</tonerBlinking_title>
+		<tonerBlinking_stateBody>Печатащата касета е отстранена от продукта.</tonerBlinking_stateBody>
+		<tonerBlinking_actionBody>Поставете печатащата касета обратно в продукта.</tonerBlinking_actionBody>
+	</bg>
+</document>
+

@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?><document>
+	<text name="searchHP" targetName="searchHPCom"><span class="yellow12Bold">» Udfør søgning på HP.com</span></text>
+	<text name="search">Søg</text>
+	<text name="close">Luk</text>
+	<text name="productTitle" anchor="center" aX="556" y="203"><span class="white16Center">HP LaserJet Professional<br/>P1560- og P1600-printerserien</span></text>
+	<text name="applicationTitle" anchor="right" aX="41" y="27"><span class="white24Right">Hjælpe- og læringscenter</span></text>
+	<text name="laserjet" anchor="left" aX="100" y="24"><span class="white24Bold">LASERJET</span></text>
+	<topBarLinks>
+		<text name="webSupport" targetName="webSupport"><span class="white12">Websupport</span></text>
+		<text name="sureSupply" targetName="sureSupply"><span class="white12">SureSupply</span></text>
+		<text name="hpSite" targetName="hpSite"><span class="white12">hp.com</span></text>
+	</topBarLinks>
+	<bottomButtons>
+		<button name="everydayJobs" menuName="menu1" x="9" y="532"><span class="white14Bold">Almindelige opgaver</span></button>
+		<button name="manageMaintain" menuName="menu2" x="238" y="532"><span class="white14Bold">Håndtering og vedligeholdelse</span></button>
+		<button name="solveProblem" menuName="menu3" x="467" y="532"><span class="white14Bold">Løs et problem</span></button>
+	</bottomButtons>
+	<menuList menuType="main" name="main1" x="20" y="200">
+		<text>
+			<span class="yellow16Bold">HURTIG SØGNING</span>
+		</text>
+		<text targetName="PrinterLightPatterns"><span class="white14">» Printerindikatormønstre</span></text>
+		<text targetName="ReplaceThePrintCartridge"><span class="white14">» Udskift printerpatron</span></text>
+		<text targetName="ClearPaperJams"><span class="white14">» Afhjælp papirstop</span></text>
+		<text targetName="FindTheIpAddress"><span class="white14">» Find IP-adressen </span></text>
+		<text targetName="LoadPaperTrays"><span class="white14">» Fyld papirbakker</span></text>
+		<text targetName="UseHpEprint"><span class="white14">» Brug HP ePrint</span></text>
+	</menuList>
+	<menuList menuType="main" name="main2_local" x="20" y="430">
+		<text targetName="userGuideDialogTarget">
+			<span class="white18">» Gennemse brugervejledning</span>
+		</text>
+	</menuList>
+	<menuList menuType="main" name="main2_si" x="20" y="430">
+		<text targetName="onlineUserGuide">
+			<span class="white18">» Gennemse brugervejledning</span>
+		</text>
+	</menuList>
+	<menuList name="menu1">
+		<text><span class="yellow11Bold">Udskrivningsopgaver</span></text>
+		<text targetName="CancelAPrintJob"><span class="white12">» Annuller et udskriftsjob</span></text>
+		<text targetName="OpenThePrinterDriver"><span class="white12">» Åbn printerdriveren</span></text>
+		<text targetName="GetHelpForAnyPrintOption"><span class="white12">» Få hjælp til alle udskrivningsmuligheder</span></text>
+		<text targetName="SelectAPageSize"><span class="white12">» Vælg et papirformat</span></text>
+		<text targetName="PrintOnBothSidesDuplex"><span class="white12">» Udskriv på begge sider (dupleks)</span></text>
+		<text targetName="PrintMultiplePagesPerSheet"><span class="white12">» Udskriv flere sider pr. ark</span></text>
+		<text targetName="SelectPageOrientation"><span class="white12">» Vælg papirretning</span></text>
+		<text targetName="SetPaperAndQualityOptions"><span class="white12">» Angiv indstillinger for papir og kvalitet</span></text>
+		<text targetName="CreateABooklet"><span class="white12">» Opret en brochure</span></text>
+		<text targetName="ScaleADocumentToFitPageSize"><span class="white12">» Skaler et dokument, så det passer til papirformatet</span></text>
+		<text targetName="PrintOnPrePrintedLetterheadOrForms"><span class="white12">» Udskriv på fortrykt brevpapir eller formularer</span></text>
+		<text targetName="PrintOnSpecialPaper"><span class="white12">» Udskriv på specialpapir</span></text>
+		<text targetName="PrintTheFirstOrLastPageOnDifferentPaper"><span class="white12">» Udskriv første eller sidste side på andet papir</span></text>
+	</menuList>
+	<menuList name="menu2">
+		<text targetName="ViewTheHpEmbeddedWebServerEws"><span class="white12">» Vis HP's integrerede webserver (EWS)</span></text>
+		<text targetName="PrintInformationPages"><span class="white12">» Udskriv oplysningssider</span></text>
+		<text targetName="ReplaceThePrintCartridge"><span class="white12">» Udskift printerpatron</span></text>
+		<text targetName="PrintACleaningPage"><span class="white12">» Udskriv en renseside</span></text>
+		<text targetName="ChangeEnergySettings"><span class="white12">» Skift energiindstillinger</span></text>
+		<text targetName="SetQuietMode"><span class="white12">» Angiv støjsvag tilstand</span></text>
+		<text targetName="FindOrChangeTheIpAddress"><span class="white12">» Find eller rediger IP-adressen</span></text>
+	</menuList>
+	<menuList name="menu3">
+		<text targetName="ClearPaperJams"><span class="white12">» Afhjælp papirstop</span></text>
+		<text targetName="ReduceSteamOrVapor"><span class="white12">» Reducer damp eller dug</span></text>
+		<text targetName="InterpretPrinterLightPatterns"><span class="white12">» Fortolk printerindikatormønstre</span></text>
+		<text targetName="SolveImageQualityProblems"><span class="white12">» Løs problemer med billedkvalitet</span></text>
+	</menuList>
+	<dialog name="userGuideDialog">
+		<menuList>
+			<text targetName="localUserGuide"><span class="white14">» Åbn brugervejledningen på computeren.</span></text>
+			<text><span class="white14">eller</span></text>
+			<text targetName="onlineUserGuide"><span class="white14">» Åbn den seneste version på internettet.</span></text>
+		</menuList>
+	</dialog>
+	<dialog name="webSupportDialog">
+		<menuList>
+			<text targetName="webSupport1560"><span class="white14">» HP Laserjet Pro P1560</span></text>
+			<text targetName="webSupport1600"><span class="white14">» HP Laserjet Pro P1600</span></text>
+		</menuList>
+	</dialog>
+</document>

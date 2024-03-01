@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><document>
+	<ru>
+		<header>Интерпретация схем индикаторов панели управления</header>
+		<view_labels>»Просмотр наклеек панели управления</view_labels>
+		<state_of_the_product>Состояние продукта</state_of_the_product>
+		<action>Действие</action>
+		<wlan_button>Кнопка беспроводной сети</wlan_button>
+		<wlan_light>Индикатор беспроводной сети</wlan_light>
+		<ready_light>Индикатор готовности</ready_light>
+		<attn_light>Индикатор «Внимание»</attn_light>
+		<cancel_button>Клавиша «Отмена»</cancel_button>
+		<allOff_title>Все индикаторы не горят.</allOff_title>
+		<allOff_stateBody>Продукт находится в режиме автоматического отключения или выключен.</allOff_stateBody>
+		<allOff_actionBody>Нажмите кнопку питания для выключения режима автоматического отключения или включения продукта.</allOff_actionBody>
+		<readyOn_title>Индикатор готовности горит, индикатор «Внимание» не горит.</readyOn_title>
+		<readyOn_stateBody>Продукт находится в состоянии готовности.</readyOn_stateBody>
+		<readyOn_actionBody>Вмешательства пользователя не требуется. Продукт готов к получению задания на печать.</readyOn_actionBody>
+		<readyBlinking_title>Индикатор готовности мигает, индикатор «Внимание» не горит.</readyBlinking_title>
+		<readyBlinking_stateBody>Продукт получает или обрабатывает данные.</readyBlinking_stateBody>
+		<readyBlinking_actionBody>Вмешательства пользователя не требуется. Продукт получает или обрабатывает задание на печать.</readyBlinking_actionBody>
+		<attnBlinking_title>Индикатор «Внимание» мигает, индикатор готовности не горит.</attnBlinking_title>
+		<attnBlinking_stateBody>В продукте произошла ошибка, которая не может быть им исправлена, например, замятие, открытая дверца, отсутствие картриджа или бумаги в верном лотке.</attnBlinking_stateBody>
+		<attnBlinking_actionBody>Внимательно осмотрите продукт, определите ошибку и исправьте ее. Если ошибка заключается в отсутствии бумаги в верном лотке продукта или нахождении продукта в режиме подачи вручную, поместите верную бумагу в лоток и следуйте инструкциям на экране, или откройте и снова закройте дверцу доступа к картриджу, чтобы продолжить печать.</attnBlinking_actionBody>
+		<alternating_title>Индикаторы состояния мигают.</alternating_title>
+		<alternating_stateBody>Индикаторы состояния мигают, когда продукт обрабатывает страницу очистки.</alternating_stateBody>
+		<alternating_actionBody>Вмешательства пользователя не требуется. После обработки страницы очистки продукт должен перейти в состояние готовности.</alternating_actionBody>
+		<unison_title>Индикаторы состояния синхронно мигают.</unison_title>
+		<unison_stateBody>Индикаторы состояния синхронно мигают во время инициализации форматтера.</unison_stateBody>
+		<unison_actionBody>Вмешательства пользователя не требуется. Дождитесь завершения инициализации. По завершении инициализации продукт должен перейти в состояние готовности.</unison_actionBody>
+		<readyOn_attnBlinking_title>Индикатор «Внимание» мигает, индикатор готовности горит.</readyOn_attnBlinking_title>
+		<readyOn_attnBlinking_stateBody>В продукте произошла ошибка, допускающая продолжение работы, которая будет исправлена продуктом самостоятельно.</readyOn_attnBlinking_stateBody>
+		<readyOn_attnBlinking_actionBody>Если ошибка будет устранена, продукт перейдет в состояние обработки информации и завершит задание.
+Если ошибка не будет устранена, продукт перейдет в состояние, требующее вмешательства пользователя. Попробуйте извлечь носитель из пути прохождения носителя, а затем выключить и снова включить продукт.</readyOn_attnBlinking_actionBody>
+		<allOn_title>Индикаторы готовности и состояния горят.</allOn_title>
+		<allOn_stateBody>В продукте произошла неустранимая ошибка, которая не может быть исправлена.</allOn_stateBody>
+		<allOn_actionBody>1. Выключите продукт.&#xD;2. Подождите 30 секунд, затем включите продукт или снова подсоедините к нему шнур питания.&#xD;3. Дождитесь инициализации продукта.
+Если ошибка повторяется, обратитесь в службу Поддержка заказчиков HP.</allOn_actionBody>
+		<wirelessBlinking_title>Индикатор беспроводной связи мигает.</wirelessBlinking_title>
+		<wirelessBlinking_stateBody>Продукт пытается найти беспроводную сеть.</wirelessBlinking_stateBody>
+		<wirelessBlinking_actionBody>Вмешательства пользователя не требуется.</wirelessBlinking_actionBody>
+		<wirelessOn_title>Индикатор беспроводной связи горит.</wirelessOn_title>
+		<wirelessOn_stateBody>Продукт подключен к беспроводной сети.</wirelessOn_stateBody>
+		<wirelessOn_actionBody>Вмешательства пользователя не требуется.</wirelessOn_actionBody>
+	</ru>
+</document>
+

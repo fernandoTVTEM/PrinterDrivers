@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<lt>
+		<header>Derinimo pulto lempučių signalų reikšmės</header>
+		<view_labels>»Peržiūrėti derinimo pulto etiketes</view_labels>
+		<toner_light>Spausdinimo kasetės lemputė</toner_light>
+		<attn_light>Įspėjamoji lemputė</attn_light>
+		<ready_light>Parengties lemputė</ready_light>
+		<go_light>Vykdymo lemputė</go_light>
+		<go_button>Mygtukas „Go“ (Vykdyti)</go_button>
+		<cancel_button>Mygtukas „Cancel“ (Atšaukti)</cancel_button>
+		<state_of_the_product>Produkto būsena</state_of_the_product>
+		<action>Veiksmas</action>
+		<allOff_title>Visos derinimo pulto lemputės išjungtos.</allOff_title>
+		<allOff_choice>Ar dega maitinimo mygtuko lemputė?</allOff_choice>
+		<off>Išjungta</off>
+		<on>Įjungta</on>
+		<allOff1_stateBody>Maitinimo mygtuko lemputė nedega. Įjungtas produkto automatinio išsijungimo režimas arba produktas yra išjungtas.</allOff1_stateBody>
+		<allOff1_actionBody>Spauskite maitinimo mygtuką, kad išjungtumėte automatinio išsijungimo režimą arba kad įjungtumėte produktą.</allOff1_actionBody>
+		<allOff2_stateBody>Maitinimo mygtuko lemputė dega. Prie produkto netinkamai prijungtas formuotuvas.</allOff2_stateBody>
+		<allOff2_actionBody>Spauskite maitinimo mygtuką, kad išjungtumėte automatinio išsijungimo režimą arba kad įjungtumėte produktą.</allOff2_actionBody>
+		<readyOn_title>Dega parengties lemputė, o visos kitos lemputės nedega.</readyOn_title>
+		<readyOn_stateBody>Įjungta produkto parengties būsena.</readyOn_stateBody>
+		<readyOn_actionBody>Jokių veiksmų imtis nereikia. Produktas yra parengtas priimti spausdinimo darbą.</readyOn_actionBody>
+		<readyBlinking_title>Mirksi parengties lemputė, o visos kitos lemputės nedega.</readyBlinking_title>
+		<readyBlinking_stateBody>Produktas priima arba apdoroja spausdinimo darbą.</readyBlinking_stateBody>
+		<readyBlinking_actionBody>Jokių veiksmų imtis nereikia. Produktas priima arba apdoroja spausdinimo darbą.
+Norėdami atšaukti vykdomą užduotį, paspauskite mygtuką „Cancel“ (atšaukti).</readyBlinking_actionBody>
+		<attnBlinking_title>Mirksi įspėjamoji lemputė, o visos kitos lemputės nedega.</attnBlinking_title>
+		<attnBlinking_stateBody>Įvyko produkto klaida, kurią galima išspręsti produkte, pavyzdžiui, įstrigo popierius, buvo atviros durelės, nebuvo spausdinimo kasetės arba popieriaus dėkle nebuvo popieriaus.</attnBlinking_stateBody>
+		<attnBlinking_actionBody>Apžiūrėkite produktą, nustatykite klaidą, tada ją pašalinkite.</attnBlinking_actionBody>
+		<alternating_title>Dega įspėjamoji, parengties ir vykdymo lemputės. Nedega spausdinimo kasetės lemputė.</alternating_title>
+		<alternating_stateBody>Inicijuojamas formuotuvas.</alternating_stateBody>
+		<alternating_actionBody>Jokių veiksmų imtis nereikia. Palaukite, kol bus baigta inicijuoti. Baigus inicijuoti įjungiamas produkto parengties režimas.</alternating_actionBody>
+		<readyOn_attnBlinking_title>Mirksi įspėjamoji lemputė, dega parengties lemputė, o visos kitos lemputės nedega.</readyOn_attnBlinking_title>
+		<readyOn_attnBlinking_stateBody>Įvyko nuolatinė produkto klaida.</readyOn_attnBlinking_stateBody>
+		<readyOn_attnBlinking_actionBody>Norėdami panaikinti klaidą ir išspausdinti prieinamus duomenis, paspauskite vykdymo mygtuką. Jei klaida panaikinta sėkmingai, produktas nustato duomenų apdorojimo būseną ir baigia spausdinti.
+Jei klaidos panaikinti nepavyko, produktas nustato nuolatinės klaidos būseną. Bandykite pašalinti visą spausdinimo medžiagą iš spausdinimo medžiagos kelio ir iš naujo paleisti produktą.</readyOn_attnBlinking_actionBody>
+		<allOn_title>Dega įspėjamoji, parengties ir vykdymo lemputės. Nedega spausdinimo kasetės lemputė.</allOn_title>
+		<allOn_stateBody>Įvyko nepataisoma produkto klaida, kurios jis negali pašalinti.</allOn_stateBody>
+		<allOn_actionBody>1. Išjunkite produktą.&#xD;2. Palaukite 30 sekundžių, tada vėl įjunkite produktą.&#xD;3. Palaukite, kol bus inicijuotas produktas.
+Jei klaida kartojasi, kreipkitės į HP klientų aptarnavimo tarnybą.</allOn_actionBody>
+		<ready_tonerOn_title>Dega parengties ir spausdinimo kasetės lemputės. Visos kitos lemputės išjungtos.</ready_tonerOn_title>
+		<ready_tonerOn_stateBody>Baigiasi spausdinimo kasetės galiojimas.</ready_tonerOn_stateBody>
+		<ready_tonerOn_actionBody>Užsakykite naują spausdinimo kasetę ir laikykite ją paruoštą naudoti.</ready_tonerOn_actionBody>
+		<tonerBlinking_title>Mirksi spausdinimo kasetės lemputė. Visos kitos lemputės išjungtos.</tonerBlinking_title>
+		<tonerBlinking_stateBody>Spausdinimo kasetė buvo išimta iš produkto.</tonerBlinking_stateBody>
+		<tonerBlinking_actionBody>Įdėkite spausdinimo kasetę į produktą.</tonerBlinking_actionBody>
+	</lt>
+</document>
+

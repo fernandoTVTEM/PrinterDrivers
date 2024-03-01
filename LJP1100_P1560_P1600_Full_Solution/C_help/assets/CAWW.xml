@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?><document>
+	<text name="searchHP" targetName="searchHPCom"><span class="yellow12Bold">» Realitzar una cerca a HP.com</span></text>
+	<text name="search">Cercar</text>
+	<text name="close">Tanca</text>
+	<text name="productTitle" anchor="center" aX="546" y="203"><span class="white16Center">HP LaserJet Professional<br/>Impressores sèrie P1100</span></text>
+	<text name="applicationTitle" anchor="right" aX="41" y="27"><span class="white24Right">Ajuda i centre d'aprenentatge</span></text>
+	<text name="laserjet" anchor="left" aX="100" y="24"><span class="white24Bold">LASERJET</span></text>
+	<topBarLinks>
+		<text name="webSupport" targetName="webSupport"><span class="white12">Servei tècnic del web</span></text>
+		<text name="sureSupply" targetName="sureSupply"><span class="white12">SureSupply</span></text>
+		<text name="hpSite" targetName="hpSite"><span class="white12">hp.com</span></text>
+	</topBarLinks>
+	<bottomButtons>
+		<button name="everydayJobs" menuName="menu1" x="9" y="532"><span class="white14Bold">Tasques diàries</span></button>
+		<button name="manageMaintain" menuName="menu2" x="238" y="532"><span class="white14Bold">Gestionar i mantenir</span></button>
+		<button name="solveProblem" menuName="menu3" x="467" y="532"><span class="white14Bold">Solucionar un problema</span></button>
+	</bottomButtons>
+	<menuList menuType="main" name="main1" x="20" y="200">
+		<text>
+			<span class="yellow16Bold">CERCA RÀPIDA</span>
+		</text>
+		<text targetName="PrinterLightPatterns"><span class="white14">» Patrons de llums de la impressora</span></text>
+		<text targetName="ReplaceThePrintCartridge"><span class="white14">» Substituir el cartutx d'impressió</span></text>
+		<text targetName="ClearPaperJams"><span class="white14">» Eliminar els embussos de paper</span></text>
+		<text targetName="GetIpAddressOfAPrinterInNetwork"><span class="white14">» Obtenir l'adreça IP d'una impressora en xarxa</span></text>
+		<text targetName="PaperAndPrintMedia"><span class="white14">» Paper i suport d'impressió</span></text>
+		<text targetName="LoadPaperTrays"><span class="white14">» Carregar safates de paper</span></text>
+		<text targetName="UseHpEprint"><span class="white14">» Utilitzar l'HP ePrint</span></text>
+	</menuList>
+	<menuList menuType="main" name="main2_local" x="20" y="430">
+		<text targetName="userGuideDialogTarget">
+			<span class="white18">» Explorar la guia de l’usuari</span>
+		</text>
+	</menuList>
+	<menuList menuType="main" name="main2_si" x="20" y="430">
+		<text targetName="onlineUserGuide">
+			<span class="white18">» Explorar la guia de l’usuari</span>
+		</text>
+	</menuList>
+	<menuList name="menu1">
+		<text><span class="yellow11Bold">Treballs d’impressió</span></text>
+		<text targetName="CancelAPrintJob"><span class="white12">» Cancel·lar una tasca d'impressió</span></text>
+		<text targetName="OpenThePrinterDriver"><span class="white12">» Obrir el controlador de la impressora</span></text>
+		<text targetName="GetHelpForAnyPrintOption"><span class="white12">» Obtenir ajuda per a les opcions d'impressió</span></text>
+		<text targetName="SelectAPageSize"><span class="white12">» Seleccionar una mida de pàgina</span></text>
+		<text targetName="PrintOnBothSidesDuplex"><span class="white12">» Imprimir per les dues cares (dúplex)</span></text>
+		<text targetName="SelectPageOrientation"><span class="white12">» Seleccionar l'orientació de la pàgina</span></text>
+		<text targetName="SetPaperAndQualityOptions"><span class="white12">» Definir les opcions de tipus de paper i qualitat</span></text>
+		<text targetName="CreateABooklet"><span class="white12">» Crear un fullet</span></text>
+		<text targetName="ScaleADocumentToFitPageSize"><span class="white12">» Ajustar un document perquè s'adeqüi a la mida de la pàgina</span></text>
+		<text targetName="PrintOnPrePrintedLetterheadOrForms"><span class="white12">» Imprimir en formularis o capçaleres preimpresos</span></text>
+		<text targetName="PrintOnHeavyPaper"><span class="white12">» Imprimir en paper gruixut</span></text>
+		<text targetName="PrintOnSpecialPaper"><span class="white12">» Imprimir en paper especial</span></text>
+		<text targetName="PrintTheFirstOrLastPageOnDifferentPaper"><span class="white12">» Imprimir la primera o l’última pàgina en un paper diferent</span></text>
+	</menuList>
+	<menuList name="menu2">
+		<text targetName="PrintInformationPages"><span class="white12">» Imprimir una pàgina d'informació</span></text>
+		<text targetName="ReplaceThePrintCartridge"><span class="white12">» Substituir el cartutx d'impressió</span></text>
+		<text targetName="PrintACleaningPage"><span class="white12">» Imprimir una pàgina de neteja</span></text>
+		<text targetName="ChangeEnergySettings"><span class="white12">» Canviar els paràmetres d'energia</span></text>
+	</menuList>
+	<menuList name="menu3">
+		<text targetName="ClearPaperJams"><span class="white12">» Eliminar els embussos de paper</span></text>
+		<text targetName="ReduceSteamOrVapor"><span class="white12">» Reduir el vapor o el baf</span></text>
+		<text targetName="InterpretPrinterLightPatterns"><span class="white12">» Interpretar els patrons de llums de la impressora</span></text>
+		<text targetName="SolveImageQualityProblems"><span class="white12">» Solucionar problemes de qualitat d'imatge</span></text>
+		<text targetName="WirelessTroubleshooting"><span class="white12">» Solució de problemes per a equips sense fils</span></text>
+	</menuList>
+	<dialog name="userGuideDialog">
+		<menuList>
+			<text targetName="localUserGuide"><span class="white14">» Obrir la guia d’usuari al meu equip</span></text>
+			<text><span class="white14">o</span></text>
+			<text targetName="onlineUserGuide"><span class="white14">» Obrir l’última versió al web</span></text>
+		</menuList>
+	</dialog>
+</document>

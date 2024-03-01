@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><document>
+	<fi>
+		<header>Tulkitse ohjauspaneelin valokuviot</header>
+		<view_labels>»Näytä ohjauspaneelin tekstit</view_labels>
+		<state_of_the_product>Tuotteen tila</state_of_the_product>
+		<action>Toimenpide</action>
+		<wlan_button>Langattoman verkon painike</wlan_button>
+		<wlan_light>Langattoman verkon merkkivalo</wlan_light>
+		<ready_light>Valmis-merkkivalo</ready_light>
+		<attn_light>Huomio-merkkivalo</attn_light>
+		<cancel_button>Peruutuspainike</cancel_button>
+		<allOff_title>Kaikki merkkivalot ovat sammuneina.</allOff_title>
+		<allOff_stateBody>Tuote on Autom. pois -tilassa tai siitä on katkaistu virta.</allOff_stateBody>
+		<allOff_actionBody>Poista Autom. pois -tila käytöstä tai kytke tuotteeseen virta painamalla virtakytkintä.</allOff_actionBody>
+		<readyOn_title>Valmis-merkkivalo palaa, ja Huomio-merkkivalo on sammuneena.</readyOn_title>
+		<readyOn_stateBody>Tuote on valmis-tilassa.</readyOn_stateBody>
+		<readyOn_actionBody>Tämä ei vaadi toimenpiteitä. Tuote on valmis vastaanottamaan tulostustyön.</readyOn_actionBody>
+		<readyBlinking_title>Valmis-merkkivalo vilkkuu, ja Huomio-merkkivalo on sammuneena.</readyBlinking_title>
+		<readyBlinking_stateBody>Tuote vastaanottaa tai käsittelee tietoja.</readyBlinking_stateBody>
+		<readyBlinking_actionBody>Tämä ei vaadi toimenpiteitä. Tuote vastaanottaa tai käsittelee tulostustyötä.</readyBlinking_actionBody>
+		<attnBlinking_title>Huomio-merkkivalo vilkkuu, ja Valmis-merkkivalo on sammuneena.</attnBlinking_title>
+		<attnBlinking_stateBody>Tuotteessa on ilmennyt virhe, jonka voi korjata tuotteessa, kuten paperitukos, avoin luukku, puuttuva värikasetti tai valitusta lokerosta puuttuva paperi.</attnBlinking_stateBody>
+		<attnBlinking_actionBody>Tutki tuote, määritä virheen syy ja korjaa virhe. Jos virhe johtuu valitusta lokerosta puuttuvasta paperista tai tuote on käsinsyöttötilassa, lisää puuttuvaa paperia lokeroon ja noudata näytön ohjeita tai avaa ja sulje värikasettilokeron luukku, jotta voit jatkaa tulostamista.</attnBlinking_actionBody>
+		<alternating_title>Tilamerkkivalot palavat vuorotellen.</alternating_title>
+		<alternating_stateBody>Tilamerkkivalot palavat vuorotellen, kun tuote käsittelee puhdistussivua.</alternating_stateBody>
+		<alternating_actionBody>Tämä ei vaadi toimenpiteitä. Tuotteen pitäisi siirtyä valmis-tilaan, kun puhdistussivu on käsitelty.</alternating_actionBody>
+		<unison_title>Tilamerkkivalot vilkkuvat samaan aikaan.</unison_title>
+		<unison_stateBody>Tilamerkkivalot vilkkuvat samaan aikaan rasteroijaa alustettaessa.</unison_stateBody>
+		<unison_actionBody>Tämä ei vaadi toimenpiteitä. Odota alustuksen päättymistä. Tuotteen pitäisi siirtyä valmis-tilaan, kun alustus on päättynyt.</unison_actionBody>
+		<readyOn_attnBlinking_title>Huomio-merkkivalo vilkkuu, ja Valmis-merkkivalo palaa.</readyOn_attnBlinking_title>
+		<readyOn_attnBlinking_stateBody>Tuotteessa on ilmennyt jatkuva virhe, josta se palaa itsekseen normaalitilaan.</readyOn_attnBlinking_stateBody>
+		<readyOn_attnBlinking_actionBody>Jos palautuminen onnistui, tuote siirtyy Käsitellään tietoja -tilaan ja tulostaa työn normaalisti.
+Jos palauttaminen ei onnistu, tuote palaa jatkon sallivan virheen tilaan. Kokeile materiaalin poistamista paperiradalta ja tuotteen virran katkaisemista ja kytkemistä uudelleen.</readyOn_attnBlinking_actionBody>
+		<allOn_title>Huomio- ja Valmis-merkkivalot palavat.</allOn_title>
+		<allOn_stateBody>Tuotteessa on ilmennyt vakava virhe, josta se ei voi palata normaalitilaan.</allOn_stateBody>
+		<allOn_actionBody>1. Katkaise tuotteen virta.&#xD;2. Odota 30 sekuntia ja kytke tuotteeseen virta tai kytke virtajohto uudelleen tuotteeseen.&#xD;3. Odota tuotteen alustuksen päättymistä.
+Jos ongelma ei poistu, ota yhteys HP:n asiakaspalveluun.</allOn_actionBody>
+		<wirelessBlinking_title>Langattoman verkon merkkivalo vilkkuu.</wirelessBlinking_title>
+		<wirelessBlinking_stateBody>Tuote yrittää löytää langattoman verkon.</wirelessBlinking_stateBody>
+		<wirelessBlinking_actionBody>Tämä ei vaadi toimenpiteitä.</wirelessBlinking_actionBody>
+		<wirelessOn_title>Langattoman verkon merkkivalo palaa.</wirelessOn_title>
+		<wirelessOn_stateBody>Tuote on yhteydessä langattomaan verkkoon.</wirelessOn_stateBody>
+		<wirelessOn_actionBody>Tämä ei vaadi toimenpiteitä.</wirelessOn_actionBody>
+	</fi>
+</document>
+

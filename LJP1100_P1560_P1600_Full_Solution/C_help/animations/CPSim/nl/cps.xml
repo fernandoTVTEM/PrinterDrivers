@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><document>
+	<nl>
+		<header>Betekenis van lampjes op het bedieningspaneel</header>
+		<view_labels>»Etiketten bedieningspaneel bekijken</view_labels>
+		<state_of_the_product>Status van het product</state_of_the_product>
+		<action>Handeling</action>
+		<wlan_button>Draadloze-netwerkknop</wlan_button>
+		<wlan_light>Draadloze-netwerklampje</wlan_light>
+		<ready_light>Klaar-lampje</ready_light>
+		<attn_light>Attentielampje</attn_light>
+		<cancel_button>Knop Annuleren</cancel_button>
+		<allOff_title>Alle lampjes zijn uit.</allOff_title>
+		<allOff_stateBody>Het product staat in de modus Auto-uit of is uitgeschakeld.</allOff_stateBody>
+		<allOff_actionBody>Druk op de Aan/uit-knop om de modus Auto-uit uit te schakelen of het product in te schakelen.</allOff_actionBody>
+		<readyOn_title>Het klaar-lampje is aan, het attentielampje is uit.</readyOn_title>
+		<readyOn_stateBody>Het product heeft de status Klaar.</readyOn_stateBody>
+		<readyOn_actionBody>Er is geen actie nodig. Het product is klaar voor een afdruktaak.</readyOn_actionBody>
+		<readyBlinking_title>Het klaar-lampje knippert, het attentielampje is uit.</readyBlinking_title>
+		<readyBlinking_stateBody>Het product ontvangt of verwerkt momenteel gegevens.</readyBlinking_stateBody>
+		<readyBlinking_actionBody>Er is geen actie nodig. Het product ontvangt of verwerkt momenteel een afdruktaak.</readyBlinking_actionBody>
+		<attnBlinking_title>Het attentielampje knippert en het klaar-lampje is uit.</attnBlinking_title>
+		<attnBlinking_stateBody>Het product ondervindt een fout die in het product hersteld kan worden, zoals een papierstoring, een open klep, een ontbrekende printcartridge of ontbrekend papier in de juiste lade.</attnBlinking_stateBody>
+		<attnBlinking_actionBody>Controleer het product, bepaal de fout en herstel de fout. Als de fout ontbrekend papier in de juiste lade is of als het product in de modus voor handmatige invoer staat, voert u het juiste papier in de lade in en volgt u de instructies op het scherm, of opent en sluit u de klep van de printcartridge om het afdrukken te hervatten.</attnBlinking_actionBody>
+		<alternating_title>Cyclus van de statuslampjes.</alternating_title>
+		<alternating_stateBody>De statuslampjes branden om en om wanneer het product een reinigingspagina aan het verwerken is.</alternating_stateBody>
+		<alternating_actionBody>Er is geen actie nodig. Het product moet de status Klaar krijgen zodra de reinigingspagina is verwerkt.</alternating_actionBody>
+		<unison_title>Statuslampjes knipperen tegelijk.</unison_title>
+		<unison_stateBody>De statuslampjes knipperen tegelijk tijdens het initialiseren van de formatter.</unison_stateBody>
+		<unison_actionBody>Er is geen actie nodig. Wacht tot het initialiseren is voltooid. Het product moet de status Klaar krijgen zodra de initialisatie is voltooid.</unison_actionBody>
+		<readyOn_attnBlinking_title>Het attentielampje knippert en het klaar-lampje is aan.</readyOn_attnBlinking_title>
+		<readyOn_attnBlinking_stateBody>Er is een terugkerende fout opgetreden. Het product herstelt zichzelf.</readyOn_attnBlinking_stateBody>
+		<readyOn_attnBlinking_actionBody>Als de fout is hersteld, schakelt het product over naar de status Gegevens verwerken en wordt de afdruktaak voltooid.
+Als de fout niet is hersteld, schakelt het product over naar de status voor terugkerende fout. Probeer eventueel afdrukmateriaal uit de papierbaan te verwijderen en het apparaat uit en opnieuw aan te zetten.</readyOn_attnBlinking_actionBody>
+		<allOn_title>Het attentielampje en de klaar-lampjes zijn aan.</allOn_title>
+		<allOn_stateBody>Er is een kritieke fout opgetreden. Het product kan zichzelf niet herstellen.</allOn_stateBody>
+		<allOn_actionBody>1. Schakel het product uit.&#xD;2. Wacht 30 seconden en schakel het product weer in of sluit de voedingskabel weer aan op het product.&#xD;3. Wacht tot het product is geïnitialiseerd.
+Als het probleem aanhoudt, neemt u contact op met de klantenondersteuning van HP.</allOn_actionBody>
+		<wirelessBlinking_title>Het draadloze-netwerklampje knippert.</wirelessBlinking_title>
+		<wirelessBlinking_stateBody>Het product probeert een draadloos netwerk te vinden.</wirelessBlinking_stateBody>
+		<wirelessBlinking_actionBody>Er is geen actie nodig.</wirelessBlinking_actionBody>
+		<wirelessOn_title>Het draadloze-netwerklampje is aan.</wirelessOn_title>
+		<wirelessOn_stateBody>Het product is aangesloten op een draadloos netwerk.</wirelessOn_stateBody>
+		<wirelessOn_actionBody>Er is geen actie nodig.</wirelessOn_actionBody>
+	</nl>
+</document>
+

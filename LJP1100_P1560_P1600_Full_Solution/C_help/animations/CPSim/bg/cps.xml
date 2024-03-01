@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><document>
+	<bg>
+		<header>Начини на светене на панела за управление</header>
+		<view_labels>»Преглед на етикетите на панела за управление</view_labels>
+		<state_of_the_product>Състояние на продукта</state_of_the_product>
+		<action>Действие</action>
+		<wlan_button>Бутона за безжична мрежа</wlan_button>
+		<wlan_light>Лампичка за безжична мрежа</wlan_light>
+		<ready_light>Лампичка "готовност"</ready_light>
+		<attn_light>Лампичка "внимание"</attn_light>
+		<cancel_button>Бутон "Отказ"</cancel_button>
+		<allOff_title>Всички лампички са изключени.</allOff_title>
+		<allOff_stateBody>Продуктът е в режим на автоматично изключване или е изключен.</allOff_stateBody>
+		<allOff_actionBody>Натиснете бутона за захранването, за да деактивирате режима на автоматично изключване или за да включите продукта.</allOff_actionBody>
+		<readyOn_title>Лампичката "готовност" свети, а лампичката "внимание" е изключена.</readyOn_title>
+		<readyOn_stateBody>Продуктът е в състояние на готовност.</readyOn_stateBody>
+		<readyOn_actionBody>Не е необходимо никакво действие. Продуктът е готов да получи задание за печат.</readyOn_actionBody>
+		<readyBlinking_title>Лампичката "готовност" мига, а лампичката "внимание" е изключена.</readyBlinking_title>
+		<readyBlinking_stateBody>Продуктът получава или обработва данни.</readyBlinking_stateBody>
+		<readyBlinking_actionBody>Не е необходимо никакво действие. Продуктът получава или обработва задание за печат.</readyBlinking_actionBody>
+		<attnBlinking_title>Лампичката "внимание" мига, а лампичката "готовност" е изключена.</attnBlinking_title>
+		<attnBlinking_stateBody>Възникнала е грешка в продукта, която може да се коригира в него, като например засядане на хартия, отворена врата, липса на печатаща касета или липса на хартия в съответната тава.</attnBlinking_stateBody>
+		<attnBlinking_actionBody>Проверете продукта, определете грешката и я коригирайте. Ако грешката е липса на хартия в съответната тава или продуктът е в режим на ръчно подаване на хартия, поставете подходящ тип хартия в тавата и следвайте екранните инструкции или отворете и затворете вратичката на печатащата касета, за да възобновите отпечатването.</attnBlinking_actionBody>
+		<alternating_title>Лампичките за състоянието светят последователно.</alternating_title>
+		<alternating_stateBody>Лампичките за състоянието светват последователно, когато продуктът обработва почистваща страница.</alternating_stateBody>
+		<alternating_actionBody>Не е необходимо никакво действие. Продуктът трябва да се превключи в състояние на готовност след обработването на почистващата страница.</alternating_actionBody>
+		<unison_title>Лампичките за състоянието мигат едновременно.</unison_title>
+		<unison_stateBody>Лампичките за състоянието мигат едновременно през времето на инициализиране на модула за форматиране.</unison_stateBody>
+		<unison_actionBody>Не е необходимо никакво действие. Изчакайте да изтече времето за инициализиране. Продуктът трябва да се превключи в състояние на готовност след изтичане на времето за инициализиране.</unison_actionBody>
+		<readyOn_attnBlinking_title>Лампичката "внимание" мига, а лампичката "готовност" е включена.</readyOn_attnBlinking_title>
+		<readyOn_attnBlinking_stateBody>Възникнала е повтаряща се грешка, от която продуктът ще се възстанови сам.</readyOn_attnBlinking_stateBody>
+		<readyOn_attnBlinking_actionBody>Ако отстраняването е успешно, продуктът продължава с "Обработване на данни" и довършва заданието.
+Ако отстраняването не е успешно, продуктът продължава с "Повтаряща се грешка". Опитайте се да отстраните носителите от пътя на медията и включете и изключете захранването на устройството.</readyOn_attnBlinking_actionBody>
+		<allOn_title>Лампичките "внимание" и "готовност" светят.</allOn_title>
+		<allOn_stateBody>Възникнала е фатална грешка, от която продуктът не може да се възстанови.</allOn_stateBody>
+		<allOn_actionBody>1. Изключете продукта.&#xD;2. Изчакайте 30 секунди и включете продукта или включете отново захранващия кабел към продукта.&#xD;3. Изчакайте продуктът да се инициализира.
+Ако грешката не бъде отстранена, свържете се отдела за поддръжка на клиенти на HP.</allOn_actionBody>
+		<wirelessBlinking_title>Лампичката за безжична мрежа мига.</wirelessBlinking_title>
+		<wirelessBlinking_stateBody>Продуктът се опитва да намери безжична мрежа.</wirelessBlinking_stateBody>
+		<wirelessBlinking_actionBody>Не е необходимо никакво действие.</wirelessBlinking_actionBody>
+		<wirelessOn_title>Лампичката за безжична мрежа свети.</wirelessOn_title>
+		<wirelessOn_stateBody>Продуктът е свързан към безжична мрежа.</wirelessOn_stateBody>
+		<wirelessOn_actionBody>Не е необходимо никакво действие.</wirelessOn_actionBody>
+	</bg>
+</document>
+

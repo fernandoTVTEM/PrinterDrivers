@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?><document>
+	<text name="searchHP" targetName="searchHPCom"><span class="yellow12Bold">» Пошук на HP.com</span></text>
+	<text name="search">Шукати</text>
+	<text name="close">Закрити</text>
+	<text name="productTitle" anchor="center" aX="546" y="203"><span class="white16Center">HP LaserJet Professional<br/>P1100 Printer series</span></text>
+	<text name="applicationTitle" anchor="right" aX="41" y="27"><span class="white24Right">Центр підтримки та навчання HP</span></text>
+	<text name="laserjet" anchor="left" aX="100" y="24"><span class="white24Bold">LASERJET</span></text>
+	<topBarLinks>
+		<text name="webSupport" targetName="webSupport"><span class="white12">Підтримка в Інтернеті</span></text>
+		<text name="sureSupply" targetName="sureSupply"><span class="white12">SureSupply</span></text>
+		<text name="hpSite" targetName="hpSite"><span class="white12">hp.com</span></text>
+	</topBarLinks>
+	<bottomButtons>
+		<button name="everydayJobs" menuName="menu1" x="9" y="532"><span class="white14Bold">Стандартні завдання</span></button>
+		<button name="manageMaintain" menuName="menu2" x="238" y="532"><span class="white14Bold">Управління й обслуговування</span></button>
+		<button name="solveProblem" menuName="menu3" x="467" y="532"><span class="white14Bold">Усунення несправностей</span></button>
+	</bottomButtons>
+	<menuList menuType="main" name="main1" x="20" y="200">
+		<text>
+			<span class="yellow16Bold">ШВИДКИЙ ПОШУК</span>
+		</text>
+		<text targetName="PrinterLightPatterns"><span class="white14">» Комбінації індикаторів принтера</span></text>
+		<text targetName="ReplaceThePrintCartridge"><span class="white14">» Заміна картриджа</span></text>
+		<text targetName="ClearPaperJams"><span class="white14">» Усунення застрягання паперу</span></text>
+		<text targetName="GetIpAddressOfAPrinterInNetwork"><span class="white14">» Присвоєння IP-адреси принтеру в мережі</span></text>
+		<text targetName="PaperAndPrintMedia"><span class="white14">» Папір та носії друку</span></text>
+		<text targetName="LoadPaperTrays"><span class="white14">» Завантаження паперу в лотки</span></text>
+		<text targetName="UseHpEprint"><span class="white14">» Використання HP ePrint</span></text>
+	</menuList>
+	<menuList menuType="main" name="main2_local" x="20" y="430">
+		<text targetName="userGuideDialogTarget">
+			<span class="white18">» Переглянути посібник користувача</span>
+		</text>
+	</menuList>
+	<menuList menuType="main" name="main2_si" x="20" y="430">
+		<text targetName="onlineUserGuide">
+			<span class="white18">» Переглянути посібник користувача</span>
+		</text>
+	</menuList>
+	<menuList name="menu1">
+		<text><span class="yellow11Bold">Завдання друку</span></text>
+		<text targetName="CancelAPrintJob"><span class="white12">» Скасування завдання друку</span></text>
+		<text targetName="OpenThePrinterDriver"><span class="white12">» Доступ до драйвера принтера</span></text>
+		<text targetName="GetHelpForAnyPrintOption"><span class="white12">» Отримання довідки для будь-якого параметра друку</span></text>
+		<text targetName="SelectAPageSize"><span class="white12">» Вибір розміру сторінки</span></text>
+		<text targetName="PrintOnBothSidesDuplex"><span class="white12">» Двосторонній друк (дуплексний)</span></text>
+		<text targetName="SelectPageOrientation"><span class="white12">» Вибір розміру сторінки</span></text>
+		<text targetName="SetPaperAndQualityOptions"><span class="white12">» Налаштування параметрів паперу і якості друку</span></text>
+		<text targetName="CreateABooklet"><span class="white12">» Створення брошури</span></text>
+		<text targetName="ScaleADocumentToFitPageSize"><span class="white12">» Масштабування документа до розміру сторінки</span></text>
+		<text targetName="PrintOnPrePrintedLetterheadOrForms"><span class="white12">» Друк на бланку чи формі з наддруком</span></text>
+		<text targetName="PrintOnHeavyPaper"><span class="white12">» Друк на цупкому папері</span></text>
+		<text targetName="PrintOnSpecialPaper"><span class="white12">» Друк на спеціальному папері</span></text>
+		<text targetName="PrintTheFirstOrLastPageOnDifferentPaper"><span class="white12">» Друк першої і останньої сторінок на іншому папері</span></text>
+	</menuList>
+	<menuList name="menu2">
+		<text targetName="PrintInformationPages"><span class="white12">» Друк інформаційних сторінок</span></text>
+		<text targetName="ReplaceThePrintCartridge"><span class="white12">» Заміна картриджа</span></text>
+		<text targetName="PrintACleaningPage"><span class="white12">» Друк сторінки очищення</span></text>
+		<text targetName="ChangeEnergySettings"><span class="white12">» Зміна налаштувань затрат енергії</span></text>
+	</menuList>
+	<menuList name="menu3">
+		<text targetName="ClearPaperJams"><span class="white12">» Усунення застрягання паперу</span></text>
+		<text targetName="ReduceSteamOrVapor"><span class="white12">» Зменшення пароутворення</span></text>
+		<text targetName="InterpretPrinterLightPatterns"><span class="white12">» Тлумачення комбінацій індикаторів принтера</span></text>
+		<text targetName="SolveImageQualityProblems"><span class="white12">» Усунення проблем, пов'язаних з якістю зображення</span></text>
+		<text targetName="WirelessTroubleshooting"><span class="white12">» Усунення проблем бездротового з'єднання</span></text>
+	</menuList>
+	<dialog name="userGuideDialog">
+		<menuList>
+			<text targetName="localUserGuide"><span class="white14">» Відкрити посібник користувача на моєму комп’ютері.</span></text>
+			<text><span class="white14">або</span></text>
+			<text targetName="onlineUserGuide"><span class="white14">» Відкрити останню версію в Інтернеті.</span></text>
+		</menuList>
+	</dialog>
+</document>

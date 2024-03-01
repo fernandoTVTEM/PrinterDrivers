@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<en>
+		<header>Interpret control-panel light patterns</header>
+		<view_labels>»View control-panel labels</view_labels>
+		<state_of_the_product>State of the product</state_of_the_product>
+		<action>Action</action>
+		<wlan_button>Wireless network button</wlan_button>
+		<wlan_light>Wireless network light</wlan_light>
+		<ready_light>Ready light</ready_light>
+		<attn_light>Attention light</attn_light>
+		<cancel_button>Cancel button</cancel_button>
+		<allOff_title>All lights are off.</allOff_title>
+		<allOff_stateBody>The product is in Auto-Off mode or is turned off.</allOff_stateBody>
+		<allOff_actionBody>Press the power button to deactivate the Auto-Off mode or to turn on the product.</allOff_actionBody>
+		<readyOn_title>Ready light is on, and attention light is off.</readyOn_title>
+		<readyOn_stateBody>The product is in the ready state.</readyOn_stateBody>
+		<readyOn_actionBody>No action is required. The product is ready to receive a print job.</readyOn_actionBody>
+		<readyBlinking_title>Ready light is blinking, and attention light is off.</readyBlinking_title>
+		<readyBlinking_stateBody>The product is receiving or processing data.</readyBlinking_stateBody>
+		<readyBlinking_actionBody>No action is required. The product is receiving or processing a print job.</readyBlinking_actionBody>
+		<attnBlinking_title>Attention light is blinking, and the ready light is off.</attnBlinking_title>
+		<attnBlinking_stateBody>The product has experienced an error that can be corrected at the product, such as a jam, an open door, the absence of a print cartridge, or the absence of paper in the proper tray.</attnBlinking_stateBody>
+		<attnBlinking_actionBody>Inspect the product, determine the error, and then correct the error. If the error is the absence of paper in the proper tray or the product is in a manual feed mode, put the proper paper in the tray and follow the onscreen instructions, or open and close the print-cartridge door to resume printing.</attnBlinking_actionBody>
+		<alternating_title>Status lights cycle.</alternating_title>
+		<alternating_stateBody>The status lights cycle when the product is processing a cleaning page.</alternating_stateBody>
+		<alternating_actionBody>No action is required. The product should enter the ready state when the cleaning page is processed.</alternating_actionBody>
+		<unison_title>Status lights blink in unison.</unison_title>
+		<unison_stateBody>The status lights blink in unison during the formatter initialization period.</unison_stateBody>
+		<unison_actionBody>No action is required. Wait for the initialization period to end. The product should enter the ready state when the initialization period is finished.</unison_actionBody>
+		<readyOn_attnBlinking_title>Attention light is blinking, and ready light is on.</readyOn_attnBlinking_title>
+		<readyOn_attnBlinking_stateBody>The product has experienced a continual error from which it will recover on its own.</readyOn_attnBlinking_stateBody>
+		<readyOn_attnBlinking_actionBody>If the recovery is successful, the product continues to the Processing Data state and completes the job.
+
+If the recovery is unsuccessful, the product continues to the Continuable Error state. Try removing any media from the media path and turning the product off, and then on again.</readyOn_attnBlinking_actionBody>
+		<allOn_title>The attention and ready lights are on.</allOn_title>
+		<allOn_stateBody>The product has experienced a fatal error from which it cannot recover.</allOn_stateBody>
+		<allOn_actionBody>1. Turn off the product.
+2. Wait 30 seconds, and then turn on the product or reconnect the power cord to the product.
+3. Wait for the product to initialize. 
+
+If the error persists, contact HP customer support.</allOn_actionBody>
+		<wirelessBlinking_title>The wireless light is blinking.</wirelessBlinking_title>
+		<wirelessBlinking_stateBody>The product is attempting to locate a wireless network.</wirelessBlinking_stateBody>
+		<wirelessBlinking_actionBody>No action is required.</wirelessBlinking_actionBody>
+		<wirelessOn_title>The wireless light is on.</wirelessOn_title>
+		<wirelessOn_stateBody>The product is connected to a wireless network.</wirelessOn_stateBody>
+		<wirelessOn_actionBody>No action is required.</wirelessOn_actionBody>
+	</en>
+</document>

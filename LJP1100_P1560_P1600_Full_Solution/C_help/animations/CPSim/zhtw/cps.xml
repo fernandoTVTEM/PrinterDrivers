@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><document>
+	<zhtw>
+		<header>解讀控制面板指示燈模式</header>
+		<view_labels>»檢視控制面板標籤</view_labels>
+		<state_of_the_product>產品狀態</state_of_the_product>
+		<action>操作</action>
+		<wlan_button>無線網路按鈕</wlan_button>
+		<wlan_light>無線網路指示燈</wlan_light>
+		<ready_light>就緒指示燈</ready_light>
+		<attn_light>注意指示燈</attn_light>
+		<cancel_button>取消按鈕</cancel_button>
+		<allOff_title>指示燈全部熄滅。</allOff_title>
+		<allOff_stateBody>產品處於「自動關閉」模式或電源已關閉。</allOff_stateBody>
+		<allOff_actionBody>請按下電源按鈕以解除「自動關閉」模式，或開啟產品電源。</allOff_actionBody>
+		<readyOn_title>就緒指示燈亮起，且注意指示燈熄滅。</readyOn_title>
+		<readyOn_stateBody>產品處於就緒狀態。</readyOn_stateBody>
+		<readyOn_actionBody>不需要採取任何動作。 產品已就緒，可以開始接收列印工作。</readyOn_actionBody>
+		<readyBlinking_title>就緒指示燈閃爍，且注意指示燈熄滅。</readyBlinking_title>
+		<readyBlinking_stateBody>印表機正在接收或處理資料。</readyBlinking_stateBody>
+		<readyBlinking_actionBody>不需要採取任何動作。 印表機正在接收或處理列印工作。</readyBlinking_actionBody>
+		<attnBlinking_title>注意指示燈閃爍，且就緒指示燈熄滅。</attnBlinking_title>
+		<attnBlinking_stateBody>產品發生錯誤，此錯誤可於產品部位進行修正，例如卡紙、機門未關上、缺少碳粉匣、或是紙匣缺紙。</attnBlinking_stateBody>
+		<attnBlinking_actionBody>請檢查產品，判斷錯誤為何，然後加以修正。 如果錯誤是紙匣缺紙或產品處於手動送紙模式，請將適當的紙張放入紙匣，然後遵循螢幕上的指示，或開啟並關閉碳粉匣機門以繼續列印。</attnBlinking_actionBody>
+		<alternating_title>狀態指示燈循環亮起。</alternating_title>
+		<alternating_stateBody>當產品正在處理清潔頁時，狀態指示燈會循環亮起。</alternating_stateBody>
+		<alternating_actionBody>不需要採取任何動作。 當清潔頁處理完成後，產品應該會進入就緒狀態。</alternating_actionBody>
+		<unison_title>狀態指示燈同時閃爍。</unison_title>
+		<unison_stateBody>在電路板初始化階段，狀態指示燈會同時閃爍。</unison_stateBody>
+		<unison_actionBody>不需要採取任何動作。 請等候初始化階段結束。 當初始化階段完成後，產品應該會進入就緒狀態。</unison_actionBody>
+		<readyOn_attnBlinking_title>注意指示燈閃爍，且就緒指示燈亮起。</readyOn_attnBlinking_title>
+		<readyOn_attnBlinking_stateBody>產品發生連續錯誤，並將從這些錯誤中自行恢復。</readyOn_attnBlinking_stateBody>
+		<readyOn_attnBlinking_actionBody>如果能成功恢復，產品會變成「處理資料中」狀態並完成工作。
+如果無法成功恢復，產品會變成「可繼續的錯誤」狀態。 嘗試由紙材通道中移除所有紙材並將產品電源關閉，然後再次開啟電源。</readyOn_attnBlinking_actionBody>
+		<allOn_title>注意和就緒指示燈亮起。</allOn_title>
+		<allOn_stateBody>產品發生嚴重錯誤，無法從此錯誤中恢復。</allOn_stateBody>
+		<allOn_actionBody>1. 關閉產品電源。&#xD;2. 等候 30 秒，然後開啟產品電源或重新將電源線連接至產品。&#xD;3. 等候產品初始化。
+如果持續發生錯誤，請聯絡 HP 客戶支援部門。</allOn_actionBody>
+		<wirelessBlinking_title>無線網路指示燈閃爍。</wirelessBlinking_title>
+		<wirelessBlinking_stateBody>產品正在嘗試找到無線網路。</wirelessBlinking_stateBody>
+		<wirelessBlinking_actionBody>不需要採取任何動作。</wirelessBlinking_actionBody>
+		<wirelessOn_title>無線網路指示燈亮起。</wirelessOn_title>
+		<wirelessOn_stateBody>產品已連接上無線網路。</wirelessOn_stateBody>
+		<wirelessOn_actionBody>不需要採取任何動作。</wirelessOn_actionBody>
+	</zhtw>
+</document>
+

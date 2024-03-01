@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><document>
+	<kk>
+		<header>Басқару үстеліндегі жарық үлгілері</header>
+		<view_labels>»Басқару үстелі белгілеріне қарау</view_labels>
+		<state_of_the_product>Өнім күйі</state_of_the_product>
+		<action>Әрекет</action>
+		<wlan_button>Сымсыз желі түймешігі</wlan_button>
+		<wlan_light>Сымсыз желі шамы</wlan_light>
+		<ready_light>Дайындық шырағы</ready_light>
+		<attn_light>Ескерту шырағы</attn_light>
+		<cancel_button>Болдырмау түймешігі</cancel_button>
+		<allOff_title>Барлық шамдар өшірілген.</allOff_title>
+		<allOff_stateBody>Өнім Авто-Сөну күйінде немесе өшірілген.</allOff_stateBody>
+		<allOff_actionBody>Авто-Сөну күйін тоқтату немесе өнімді қосу үшін қуат түймешігін басыңыз.</allOff_actionBody>
+		<readyOn_title>Дайындық жарығы жанып тұр, және ескерту жарығы өшкен.</readyOn_title>
+		<readyOn_stateBody>Өнім дайын күйде.</readyOn_stateBody>
+		<readyOn_actionBody>Ешқандай әрекет талап етілмейді. Өнім басып шығару тапсырмасын қабылдауға дайын.</readyOn_actionBody>
+		<readyBlinking_title>Дайын жарығы жыпықтап тұр, және ескерту жарығы өшкен.</readyBlinking_title>
+		<readyBlinking_stateBody>Өнім деректерді қабылдауда немесе пысықтауда.</readyBlinking_stateBody>
+		<readyBlinking_actionBody>Ешқандай әрекет талап етілмейді. Өнім басып шығару тапсырмасын қабылдауда немесе пысықтауда.</readyBlinking_actionBody>
+		<attnBlinking_title>Ескерту жарығы жыпықтап тұр, және дайындық жарығы өшкен.</attnBlinking_title>
+		<attnBlinking_stateBody>Кептелу, қапқақтың дұрыс жабылмауы, баспа картриджінің болмауы немесе керекті науада қағаздың болмауы сияқты өнімдің өзінде түзетілетін қате пайда болды.</attnBlinking_stateBody>
+		<attnBlinking_actionBody>Өнімді қарап шығып, қатені анықтаңыз да, сол қатені түзетіңіз. Егер қатенің себебі қағаздың керекті науада болмауы немесе өнім қағазды қолмен салу күйіне орнатылғаны болса, қағазды қажетті науаға салып, бейнебетте шығатын нұсқауларды орындаңыз, немесе баспа картридж қапқағын ашып жабыңыз.</attnBlinking_actionBody>
+		<alternating_title>Күй жарықтарының кезектесіп жануы.</alternating_title>
+		<alternating_stateBody>Өнім тазалағыш бетті пысықтаған кезде күй жарықтары кезектесіп жанады.</alternating_stateBody>
+		<alternating_actionBody>Ешқандай әрекет талап етілмейді. Тазалағыш бет пысықталғаннан кейін өнім дайындық күйіне кіруі тиіс.</alternating_actionBody>
+		<unison_title>Күй жарықтары бір мезгілде жыпықтауы.</unison_title>
+		<unison_stateBody>Форматтағыш баптандыру уақытында күй шамдары бір мезгілде жыпықтайды.</unison_stateBody>
+		<unison_actionBody>Ешқандай әрекет талап етілмейді. Баптандыру мезгілінің аяқталуын күте тұрыңыз. Баптандыру мезгілі аяқталғаннан кейін өнім дайын күйіне кіруі тиіс.</unison_actionBody>
+		<readyOn_attnBlinking_title>Ескерту жарығы жыпықтап тұр, және дайындық жарығы жанып тұр.</readyOn_attnBlinking_title>
+		<readyOn_attnBlinking_stateBody>Өнімдің өзі жоятын жиі кездесетін қате пайда болды.</readyOn_attnBlinking_stateBody>
+		<readyOn_attnBlinking_actionBody>Егер қате сәтті жойылса, өнім Деректерді Пысықтау күйін жалғастырады да, тапсырманы бітіреді.
+Егер қате жойылмаса, өнім Жалғасатын Қате күйінде қалады. Деректер жолағынан деректерді жойып, өнімді өшіріңіз де, оны тағы қосып көріңіз.</readyOn_attnBlinking_actionBody>
+		<allOn_title>Ескерту және дайындық жарықтары жанып тұр.</allOn_title>
+		<allOn_stateBody>Өнімдің өзі жоя алмайтын қате пайда болды.</allOn_stateBody>
+		<allOn_actionBody>1. Өнімді өшіріңіз.&#xD;2. 30 секунд күтіңіз де, өнімді қайта қосыңыз немесе қуат сымын өнімнен ажыратып, қайта қосыңыз.&#xD;3. Өнімдің бапталуын күтіңіз. 
+Егер қате жойылмаса, HP ұйымының тұтынушыларға қызмет көрсету бөлімімен байланысыңыз.</allOn_actionBody>
+		<wirelessBlinking_title>Сымсыз желі жарығының жыпықтауы.</wirelessBlinking_title>
+		<wirelessBlinking_stateBody>Өнім сымсыз желіні табуға тырысуда.</wirelessBlinking_stateBody>
+		<wirelessBlinking_actionBody>Ешқандай әрекет талап етілмейді.</wirelessBlinking_actionBody>
+		<wirelessOn_title>Сымсыз желі жарығы жанып тұр.</wirelessOn_title>
+		<wirelessOn_stateBody>Өнім сымсыз желіге қосылған.</wirelessOn_stateBody>
+		<wirelessOn_actionBody>Ешқандай әрекет талап етілмейді.</wirelessOn_actionBody>
+	</kk>
+</document>

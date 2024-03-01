@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?><document>
+	<text name="searchHP" targetName="searchHPCom"><span class="yellow12Bold">» Suche auf HP.com durchführen</span></text>
+	<text name="search">Suchen</text>
+	<text name="close">Schließen</text>
+	<text name="productTitle" anchor="center" aX="556" y="203"><span class="white16Center">HP LaserJet Professional<br/>P1560 und P1600 Druckerserie</span></text>
+	<text name="applicationTitle" anchor="right" aX="41" y="27"><span class="white24Right">Hilfe und Information</span></text>
+	<text name="laserjet" anchor="left" aX="100" y="24"><span class="white24Bold">LASERJET</span></text>
+	<topBarLinks>
+		<text name="webSupport" targetName="webSupport"><span class="white12">Webunterstützung</span></text>
+		<text name="sureSupply" targetName="sureSupply"><span class="white12">SureSupply</span></text>
+		<text name="hpSite" targetName="hpSite"><span class="white12">hp.com</span></text>
+	</topBarLinks>
+	<bottomButtons>
+		<button name="everydayJobs" menuName="menu1" x="9" y="532"><span class="white14Bold">Tägliche Aufgaben</span></button>
+		<button name="manageMaintain" menuName="menu2" x="238" y="532"><span class="white14Bold">Verwalten und Warten</span></button>
+		<button name="solveProblem" menuName="menu3" x="467" y="532"><span class="white14Bold">Beheben von Problemen</span></button>
+	</bottomButtons>
+	<menuList menuType="main" name="main1" x="20" y="200">
+		<text>
+			<span class="yellow16Bold">SCHNELLSUCHE</span>
+		</text>
+		<text targetName="PrinterLightPatterns"><span class="white14">» Drucker-Leuchtmuster</span></text>
+		<text targetName="ReplaceThePrintCartridge"><span class="white14">» Ersetzen der Druckpatrone</span></text>
+		<text targetName="ClearPaperJams"><span class="white14">» Papierstaus bereinigen</span></text>
+		<text targetName="FindTheIpAddress"><span class="white14">» Suchen Sie die IP-Adresse </span></text>
+		<text targetName="LoadPaperTrays"><span class="white14">» Beladen der Papierfächer</span></text>
+		<text targetName="UseHpEprint"><span class="white14">» HP ePrint verwenden</span></text>
+	</menuList>
+	<menuList menuType="main" name="main2_local" x="20" y="430">
+		<text targetName="userGuideDialogTarget">
+			<span class="white18">» Benutzerhandbuch durchsuchen</span>
+		</text>
+	</menuList>
+	<menuList menuType="main" name="main2_si" x="20" y="430">
+		<text targetName="onlineUserGuide">
+			<span class="white18">» Benutzerhandbuch durchsuchen</span>
+		</text>
+	</menuList>
+	<menuList name="menu1">
+		<text><span class="yellow11Bold">Druckaufgaben</span></text>
+		<text targetName="CancelAPrintJob"><span class="white12">» Abbrechen eines Druckjobs</span></text>
+		<text targetName="OpenThePrinterDriver"><span class="white12">» Öffnen des Druckertreibers</span></text>
+		<text targetName="GetHelpForAnyPrintOption"><span class="white12">» Hilfe zu jeder gewünschten Druckoption aufrufen</span></text>
+		<text targetName="SelectAPageSize"><span class="white12">» Auswählen eines Papierformats</span></text>
+		<text targetName="PrintOnBothSidesDuplex"><span class="white12">» Beidseitiges Drucken (Duplexdruck)</span></text>
+		<text targetName="PrintMultiplePagesPerSheet"><span class="white12">» Drucken mehrerer Seiten pro Blatt</span></text>
+		<text targetName="SelectPageOrientation"><span class="white12">» Auswählen der Seitenorientierung</span></text>
+		<text targetName="SetPaperAndQualityOptions"><span class="white12">» Festlegen der Papier- und Qualitätsoptionen</span></text>
+		<text targetName="CreateABooklet"><span class="white12">» Erstellen einer Broschüre</span></text>
+		<text targetName="ScaleADocumentToFitPageSize"><span class="white12">» Anpassen eines Dokuments auf Seitenformat</span></text>
+		<text targetName="PrintOnPrePrintedLetterheadOrForms"><span class="white12">» Drucken auf vorgedruckten Briefköpfen oder Formularen</span></text>
+		<text targetName="PrintOnSpecialPaper"><span class="white12">» Drucken auf Spezialpapier</span></text>
+		<text targetName="PrintTheFirstOrLastPageOnDifferentPaper"><span class="white12">» Drucken der ersten oder letzten Seite auf unterschiedlichem Papier</span></text>
+	</menuList>
+	<menuList name="menu2">
+		<text targetName="ViewTheHpEmbeddedWebServerEws"><span class="white12">» Anzeigen des integrierten Webservers von Hewlett-Packard (EWS)</span></text>
+		<text targetName="PrintInformationPages"><span class="white12">» Drucken von Informationsseiten</span></text>
+		<text targetName="ReplaceThePrintCartridge"><span class="white12">» Ersetzen der Druckpatrone</span></text>
+		<text targetName="PrintACleaningPage"><span class="white12">» Drucken einer Reinigungsseite</span></text>
+		<text targetName="ChangeEnergySettings"><span class="white12">» Ändern der Energieeinstellungen</span></text>
+		<text targetName="SetQuietMode"><span class="white12">» Leisen Modus einstellen</span></text>
+		<text targetName="FindOrChangeTheIpAddress"><span class="white12">» Suchen oder Ändern der IP-Adresse</span></text>
+	</menuList>
+	<menuList name="menu3">
+		<text targetName="ClearPaperJams"><span class="white12">» Papierstaus bereinigen</span></text>
+		<text targetName="ReduceSteamOrVapor"><span class="white12">» Reduzieren von Dampf oder Dunst</span></text>
+		<text targetName="InterpretPrinterLightPatterns"><span class="white12">» Interpretieren von Drucker-Leuchtmustern</span></text>
+		<text targetName="SolveImageQualityProblems"><span class="white12">» Lösen von Problemen mit der Bildqualität</span></text>
+	</menuList>
+	<dialog name="userGuideDialog">
+		<menuList>
+			<text targetName="localUserGuide"><span class="white14">» Das Benutzerhandbuch auf meinem Computer öffnen.</span></text>
+			<text><span class="white14">Oder</span></text>
+			<text targetName="onlineUserGuide"><span class="white14">» Die aktuellste Version online öffnen.</span></text>
+		</menuList>
+	</dialog>
+	<dialog name="webSupportDialog">
+		<menuList>
+			<text targetName="webSupport1560"><span class="white14">» HP Laserjet Pro P1560</span></text>
+			<text targetName="webSupport1600"><span class="white14">» HP Laserjet Pro P1600</span></text>
+		</menuList>
+	</dialog>
+</document>

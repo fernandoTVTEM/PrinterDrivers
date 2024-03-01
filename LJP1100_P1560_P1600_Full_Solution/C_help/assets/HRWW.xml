@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?><document>
+	<text name="searchHP" targetName="searchHPCom"><span class="yellow12Bold">» Pokrenite pretraživanje na web-mjestu HP.com</span></text>
+	<text name="search">Pretraživanje</text>
+	<text name="close">Zatvori</text>
+	<text name="productTitle" anchor="center" aX="546" y="203"><span class="white16Center">HP LaserJet Professional<br/>Serija pisača P1100</span></text>
+	<text name="applicationTitle" anchor="right" aX="41" y="27"><span class="white24Right">Centar za podršku i učenje</span></text>
+	<text name="laserjet" anchor="left" aX="100" y="24"><span class="white24Bold">LASERJET</span></text>
+	<topBarLinks>
+		<text name="webSupport" targetName="webSupport"><span class="white12">Web-podrška</span></text>
+		<text name="sureSupply" targetName="sureSupply"><span class="white12">SureSupply</span></text>
+		<text name="hpSite" targetName="hpSite"><span class="white12">hp.com</span></text>
+	</topBarLinks>
+	<bottomButtons>
+		<button name="everydayJobs" menuName="menu1" x="9" y="532"><span class="white14Bold">Svakodnevni zadaci</span></button>
+		<button name="manageMaintain" menuName="menu2" x="238" y="532"><span class="white14Bold">Upravljanje i održavanje</span></button>
+		<button name="solveProblem" menuName="menu3" x="467" y="532"><span class="white14Bold">Rješavanje problema</span></button>
+	</bottomButtons>
+	<menuList menuType="main" name="main1" x="20" y="200">
+		<text>
+			<span class="yellow16Bold">BRZO TRAŽENJE</span>
+		</text>
+		<text targetName="PrinterLightPatterns"><span class="white14">» Indikatori pisača</span></text>
+		<text targetName="ReplaceThePrintCartridge"><span class="white14">» Zamjena spremnika za ispis</span></text>
+		<text targetName="ClearPaperJams"><span class="white14">» Uklanjanje zaglavljenog papira</span></text>
+		<text targetName="GetIpAddressOfAPrinterInNetwork"><span class="white14">» Dobivanje IP adrese pisača u mreži</span></text>
+		<text targetName="PaperAndPrintMedia"><span class="white14">» Papir i mediji za ispis</span></text>
+		<text targetName="LoadPaperTrays"><span class="white14">» Umetanje u ladice za papir</span></text>
+		<text targetName="UseHpEprint"><span class="white14">» Korištenje značajke HP ePrint</span></text>
+	</menuList>
+	<menuList menuType="main" name="main2_local" x="20" y="430">
+		<text targetName="userGuideDialogTarget">
+			<span class="white18">» Pretraživanje korisničkog priručnika</span>
+		</text>
+	</menuList>
+	<menuList menuType="main" name="main2_si" x="20" y="430">
+		<text targetName="onlineUserGuide">
+			<span class="white18">» Pretraživanje korisničkog priručnika</span>
+		</text>
+	</menuList>
+	<menuList name="menu1">
+		<text><span class="yellow11Bold">Ispisni zadaci</span></text>
+		<text targetName="CancelAPrintJob"><span class="white12">» Poništavanje zadatka ispisa</span></text>
+		<text targetName="OpenThePrinterDriver"><span class="white12">» Otvaranje upravljačkog programa pisača</span></text>
+		<text targetName="GetHelpForAnyPrintOption"><span class="white12">» Dobivanje pomoći za bilo koju opciju ispisa</span></text>
+		<text targetName="SelectAPageSize"><span class="white12">» Odabir veličine stranice</span></text>
+		<text targetName="PrintOnBothSidesDuplex"><span class="white12">» Ispis na obje strane (obostrani ispis)</span></text>
+		<text targetName="SelectPageOrientation"><span class="white12">» Odabir usmjerenja stranice</span></text>
+		<text targetName="SetPaperAndQualityOptions"><span class="white12">» Postavljanje opcija papira i kvalitete</span></text>
+		<text targetName="CreateABooklet"><span class="white12">» Stvaranje brošure</span></text>
+		<text targetName="ScaleADocumentToFitPageSize"><span class="white12">» Prilagođavanje veličine dokumenta veličini stranice</span></text>
+		<text targetName="PrintOnPrePrintedLetterheadOrForms"><span class="white12">» Ispis na unaprijed ispisane papire sa zaglavljem ili obrasce</span></text>
+		<text targetName="PrintOnHeavyPaper"><span class="white12">» Ispis na teškom papiru</span></text>
+		<text targetName="PrintOnSpecialPaper"><span class="white12">» Ispis na posebnom papiru</span></text>
+		<text targetName="PrintTheFirstOrLastPageOnDifferentPaper"><span class="white12">» Ispis prve i posljednje stranice na različitom papiru</span></text>
+	</menuList>
+	<menuList name="menu2">
+		<text targetName="PrintInformationPages"><span class="white12">» Ispis informativnih stranica</span></text>
+		<text targetName="ReplaceThePrintCartridge"><span class="white12">» Zamjena spremnika za ispis</span></text>
+		<text targetName="PrintACleaningPage"><span class="white12">» Ispisivanje stranice za čišćenje</span></text>
+		<text targetName="ChangeEnergySettings"><span class="white12">» Promjena postavki štednje energije</span></text>
+	</menuList>
+	<menuList name="menu3">
+		<text targetName="ClearPaperJams"><span class="white12">» Uklanjanje zaglavljenog papira</span></text>
+		<text targetName="ReduceSteamOrVapor"><span class="white12">» Smanjenje pare ili isparavanja</span></text>
+		<text targetName="InterpretPrinterLightPatterns"><span class="white12">» Tumačenje indikatora pisača</span></text>
+		<text targetName="SolveImageQualityProblems"><span class="white12">» Rješavanje problema s kvalitetom slike</span></text>
+		<text targetName="WirelessTroubleshooting"><span class="white12">» Rješavanje problema s bežičnom vezom</span></text>
+	</menuList>
+	<dialog name="userGuideDialog">
+		<menuList>
+			<text targetName="localUserGuide"><span class="white14">» Otvaranje korisničkog priručnika na računalu.</span></text>
+			<text><span class="white14">Ili</span></text>
+			<text targetName="onlineUserGuide"><span class="white14">» Otvaranje najnovije verzije na Webu.</span></text>
+		</menuList>
+	</dialog>
+</document>

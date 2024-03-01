@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<kk>
+		<header>Басқару үстеліндегі жарық үлгілері</header>
+		<view_labels>»Басқару үстелі белгілеріне қарау</view_labels>
+		<toner_light>Тонер жарығы</toner_light>
+		<attn_light>Ескерту жарығы</attn_light>
+		<ready_light>Дайындық жарығы</ready_light>
+		<go_light>Өту жарығы</go_light>
+		<go_button>Өту түймешігі</go_button>
+		<cancel_button>Болдырмау түймешігі</cancel_button>
+		<state_of_the_product>Өнім күйі</state_of_the_product>
+		<action>Әрекет</action>
+		<allOff_title>Басқару үстеліндегі жарықтар өшкен.</allOff_title>
+		<allOff_choice>Қуат түймешігінің шамы жанған ба немесе өшкен бе?</allOff_choice>
+		<off>Өшкен</off>
+		<on>Жанған</on>
+		<allOff1_stateBody>Қуат түймешігінің шамы өшкен. Өнім Авто-Сөну күйінде немесе өшірілген.</allOff1_stateBody>
+		<allOff1_actionBody>Авто-Сөну күйін тоқтату немесе өнімді қосу үшін қуат түймешігін басыңыз.</allOff1_actionBody>
+		<allOff2_stateBody>Қуат түймешігінің шамы жанған. Форматтағыш өнімге дұрыс қосылмаған.</allOff2_stateBody>
+		<allOff2_actionBody>Авто-Сөну күйін тоқтату немесе өнімді қосу үшін қуат түймешігін басыңыз.</allOff2_actionBody>
+		<readyOn_title>Дайындық жарығы жанып тұр, басқа жарықтар өшкен.</readyOn_title>
+		<readyOn_stateBody>Өнім дайын күйде.</readyOn_stateBody>
+		<readyOn_actionBody>Ешқандай әрекет талап етілмейді. Өнім басып шығару тапсырмасын қабылдауға дайын.</readyOn_actionBody>
+		<readyBlinking_title>Дайындық жарығы жыпықтап тұр, басқа жарықтар өшкен.</readyBlinking_title>
+		<readyBlinking_stateBody>Өнім басып шығару тапсырмасын қабылдауда немесе пысықтауда.</readyBlinking_stateBody>
+		<readyBlinking_actionBody>Ешқандай әрекет талап етілмейді. Өнім басып шығару тапсырмасын қабылдауда немесе пысықтауда.
+Ағымдағы тапсырманы болдырмау үшін болдырмау түймешігін басыңыз.</readyBlinking_actionBody>
+		<attnBlinking_title>Ескерту жарығы жыпықтап тұр, басқа жарықтар өшкен.</attnBlinking_title>
+		<attnBlinking_stateBody>Кептелу, қапқақтың дұрыс жабылмауы, баспа картриджінің болмауы немесе керекті науада қағаздың болмауы сияқты өнімдің өзінде түзетілетін қате пайда болды.</attnBlinking_stateBody>
+		<attnBlinking_actionBody>Өнімді қарап шығып, қатені анықтаңыз да, сол қатені түзетіңіз.</attnBlinking_actionBody>
+		<alternating_title>Ескерту, дайын және өту жарықтары кезектесіп жануда. Тонер жарығы өшкен.</alternating_title>
+		<alternating_stateBody>Форматтағыш бапталуда.</alternating_stateBody>
+		<alternating_actionBody>Ешқандай әрекет талап етілмейді. Баптандыру мезгілінің аяқталуын күте тұрыңыз. Баптандыру мезгілі аяқталғаннан кейін өнім дайындық күйіне кіреді.</alternating_actionBody>
+		<readyOn_attnBlinking_title>Ескерту жарығы жыпықтап тұр, дайындық жарығы жанып тұр және басқа жарықтар өшкен.</readyOn_attnBlinking_title>
+		<readyOn_attnBlinking_stateBody>Өнім жиі кездесетін қатеге ұшырады.</readyOn_attnBlinking_stateBody>
+		<readyOn_attnBlinking_actionBody>Қатені жойып, деректерді басып шығару үшін өту түймешігін басыңыз. Егер қате сәтті жойылса, өнім Деректерді Пысықтау күйін жалғастырады да, тапсырманы бітіреді. 
+Егер қате жойылмаса, өнім Жалғасатын Қате күйінде қалады. Деректер жолағынан деректерді жойып, өнімді өшіріңіз де, оны тағы қосып көріңіз.</readyOn_attnBlinking_actionBody>
+		<allOn_title>Ескерту, дайын және өту жарықтары жанып тұр. Тонер жарығы өшкен.</allOn_title>
+		<allOn_stateBody>Өнімдің өзі жоя алмайтын қате пайда болды.</allOn_stateBody>
+		<allOn_actionBody>1. Өнімді өшіріңіз.&#xD;2. 30 секунд күтіңіз де, өнімді қайта қосыңыз.&#xD;3. Өнімдің бапталуын күтіңіз.
+Егер қате жойылмаса, HP ұйымының тұтынушыларға қызмет көрсету бөлімімен байланысыңыз.</allOn_actionBody>
+		<ready_tonerOn_title>Дайындық және тонер жарықтары жанып тұр. Басқа шамдар өшкен.</ready_tonerOn_title>
+		<ready_tonerOn_stateBody>Баспа картриджінің қызмет көрсету мерзімі аяқталуда.</ready_tonerOn_stateBody>
+		<ready_tonerOn_actionBody>Жаңа баспа картриджін сатып алып, оны орнатыңыз.</ready_tonerOn_actionBody>
+		<tonerBlinking_title>Тонер жарығы жыпықтап тұр. Басқа шамдар өшкен.</tonerBlinking_title>
+		<tonerBlinking_stateBody>Баспа картриджі өнімнен шығарып алынған.</tonerBlinking_stateBody>
+		<tonerBlinking_actionBody>Баспа картриджін өнімге қайта салыңыз.</tonerBlinking_actionBody>
+	</kk>
+</document>

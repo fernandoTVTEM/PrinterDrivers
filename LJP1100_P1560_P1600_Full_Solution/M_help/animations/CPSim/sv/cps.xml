@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<sv>
+		<header>Avläsa mönstren för lamporna på kontrollpanelen</header>
+		<view_labels>»Visa kontrollpanelens etiketter</view_labels>
+		<toner_light>Tonerkassettlampa</toner_light>
+		<attn_light>Lampan Åtgärda</attn_light>
+		<ready_light>Lampan Redo</ready_light>
+		<go_light>Lampan Start</go_light>
+		<go_button>Knappen Start</go_button>
+		<cancel_button>Knappen Avbryt</cancel_button>
+		<state_of_the_product>Produktens status</state_of_the_product>
+		<action>Åtgärd</action>
+		<allOff_title>Alla lampor på kontrollpanelen är släckta.</allOff_title>
+		<allOff_choice>Är strömbrytarens bakgrundsbelysning tänd eller släckt?</allOff_choice>
+		<off>Släckt</off>
+		<on>Tänd</on>
+		<allOff1_stateBody>Strömbrytarens bakgrundsbelysning är släckt. Produkten är antingen i autostoppläge, eller avstängd.</allOff1_stateBody>
+		<allOff1_actionBody>Tryck på strömbrytaren för att inaktivera autostoppläget eller för att slå på produkten.</allOff1_actionBody>
+		<allOff2_stateBody>Strömbrytarens bakgrundsbelysning är tänd. Formateraren är inte ordentligt ansluten till produkten.</allOff2_stateBody>
+		<allOff2_actionBody>Tryck på strömbrytaren för att inaktivera autostoppläget eller för att slå på produkten.</allOff2_actionBody>
+		<readyOn_title>Lampan Redo lyser, och alla andra lampor är släckta.</readyOn_title>
+		<readyOn_stateBody>Produkten är i läget Redo.</readyOn_stateBody>
+		<readyOn_actionBody>Ingen åtgärd behövs. Produkten är klar för utskrift.</readyOn_actionBody>
+		<readyBlinking_title>Lampan Redo blinkar, och alla andra lampor är släckta.</readyBlinking_title>
+		<readyBlinking_stateBody>Produkten bearbetar eller tar emot en utskrift.</readyBlinking_stateBody>
+		<readyBlinking_actionBody>Ingen åtgärd behövs. Produkten bearbetar eller tar emot en utskrift.
+Du avbryter den pågående utskriften genom att trycka på Avbryt.</readyBlinking_actionBody>
+		<attnBlinking_title>Lampan Åtgärda blinkar, och alla andra lampor är släckta.</attnBlinking_title>
+		<attnBlinking_stateBody>Ett problem har upptäckts i produkten. Problemet kan korrigeras vid maskinen. Det kan t.ex. gälla papperstrassel, en öppen lucka, saknad tonerkassett eller slut på papper i relevant fack.</attnBlinking_stateBody>
+		<attnBlinking_actionBody>Kontrollera produkten, avgör vad problemet gäller, och åtgärda det.</attnBlinking_actionBody>
+		<alternating_title>Lamporna Åtgärd, Redo och Start tänds i tur och ordning. Tonerlampan är släckt.</alternating_title>
+		<alternating_stateBody>Formateraren initieras.</alternating_stateBody>
+		<alternating_actionBody>Ingen åtgärd behövs. Vänta tills initieringen är klar. Produkten övergår till redoläge så snart initieringssekvensen har slutförts.</alternating_actionBody>
+		<readyOn_attnBlinking_title>Lampan Åtgärda blinkar, lampan Redo lyser, och alla andra lampor är släckta.</readyOn_attnBlinking_title>
+		<readyOn_attnBlinking_stateBody>Ett konstant fel har inträffat i produkten.</readyOn_attnBlinking_stateBody>
+		<readyOn_attnBlinking_actionBody>Du återställer från felet och skriver ut tillgängliga data genom att trycka på knappen Start. Om återställningen lyckas fortsätter produkten i läget för databearbetning och slutför utskriften.
+Om återställningen inte lyckas fortsätter produkten till läget för godartade fel. Försök att ta bort material från materialbanan, och sedan stänga av och slå på produkten.</readyOn_attnBlinking_actionBody>
+		<allOn_title>Lamporna Åtgärd, Redo och Start lyser. Tonerlampan är släckt.</allOn_title>
+		<allOn_stateBody>Ett oåterkalleligt fel har identifierats i produkten, som inte kan åtgärdas automatiskt.</allOn_stateBody>
+		<allOn_actionBody>1. Stäng av produkten.&#xD;2. Vänta i 30 sekunder och slå sedan på produkten.&#xD;3. Vänta medan produkten initieras.
+Om felet kvarstår kontaktar du HP:s kundtjänst.</allOn_actionBody>
+		<ready_tonerOn_title>Lamporna Redo och Toner lyser. Alla andra lampor är släckta.</ready_tonerOn_title>
+		<ready_tonerOn_stateBody>Tonerkassetten håller på att ta slut.</ready_tonerOn_stateBody>
+		<ready_tonerOn_actionBody>Beställ en ny tonerkassett och ha den i beredskap.</ready_tonerOn_actionBody>
+		<tonerBlinking_title>Tonerlampan blinkar. Alla andra lampor är släckta.</tonerBlinking_title>
+		<tonerBlinking_stateBody>Tonerkassetten har tagits bort från produkten.</tonerBlinking_stateBody>
+		<tonerBlinking_actionBody>Sätt tillbaka tonerkassetten i produkten.</tonerBlinking_actionBody>
+	</sv>
+</document>
+

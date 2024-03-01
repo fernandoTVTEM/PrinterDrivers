@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><document>
+	<hu>
+		<header>A kezelőpanel jelzőfényeinek értelmezése</header>
+		<view_labels>»A kezelőpanel jelzései</view_labels>
+		<state_of_the_product>A készülék állapota</state_of_the_product>
+		<action>Művelet</action>
+		<wlan_button>Vezeték nélküli hálózat gombja</wlan_button>
+		<wlan_light>Vezeték nélküli hálózat jelzőfény</wlan_light>
+		<ready_light>Üzemkész jelzőfény</ready_light>
+		<attn_light>Figyelmeztető jelzőfény</attn_light>
+		<cancel_button>Törlés gomb</cancel_button>
+		<allOff_title>Egy jelzőfény sem világít.</allOff_title>
+		<allOff_stateBody>A készülék Automatikus kikapcsolás üzemmódban van, vagy ki van kapcsolva.</allOff_stateBody>
+		<allOff_actionBody>Nyomja meg a bekapcsoló gombot az Automatikus kikapcsolás üzemmódból való kilépéshez vagy a készülék bekapcsolásához.</allOff_actionBody>
+		<readyOn_title>Az üzemkész jelzőfény világít, a figyelmeztető jelzőfény nem világít.</readyOn_title>
+		<readyOn_stateBody>A készülék üzemkész állapotban van.</readyOn_stateBody>
+		<readyOn_actionBody>Nincs teendő. A készülék készen áll a nyomtatási feladatok fogadására.</readyOn_actionBody>
+		<readyBlinking_title>Az üzemkész jelzőfény villog, a figyelmeztető jelzőfény nem világít.</readyBlinking_title>
+		<readyBlinking_stateBody>A készülék adatokat fogad vagy dolgoz fel.</readyBlinking_stateBody>
+		<readyBlinking_actionBody>Nincs teendő. A készülék nyomtatási feladatot fogad vagy dolgoz fel.</readyBlinking_actionBody>
+		<attnBlinking_title>A figyelmeztető jelzőfény villog, az üzemkész jelzőfény nem világít.</attnBlinking_title>
+		<attnBlinking_stateBody>A készülék olyan hibát észlelt, amelyet a készüléknél lehet elhárítani. Például elakadt a papír, egy fedél nyitva van, hiányzik egy nyomtatópatron, vagy nincs papír a megfelelő tálcában.</attnBlinking_stateBody>
+		<attnBlinking_actionBody>Vizsgálja meg a készüléket, határozza meg a hibát, és javítsa ki. Ha a hiba oka az, hogy a megfelelő tálcán nincs papír, vagy a készülék kézi adagolásra van állítva, tegye be a megfelelő papírt a tálcába, és kövesse a képernyőn megjelenő utasításokat, vagy nyissa fel és csukja le a nyomtatópatron fedelét a nyomtatás folytatásához.</attnBlinking_actionBody>
+		<alternating_title>Az állapotjelző fények felváltva villognak.</alternating_title>
+		<alternating_stateBody>Az állapotjelző fények akkor villognak felváltva, ha a készülék egy tisztítóoldalt dolgoz fel.</alternating_stateBody>
+		<alternating_actionBody>Nincs teendő. A tisztítóoldal feldolgozása után a készüléknek vissza kell térnie az üzemkész állapotba.</alternating_actionBody>
+		<unison_title>Az állapotjelző fények egyszerre villognak.</unison_title>
+		<unison_stateBody>Az állapotjelző fények a formázó inicializálása során villognak felváltva.</unison_stateBody>
+		<unison_actionBody>Nincs teendő. Várja meg az inicializálás folyamatának végét. Az inicializálási folyamat végén a készüléknek vissza kell térnie az üzemkész állapotba.</unison_actionBody>
+		<readyOn_attnBlinking_title>A figyelmeztető jelzőfény villog, az üzemkész jelzőfény világít.</readyOn_attnBlinking_title>
+		<readyOn_attnBlinking_stateBody>A készülék olyan folyamatos hibát észlelt, amelyet önállóan fog elhárítani.</readyOn_attnBlinking_stateBody>
+		<readyOn_attnBlinking_actionBody>Sikeres helyreállítás esetén a készülék adatfeldolgozás állapotba lép, és befejezi a feladatot.
+Ha a helyreállítás nem sikerül, a készülék visszatér a folytatható hiba állapotba. Próbálja meg eltávolítani a hordozót a papírútból, és kikapcsolni, majd bekapcsolni a készüléket.</readyOn_attnBlinking_actionBody>
+		<allOn_title>A figyelmeztető és az üzemkész jelzőfény is világít.</allOn_title>
+		<allOn_stateBody>A készülék súlyos hibát észlelt, amelyet nem lehet elhárítani.</allOn_stateBody>
+		<allOn_actionBody>1. Kapcsolja ki a készüléket.&#xD;2. Várjon 30 másodpercet, és kapcsolja be a készüléket, vagy csatlakoztassa a tápkábelt újból a készülékhez.&#xD;3. Várja meg, amíg a készülék végrehajtja az inicializálást.
+Ha a hiba nem szűnik meg, forduljon a HP ügyfélszolgálatához.</allOn_actionBody>
+		<wirelessBlinking_title>A vezeték nélküli jelzőfény villog.</wirelessBlinking_title>
+		<wirelessBlinking_stateBody>A készülék vezeték nélküli hálózatot keres.</wirelessBlinking_stateBody>
+		<wirelessBlinking_actionBody>Nincs teendő.</wirelessBlinking_actionBody>
+		<wirelessOn_title>A vezeték nélküli jelzőfény világít.</wirelessOn_title>
+		<wirelessOn_stateBody>A készülék vezeték nélküli hálózathoz csatlakozik.</wirelessOn_stateBody>
+		<wirelessOn_actionBody>Nincs teendő.</wirelessOn_actionBody>
+	</hu>
+</document>
+

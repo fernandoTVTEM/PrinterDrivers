@@ -1,0 +1,89 @@
+<HTML>
+<head>
+<script type="text/javascript">
+
+function forwardNS() 
+{
+if (window.navigator.language.substr(0,2)=="zh")
+	{
+	var myLang=(window.navigator.language.substr(3,2));
+	if (myLang=="cn")
+		{
+		myLang="zhcn";
+		}
+	if (myLang=="sg")
+		{
+		myLang="zhcn";
+		}
+	else if (myLang=="tw")
+		{
+		myLang="zhtw";
+		}
+	else if (myLang=="hk")
+		{
+		myLang="zhtw";
+		}
+	else if (myLang=="mo")
+		{
+		myLang="zhtw";
+		}
+	}
+	else
+	{
+	var myLang=(window.navigator.language.substr(0,2));
+	}
+
+window.location.href = myLang + "/" + "cps.html";
+}
+function forwardIE()
+{
+if (window.navigator.browserLanguage.substr(0,2)=="zh")
+	{
+	var myLang=(window.navigator.browserLanguage.substr(3,2));
+	if (myLang=="cn")
+		{
+		myLang="zhcn";
+		}
+	if (myLang=="sg")
+		{
+		myLang="zhcn";
+		}
+	else if (myLang=="tw")
+		{
+		myLang="zhtw";
+		}
+	else if (myLang=="hk")
+		{
+		myLang="zhtw";
+		}
+	else if (myLang=="mo")
+		{
+		myLang="zhtw";
+		}
+	}
+	else
+	{
+	var myLang=(window.navigator.browserLanguage.substr(0,2));
+	}
+
+window.location.href = myLang + "/" + "cps.html";
+}
+function detectBrowser()
+{
+var browser=navigator.appName;
+var b_version=navigator.appVersion;
+var version=parseFloat(b_version);
+if (browser=="Netscape")
+{
+forwardNS();
+}
+else
+{
+forwardIE();
+}
+}
+</script>
+</head>
+<body onload="detectBrowser()">
+</body>
+</HTML>

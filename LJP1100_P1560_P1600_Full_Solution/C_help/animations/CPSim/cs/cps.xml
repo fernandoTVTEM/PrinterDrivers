@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><document>
+	<cs>
+		<header>Interpretace významu indikátorů na ovládacím panelu</header>
+		<view_labels>»Zobrazit popisky ovládacího panelu</view_labels>
+		<state_of_the_product>Stav produktu</state_of_the_product>
+		<action>Potřebná činnost</action>
+		<wlan_button>Tlačítko Bezdrátová síť</wlan_button>
+		<wlan_light>Indikátor Bezdrátová síť</wlan_light>
+		<ready_light>Indikátor Připraveno</ready_light>
+		<attn_light>Indikátor Pozor</attn_light>
+		<cancel_button>Tlačítko Zrušit</cancel_button>
+		<allOff_title>Všechny indikátory jsou vypnuty.</allOff_title>
+		<allOff_stateBody>Produkt je v režimu Automatické vypnutí nebo je vypnut.</allOff_stateBody>
+		<allOff_actionBody>Stisknutím tlačítka napájení deaktivujete režim Automatické vypnutí nebo zapnete produkt.</allOff_actionBody>
+		<readyOn_title>Indikátor Připraveno svítí a indikátor Pozor nesvítí.</readyOn_title>
+		<readyOn_stateBody>Produkt je ve stavu Připraveno.</readyOn_stateBody>
+		<readyOn_actionBody>Nepožaduje se žádný zásah. Produkt je připraven přijmout tiskovou úlohu.</readyOn_actionBody>
+		<readyBlinking_title>Indikátor Připraveno bliká a indikátor Pozor nesvítí.</readyBlinking_title>
+		<readyBlinking_stateBody>Produkt přijímá nebo zpracovává data.</readyBlinking_stateBody>
+		<readyBlinking_actionBody>Nepožaduje se žádný zásah. Produkt přijímá nebo zpracovává tiskovou úlohu.</readyBlinking_actionBody>
+		<attnBlinking_title>Indikátor Pozor bliká a indikátor Připraveno nesvítí.</attnBlinking_title>
+		<attnBlinking_stateBody>V produktu došlo k chybě, kterou lze v rámci produktu vyřešit, například uvíznutí papíru, otevřená dvířka, chybějící tisková kazeta nebo chybějící papír v příslušném zásobníku.</attnBlinking_stateBody>
+		<attnBlinking_actionBody>Zkontrolujte produkt, zjistěte, k jaké chybě došlo, a pak tuto chybu vyřešte. Pokud chybí papír v příslušném zásobníku nebo je-li produkt v režimu ručního podávání, vložte do zásobníku odpovídající papír a postupujte podle pokynů na obrazovce nebo otevřete a znovu zavřete dvířka tiskové kazety, aby bylo možné pokračovat v tisku.</attnBlinking_actionBody>
+		<alternating_title>Indikátory stavu cyklují.</alternating_title>
+		<alternating_stateBody>Indikátory stavu cyklují, pokud produkt zpracovává čisticí stránku.</alternating_stateBody>
+		<alternating_actionBody>Nepožaduje se žádný zásah. Po dokončení zpracování čisticí stránky by produkt měl přejít do stavu Připraveno.</alternating_actionBody>
+		<unison_title>Indikátory stavu jednotně blikají.</unison_title>
+		<unison_stateBody>Indikátory stavu jednotně blikají během inicializace formátoru.</unison_stateBody>
+		<unison_actionBody>Nepožaduje se žádný zásah. Počkejte na dokončení inicializace. Po dokončení inicializace by produkt měl přejít do stavu Připraveno.</unison_actionBody>
+		<readyOn_attnBlinking_title>Indikátor Pozor bliká a indikátor Připraveno svítí.</readyOn_attnBlinking_title>
+		<readyOn_attnBlinking_stateBody>V produktu došlo k průběžné chybě, z níž se sám zotaví.</readyOn_attnBlinking_stateBody>
+		<readyOn_attnBlinking_actionBody>Pokud bylo zotavení úspěšné, produkt přejde do stavu Zpracování dat a dokončí úlohu.
+Pokud zotavení nebylo úspěšné, produkt se vrátí do stavu Chyba s možností pokračování. Zkuste odstranit všechna média z dráhy médií a pak produkt vypnout a znovu zapnout.</readyOn_attnBlinking_actionBody>
+		<allOn_title>Indikátory Připraveno a Pozor svítí.</allOn_title>
+		<allOn_stateBody>V produktu došlo ke kritické chybě, z níž se nemůže zotavit.</allOn_stateBody>
+		<allOn_actionBody>1. Vypněte produkt.&#xD;2. Počkejte 30 sekund a pak produkt zapněte nebo k produktu znovu připojte napájecí kabel.&#xD;3. Počkejte na dokončení inicializace produktu.
+Pokud problém trvá, kontaktuje středisko služeb zákazníkům HP.</allOn_actionBody>
+		<wirelessBlinking_title>Indikátor Bezdrátová síť bliká.</wirelessBlinking_title>
+		<wirelessBlinking_stateBody>Produkt se pokouší vyhledat bezdrátovou síť.</wirelessBlinking_stateBody>
+		<wirelessBlinking_actionBody>Nepožaduje se žádný zásah.</wirelessBlinking_actionBody>
+		<wirelessOn_title>Indikátor Bezdrátová síť svítí.</wirelessOn_title>
+		<wirelessOn_stateBody>Produkt je připojen k bezdrátové síti.</wirelessOn_stateBody>
+		<wirelessOn_actionBody>Nepožaduje se žádný zásah.</wirelessOn_actionBody>
+	</cs>
+</document>
+

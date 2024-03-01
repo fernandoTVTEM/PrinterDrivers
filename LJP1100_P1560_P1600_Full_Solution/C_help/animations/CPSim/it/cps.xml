@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><document>
+	<it>
+		<header>Interpretazione sequenze delle spie del pannello di controllo</header>
+		<view_labels>»Visualizza le etichette del pannello di controllo</view_labels>
+		<state_of_the_product>Stato del prodotto</state_of_the_product>
+		<action>Azione</action>
+		<wlan_button>Pulsante Rete senza fili</wlan_button>
+		<wlan_light>Spia Rete senza fili</wlan_light>
+		<ready_light>Spia Pronta</ready_light>
+		<attn_light>Spia Attenzione</attn_light>
+		<cancel_button>Pulsante Annulla</cancel_button>
+		<allOff_title>Tutte le spie sono spente.</allOff_title>
+		<allOff_stateBody>Il prodotto è nella modalità Spegnimento auto o è spento.</allOff_stateBody>
+		<allOff_actionBody>Premere il pulsante di accensione per disattivare la modalità Spegnimento auto o per accendere il prodotto.</allOff_actionBody>
+		<readyOn_title>La spia Pronta è accesa e la spia Attenzione è spenta.</readyOn_title>
+		<readyOn_stateBody>Il prodotto è nella stato Pronto.</readyOn_stateBody>
+		<readyOn_actionBody>Non è richiesto alcun intervento. Il prodotto è pronto a ricevere un processo di stampa.</readyOn_actionBody>
+		<readyBlinking_title>La spia Pronta è lampeggiante e la spia Attenzione è spenta.</readyBlinking_title>
+		<readyBlinking_stateBody>Il prodotto sta ricevendo o elaborando dati.</readyBlinking_stateBody>
+		<readyBlinking_actionBody>Non è richiesto alcun intervento. Il prodotto sta ricevendo o elaborando un processo di stampa.</readyBlinking_actionBody>
+		<attnBlinking_title>La spia Attenzione è lampeggiante e la spia Pronta è spenta.</attnBlinking_title>
+		<attnBlinking_stateBody>Si è verificato un errore che può essere corretto intervenendo sul prodotto, ad esempio inceppamento, sportello aperto, assenza di una cartuccia di stampa o assenza della carta nel cassetto corretto.</attnBlinking_stateBody>
+		<attnBlinking_actionBody>Ispezionare il prodotto, determinare l'errore e correggerlo. Se l'errore è dovuto all'assenza di carta nel cassetto appropriato o il prodotto si trova nella modalità di alimentazione manuale, caricare la carta nel cassetto appropriato e seguire le istruzioni visualizzate oppure aprire o chiudere lo sportello delle cartucce di stampa per riprendere la stampa.</attnBlinking_actionBody>
+		<alternating_title>Le spie di stato si accendono in sequenza.</alternating_title>
+		<alternating_stateBody>Le spie di stato si accendono in sequenza quando il prodotto sta elaborando una pagina di pulizia.</alternating_stateBody>
+		<alternating_actionBody>Non è richiesto alcun intervento. Il prodotto passa allo stato Pronto al termine dell'elaborazione della pagina di pulizia.</alternating_actionBody>
+		<unison_title>Le spie di stato lampeggiano insieme.</unison_title>
+		<unison_stateBody>Le spie di stato lampeggiano insieme durante il periodo di inizializzazione del formatter.</unison_stateBody>
+		<unison_actionBody>Non è richiesto alcun intervento. Attendere la fine del periodo di inizializzazione. Il prodotto passa allo stato Pronto al termine del periodo di inizializzazione.</unison_actionBody>
+		<readyOn_attnBlinking_title>La spia Attenzione è lampeggiante e la spia Pronta è accesa.</readyOn_attnBlinking_title>
+		<readyOn_attnBlinking_stateBody>Si è verificato un errore non critico dal quale il prodotto si ripristina autonomamente.</readyOn_attnBlinking_stateBody>
+		<readyOn_attnBlinking_actionBody>Se il ripristino dell'errore ha esito positivo, il prodotto passa allo stato di elaborazione dati e completa il processo.
+Se il ripristino dell'errore non ha esito positivo, il prodotto passa allo stato di Errore non critico. Provare a rimuovere i supporti dal percorso della carta e spegnere e riaccendere il prodotto.</readyOn_attnBlinking_actionBody>
+		<allOn_title>Le spie Attenzione e Pronta sono accese.</allOn_title>
+		<allOn_stateBody>Si è verificato un errore irreversibile dal quale il prodotto non può ripristinarsi.</allOn_stateBody>
+		<allOn_actionBody>1. Spegnere il prodotto.&#xD;2. Attendere 30 secondi, quindi accendere il prodotto o ricollegare il cavo di alimentazione al prodotto.&#xD;3. Attendere l'inizializzazione del prodotto.
+Se l'errore persiste, rivolgersi all'Assistenza clienti HP.</allOn_actionBody>
+		<wirelessBlinking_title>La spia Rete senza fili lampeggia.</wirelessBlinking_title>
+		<wirelessBlinking_stateBody>Il prodotto sta tentando di individuare una rete senza fili.</wirelessBlinking_stateBody>
+		<wirelessBlinking_actionBody>Non è richiesto alcun intervento.</wirelessBlinking_actionBody>
+		<wirelessOn_title>La spia Rete senza fili è accesa.</wirelessOn_title>
+		<wirelessOn_stateBody>Il prodotto è connesso a una rete senza fili.</wirelessOn_stateBody>
+		<wirelessOn_actionBody>Non è richiesto alcun intervento.</wirelessOn_actionBody>
+	</it>
+</document>
+

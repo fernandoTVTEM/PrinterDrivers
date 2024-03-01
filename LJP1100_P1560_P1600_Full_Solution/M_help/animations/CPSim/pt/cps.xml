@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<pt>
+		<header>Interpretar padrões de luz do painel de controle</header>
+		<view_labels>»Exibir etiquetas do painel de controle</view_labels>
+		<toner_light>Luz do toner</toner_light>
+		<attn_light>Luz Atenção</attn_light>
+		<ready_light>Luz Pronta</ready_light>
+		<go_light>Luz Iniciar</go_light>
+		<go_button>Botão Iniciar</go_button>
+		<cancel_button>Botão Cancelar</cancel_button>
+		<state_of_the_product>Estado do produto</state_of_the_product>
+		<action>Ação</action>
+		<allOff_title>Todas as luzes do painel de controle estão apagadas.</allOff_title>
+		<allOff_choice>A luz traseira do botão liga/desliga está acesa ou apagada?</allOff_choice>
+		<off>Apagada</off>
+		<on>Acesa</on>
+		<allOff1_stateBody>A luz traseira do botão liga/desliga está apagada. O produto está no modo Auto-Desligar ou está desligado.</allOff1_stateBody>
+		<allOff1_actionBody>Pressione o botão liga/desliga para desativar o modo Auto-Desligar ou para ligar o produto.</allOff1_actionBody>
+		<allOff2_stateBody>A luz traseira do botão liga/desliga está acesa. O formatador não está conectado ao produto corretamente.</allOff2_stateBody>
+		<allOff2_actionBody>Pressione o botão liga/desliga para desativar o modo Auto-Desligar ou para ligar o produto.</allOff2_actionBody>
+		<readyOn_title>A luz pronta está acesa e todas as outras luzes, apagadas.</readyOn_title>
+		<readyOn_stateBody>O produto está no estado Pronto.</readyOn_stateBody>
+		<readyOn_actionBody>Nenhuma ação necessária. O produto está pronto para receber um trabalho de impressão.</readyOn_actionBody>
+		<readyBlinking_title>A luz pronta está piscando e todas as outras luzes estão apagadas.</readyBlinking_title>
+		<readyBlinking_stateBody>O produto está processando ou recebendo um trabalho de impressão.</readyBlinking_stateBody>
+		<readyBlinking_actionBody>Nenhuma ação necessária. O produto está processando ou recebendo um trabalho de impressão.
+Para cancelar o trabalho atual, pressione o botão Cancelar.</readyBlinking_actionBody>
+		<attnBlinking_title>A luz Atenção está piscando e todas as outras luzes estão apagadas.</attnBlinking_title>
+		<attnBlinking_stateBody>Foi encontrado um erro que pode ser corrigido no produto, como congestionamento, porta aberta, ausência de cartucho de tinta ou ausência de papel na bandeja correta.</attnBlinking_stateBody>
+		<attnBlinking_actionBody>Avalie o produto, identifique o erro e corrija-o.</attnBlinking_actionBody>
+		<alternating_title>Ciclo das luzes Atenção, Pronta e Iniciar. A luz do toner está apagada.</alternating_title>
+		<alternating_stateBody>O formatador está inicializando.</alternating_stateBody>
+		<alternating_actionBody>Nenhuma ação necessária. Aguarde o término do período de inicialização. O produto entrará no estado Pronto quando o período de inicialização estiver concluído.</alternating_actionBody>
+		<readyOn_attnBlinking_title>A luz Atenção está piscando, a luz Pronta está acesa e todas as outras luzes estão apagadas.</readyOn_attnBlinking_title>
+		<readyOn_attnBlinking_stateBody>O produto encontrou um erro contínuo.</readyOn_attnBlinking_stateBody>
+		<readyOn_attnBlinking_actionBody>Para recuperar-se do erro e imprimir todos os dados disponíveis, pressione o botão Iniciar. Se a recuperação for bem-sucedida, o produto continuará no estado Processamento de dados e concluirá o trabalho.
+Se a recuperação não for bem-sucedida, o produto continuará no estado Erro contínuo. Tente remover a mídia da passagem, desligue o produto e ligue-o novamente.</readyOn_attnBlinking_actionBody>
+		<allOn_title>As luzes Atenção, Pronta e Iniciar estão acesas. A luz do toner está apagada.</allOn_title>
+		<allOn_stateBody>O produto encontrou um erro fatal do qual não pode se recuperar.</allOn_stateBody>
+		<allOn_actionBody>1. Desligue o produto.&#xD;2. Aguarde 30 segundos e ligue o produto.&#xD;3. Aguarde a inicialização do produto.
+Se o problema persistir, entre em contato com a Assistência ao cliente HP.</allOn_actionBody>
+		<ready_tonerOn_title>As luzes Pronta e do toner estão acesas. Todas as outras luzes estão apagadas.</ready_tonerOn_title>
+		<ready_tonerOn_stateBody>O cartucho de impressão está quase acabando.</ready_tonerOn_stateBody>
+		<ready_tonerOn_actionBody>Compre um novo cartucho de impressão e o tenha pronto para substituição.</ready_tonerOn_actionBody>
+		<tonerBlinking_title>A luz do toner está piscando. Todas as outras luzes estão apagadas.</tonerBlinking_title>
+		<tonerBlinking_stateBody>O cartucho de impressão foi removido do produto.</tonerBlinking_stateBody>
+		<tonerBlinking_actionBody>Insira novamente o cartucho de impressão no produto.</tonerBlinking_actionBody>
+	</pt>
+</document>
+

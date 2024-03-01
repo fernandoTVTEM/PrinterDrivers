@@ -1,0 +1,63 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns="http://www.w3.org/TR/REC-html40"><HEAD>
+<TITLE>Poznámka o bránach firewall</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=windows-1250">
+<META content="Microsoft FrontPage 6.0" name=GENERATOR>
+<LINK href="../M5%20Help%20files/help.css"
+type=text/css rel=stylesheet>
+<SCRIPT language=javascript src="" type=text/javascript></SCRIPT>
+<style>
+<!--
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<LINK href="help.css"
+type=text/css rel=stylesheet>
+</HEAD>
+<BODY>
+<H3>Zistila sa brána firewall</H3>
+	<P><font face="Arial">Aby bolo možné komunikovať cez bránu Windows Firewall, inštalačný program sa pridá do zoznamu výnimiek aplikácií brány firewall podľa špecifikácií spoločnosti Microsoft.  To umožní inštalačnému programu komunikovať s tlačiarňami na sieti počas inštalácie.</font></P>
+	<P><font face="Arial">Kliknite na tlačidlo <b>Ďalej</b>, ak chcete vyhľadať tlačiarne na sieti a pokračovať v inštalácii. Ak chcete ukončiť inštalačný program, kliknite na tlačidlo <b>Zrušiť</b>.</font>
+		</P>
+
+<P><font face="Arial">Ak máte bránu firewall zapnutú (napríklad ZoneAlarm©, BlackICE©, Sygate Security Agent© a Norton Personal Firewall©, a pod.), pozrite si  dokumentáciu od jej dodávateľa, kde nájdete pokyny na jej vypnutie.</font></P>
+<p> <font face="Arial">Vždy, keď je softvérová brána firewall vypnutá, spoločnosť HP odporúča na počítači inštaláciu:</font></p>
+<ul>
+  <li><font face="Arial">hardvérového zariadenia, ktoré zabezpečuje ochranu firewall medzi internetom a počítačom, napr. bránu (gateway), </font> </li>
+  <li><font face="Arial">aktuálneho antivírusového programu.</font></li>
+</ul>
+<p><font face="Arial">Všeobecné informácie o riešení problémov s komunikáciou nájdete v dokumentácii k tlačiarni a navštívte webovú lokalitu <a href="http://www.hp.com/support" style="color: blue; text-decoration: underline; text-underline: single"> http://www.hp.com/support</a>.</font></p>
+<p class="MsoNormal"><font face="Arial"><span style="color: black">Brány firewall často spôsobujú komunikačné problémy. Ak je brána firewall&nbsp;zapnutá na počítači v sieti, môžu sa objaviť tieto problémy:</span></font></p>
+<p> <font face="Arial">&nbsp;&nbsp;&nbsp; Počas inštalácie softvéru:</font></p>
+<ul>
+  <li><font face="Arial">Inštalačný program tlačiarne nedokáže lokalizovať tlačiareň v sieti.&nbsp; Chybové hlásenie oznámi, že inštalačný program nedokázal rozpoznať žiadne tlačiarne v sieti.&nbsp; Problému sa vyhnete dočasným vypnutím brány firewall počas inštalácie softvéru tlačiarne.&nbsp;Spôsob vypnutia nájdete v dokumentácii brány firewall.</font></li>
+</ul>
+<p> <font face="Arial"> <b>&nbsp; </b>&nbsp; Po inštalácii softvéru:</font></p>
+<ul>
+  <li><font face="Arial">Ak sa zmení adresa IP tlačiarne, počítač nebude schopný komunikovať s tlačiarňou.&nbsp; Všetky úlohy zlyhajú a stav produktu bude indikovať, že tlačiareň je odpojená.&nbsp; V domácom sieťovom prostredí sa občas stáva, že sa zmení adresa IP.&nbsp; Ak nie je softvérová brána firewall zapnutá, na počítač sa pošle nová adresa a to umožní pokračovať v komunikácii medzi počítačom a tlačiarňou.&nbsp; Aby ste sa tomu vyhli, vypnite bránu firewall alebo, ak ste pokročilým používateľom, môžete použiť statickú adresu IP.&nbsp; Informácie ako konfigurovať statickú adresu IP pre tlačiareň nájdete na webovej lokalite spoločnosti HP <a href="http://www.hp.com/support" style="color: blue; text-decoration: underline; text-underline: single"> http://www.hp.com/support</a>.</font></li>
+  <li><font face="Arial">Ak máte zariadenie HP all-in-one, nebudete môcť použiť jeho zásuvky pamäťových kariet na prenos súborov do počítača.&nbsp; Súbory na fotografickej karte nebudú prístupné z mapovanej sieťovej jednotky alebo softvéru na prenos obrazu.</font></li>
+</ul>
+<p><font face="Arial"><a href="http://www.hp.com/support/XP_firewall_information">Ďalšie informácie o bránach firewall</a> nájdete na webovej lokalite spoločnosti HP.</font></p>
+<P> <font face="Arial"><strong>Ako</strong></font><b><font face="Arial"> vypnúť bránu Windows Firewall v systéme Windows Vista:</font></b></P>
+<ol>
+	<li><font face="Arial">Kliknite na položku <b>Štart</b> &gt; <b>Sieť</b>.</font></li>
+	<li><font face="Arial">Kliknite pravým tlačidlom myši na položku <b>Sieť</b> a vyberte položku <b>Vlastnosti</b>.</font></li>
+	<li><font face="Arial">Kliknite na položku <b>Windows Firewall</b> v ľavom dolnom rohu.</font></li>
+	<li><font face="Arial">Vyberte možnosť <b>Zapnutie alebo vypnutie brány Windows Firewall</b>.</font></li>
+	<li><font face="Arial">V dialógovom okne User Access Control (Ovládanie prístupu používateľa) vyberte možnosť <b>Pokračovať</b>.</font></li>
+	<li><font face="Arial">Vyberte možnosť <b>Vypnuté</b>, aby ste bránu firewall vypli a potom kliknite na tlačidlo <b>OK</b>.&nbsp; Brána Windows Firewall je teraz vypnutá.</font></li>
+</ol>
+<P> <font face="Arial"><strong>Ako vypnúť bránu firewall pre internetové pripojenie v systéme Windows XP:</strong></font></P>
+<ol>
+  <li> <font face="Arial">Na paneli úloh na spodnej časti obrazovky kliknite na tlačidlo <strong>Štart</strong> a potom na položku <strong>Ovládací panel</strong>.</font></li>
+  <li><font face="Arial">Kliknite na kategóriu  <strong>Sieťové a internetové pripojenia</strong>. (Ak <strong> Sieťové a internetové pripojenia</strong> nie sú viditeľné, kliknite na položku <strong>Prepnúť na zobrazenie kategórií</strong> na ľavej strane okna <strong>Ovládacieho panela</strong>.)</font></li>
+  <li> <font face="Arial">Kliknite na položku <strong>Sieťové pripojenia</strong>.</font></li>
+  <li> <font face="Arial">Pravým tlačidlom kliknite na položku <strong>Telefonické pripojenie</strong>, <strong>Lokálne pripojenie</strong> alebo <strong>Vysokorýchlostné pripojenie</strong>, ktoré používate na pripojenie na internet a potom v kontextovej ponuke kliknite na položku <strong>Vlastnosti</strong>.</font></li>
+  <li> <font face="Arial">Na karte <strong>Spresnenie</strong> pod položkou <strong>Brána firewall pre internetové pripojenie</strong> zrušte výber možnosti <strong>Chrániť tento počítač a sieť</strong> a potom kliknite na tlačidlo <strong>OK</strong>. Brána firewall v systéme Windows XP je teraz vypnutá. </font> </li>
+  <li><font face="Arial">Kliknutím na tlačidlo <strong>Ďalej</strong> v Sprievodcovi inštaláciou pokračujte v inštalácii tlačiarne.</font></li>
+  <li> <font face="Arial">Po inštalácii tlačiarne môžete položku <strong>Brána firewall pre internetové pripojenie</strong> zapnúť podľa krokov uvedených nad položkou <strong>Chrániť tento počítač a sieť</strong>. Potom začiarknite položku <strong>Chrániť tento počítač a sieť </strong>.</font></li>
+</ol>
+<p><font face="Arial"><b>Poznámka:</b> Po skončení inštalácie bránu Windows Firewall opäť zapnite.</font></p>
+</BODY></HTML>
+

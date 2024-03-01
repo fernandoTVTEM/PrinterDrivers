@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><document>
+	<es>
+		<header>Interpretar los patrones de luz del panel de control</header>
+		<view_labels>»Ver etiquetas del panel de control</view_labels>
+		<state_of_the_product>Estado del producto</state_of_the_product>
+		<action>Acción</action>
+		<wlan_button>Botón de red inalámbrica</wlan_button>
+		<wlan_light>Luz de red inalámbrica</wlan_light>
+		<ready_light>Luz Preparada</ready_light>
+		<attn_light>Luz Atención</attn_light>
+		<cancel_button>Botón Cancelar</cancel_button>
+		<allOff_title>Todas las luces están apagadas.</allOff_title>
+		<allOff_stateBody>El producto está en modo de Apagado automático o está apagado.</allOff_stateBody>
+		<allOff_actionBody>Pulse el botón de encendido para desactivar el modo de Apagado automático o para encender el producto.</allOff_actionBody>
+		<readyOn_title>La luz Preparada está encendida y la luz Atención está apagada.</readyOn_title>
+		<readyOn_stateBody>El producto se encuentra en estado Preparado.</readyOn_stateBody>
+		<readyOn_actionBody>No es necesaria ninguna acción. El producto está listo para recibir un trabajo de impresión.</readyOn_actionBody>
+		<readyBlinking_title>La luz Preparada está parpadeando y la luz Atención está apagada.</readyBlinking_title>
+		<readyBlinking_stateBody>El producto está recibiendo o procesando datos.</readyBlinking_stateBody>
+		<readyBlinking_actionBody>No es necesaria ninguna acción. El producto está recibiendo o procesando un trabajo de impresión.</readyBlinking_actionBody>
+		<attnBlinking_title>La luz Atención está parpadeando y la luz Preparada está apagada.</attnBlinking_title>
+		<attnBlinking_stateBody>El producto presentó un error que se puede corregir en el producto, como un atasco, una puerta abierta, la ausencia de un cartucho de impresión o la ausencia de papel en la bandeja correcta.</attnBlinking_stateBody>
+		<attnBlinking_actionBody>Revise el producto, determine cuál es el error y corríjalo. Si el error es la ausencia de papel en la bandeja correcta o si el producto se encuentra en modo de alimentación manual, ponga el papel adecuado en la bandeja y siga las instrucciones que aparecen en la pantalla o abra y cierre la puerta de los cartuchos de impresión para reanudar la impresión.</attnBlinking_actionBody>
+		<alternating_title>Las luces de estado se encienden en ciclo.</alternating_title>
+		<alternating_stateBody>Las luces de estado se encienden en ciclo cuando el producto está procesando una hoja de prueba.</alternating_stateBody>
+		<alternating_actionBody>No es necesaria ninguna acción. El producto debe entrar al estado Preparado una vez que se procese la hoja de prueba.</alternating_actionBody>
+		<unison_title>Las luces de estado parpadean al mismo tiempo.</unison_title>
+		<unison_stateBody>Las luces de estado parpadean al mismo tiempo durante el período de inicialización del formateador.</unison_stateBody>
+		<unison_actionBody>No es necesaria ninguna acción. Espere a que finalice el período de inicialización. El producto debe entrar al estado Preparado una vez que finalice el período de inicialización.</unison_actionBody>
+		<readyOn_attnBlinking_title>La luz Atención está parpadeando y la luz Preparada está encendida.</readyOn_attnBlinking_title>
+		<readyOn_attnBlinking_stateBody>El producto presenta un error continuo del cual se recuperará por sí solo.</readyOn_attnBlinking_stateBody>
+		<readyOn_attnBlinking_actionBody>Si la recuperación se realiza con éxito, el producto entrará en el estado de procesamiento de datos y completará el trabajo.
+Si la recuperación no se realiza con éxito, el producto volverá al estado de error proseguible. Intente resolverlo al extraer los medios de la ruta del medio de impresión y al apagar y encender nuevamente el producto.</readyOn_attnBlinking_actionBody>
+		<allOn_title>Las luces Atención y Preparada están encendidas.</allOn_title>
+		<allOn_stateBody>El producto presenta un error grave del cual no puede recuperarse.</allOn_stateBody>
+		<allOn_actionBody>1. Apague el producto.&#xD;2. Espere 30 segundos y encienda el producto o vuelva a conectar el cable de alimentación al producto.&#xD;3. Espere a que el producto se inicialice.
+Si el error persiste, póngase en contacto con el servicio de asistencia de HP.</allOn_actionBody>
+		<wirelessBlinking_title>La luz de red inalámbrica está parpadeando.</wirelessBlinking_title>
+		<wirelessBlinking_stateBody>El producto está intentando localizar una red inalámbrica.</wirelessBlinking_stateBody>
+		<wirelessBlinking_actionBody>No es necesaria ninguna acción.</wirelessBlinking_actionBody>
+		<wirelessOn_title>La luz de red inalámbrica está encendida.</wirelessOn_title>
+		<wirelessOn_stateBody>El producto está conectado a una red inalámbrica.</wirelessOn_stateBody>
+		<wirelessOn_actionBody>No es necesaria ninguna acción.</wirelessOn_actionBody>
+	</es>
+</document>
+

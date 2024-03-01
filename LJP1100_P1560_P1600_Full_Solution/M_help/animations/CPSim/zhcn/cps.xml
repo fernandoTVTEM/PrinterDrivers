@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<zhcn>
+		<header>解释控制面板指示灯模式</header>
+		<view_labels>»查看控制面板标签</view_labels>
+		<toner_light>“打印碳粉”指示灯</toner_light>
+		<attn_light>“注意”指示灯</attn_light>
+		<ready_light>“就绪”指示灯</ready_light>
+		<go_light>“执行”指示灯</go_light>
+		<go_button>执行按钮</go_button>
+		<cancel_button>取消按钮</cancel_button>
+		<state_of_the_product>产品状态</state_of_the_product>
+		<action>操作</action>
+		<allOff_title>所有控制面板指示灯均未亮起。</allOff_title>
+		<allOff_choice>电源按钮背光灯是否亮起？</allOff_choice>
+		<off>未亮起</off>
+		<on>亮起</on>
+		<allOff1_stateBody>电源按钮背光灯未亮起。 产品处于自动关闭模式或已关闭。</allOff1_stateBody>
+		<allOff1_actionBody>请按电源按钮退出自动关闭模式或开启产品。</allOff1_actionBody>
+		<allOff2_stateBody>电源按钮背光灯亮起。 格式化板未正确连接至产品。</allOff2_stateBody>
+		<allOff2_actionBody>请按电源按钮退出自动关闭模式或开启产品。</allOff2_actionBody>
+		<readyOn_title>“就绪”指示灯亮起，所有其他指示灯均未亮起。</readyOn_title>
+		<readyOn_stateBody>产品处于就绪状态。</readyOn_stateBody>
+		<readyOn_actionBody>无需任何操作。 产品已就绪，可以接收打印作业。</readyOn_actionBody>
+		<readyBlinking_title>“就绪”指示灯闪烁，所有其他指示灯均未亮起。</readyBlinking_title>
+		<readyBlinking_stateBody>产品正在接收或处理打印作业。</readyBlinking_stateBody>
+		<readyBlinking_actionBody>无需任何操作。 产品正在接收或处理打印作业。
+要取消当前作业，请按取消按钮。</readyBlinking_actionBody>
+		<attnBlinking_title>“注意”指示灯闪烁，所有其他指示灯均未亮起。</attnBlinking_title>
+		<attnBlinking_stateBody>发生了可在产品上纠正的错误，如卡纸、盖板打开、缺少某个打印碳粉盒，或要使用的纸盘中没有纸张。</attnBlinking_stateBody>
+		<attnBlinking_actionBody>检查产品，确定并纠正错误。</attnBlinking_actionBody>
+		<alternating_title>“注意”、“就绪”和“执行”指示灯循环亮起。 “打印碳粉”指示灯未亮起。</alternating_title>
+		<alternating_stateBody>格式化板正在初始化。</alternating_stateBody>
+		<alternating_actionBody>无需任何操作。 请等待初始化结束。 初始化完成后，产品会进入“就绪”状态。</alternating_actionBody>
+		<readyOn_attnBlinking_title>“注意”指示灯闪烁，“就绪”指示灯亮起，所有其他指示灯均未亮起。</readyOn_attnBlinking_title>
+		<readyOn_attnBlinking_stateBody>产品发生可继续型错误。</readyOn_attnBlinking_stateBody>
+		<readyOn_attnBlinking_actionBody>要从错误中恢复并打印可用数据，请按执行按钮。 如果成功恢复，产品会继续保持“处理数据”状态，并完成作业。
+如果恢复失败，产品会继续保持“可继续型错误”状态。 请尝试从介质通道中取出所有介质，然后关闭并重新打开产品电源。</readyOn_attnBlinking_actionBody>
+		<allOn_title>“注意”、“就绪”和“执行”指示灯亮起。 “打印碳粉”指示灯未亮起。</allOn_title>
+		<allOn_stateBody>产品发生严重错误，无法自行恢复。</allOn_stateBody>
+		<allOn_actionBody>1. 关闭产品电源。&#xD;2. 等待 30 秒，然后开启产品。&#xD;3. 等待产品进行初始化。
+如果错误仍然存在，请联系 HP 客户支持部门。</allOn_actionBody>
+		<ready_tonerOn_title>“就绪”和“打印碳粉”指示灯亮起。 所有其他指示灯均未亮起。</ready_tonerOn_title>
+		<ready_tonerOn_stateBody>打印碳粉盒接近估计的使用寿命。</ready_tonerOn_stateBody>
+		<ready_tonerOn_actionBody>订购新的打印碳粉盒，并准备好。</ready_tonerOn_actionBody>
+		<tonerBlinking_title>“打印碳粉”指示灯闪烁。 所有其他指示灯均未亮起。</tonerBlinking_title>
+		<tonerBlinking_stateBody>打印碳粉盒已从产品中取出。</tonerBlinking_stateBody>
+		<tonerBlinking_actionBody>将打印碳粉盒重新插入产品。</tonerBlinking_actionBody>
+	</zhcn>
+</document>
+

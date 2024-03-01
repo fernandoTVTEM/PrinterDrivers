@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<id>
+		<header>Menginterpretasikan pola lampu panel kontrol</header>
+		<view_labels>»Lihat label panel kontrol</view_labels>
+		<toner_light>Lampu toner</toner_light>
+		<attn_light>Lampu peringatan</attn_light>
+		<ready_light>Lampu siap</ready_light>
+		<go_light>Lampu mulai</go_light>
+		<go_button>Tombol Mulai</go_button>
+		<cancel_button>Tombol Batal</cancel_button>
+		<state_of_the_product>Status produk</state_of_the_product>
+		<action>Tindakan</action>
+		<allOff_title>Semua lampu panel kontrol mati.</allOff_title>
+		<allOff_choice>Apakah lampu latar tombol daya menyala atau mati?</allOff_choice>
+		<off>Mati</off>
+		<on>Menyala</on>
+		<allOff1_stateBody>Lampu latar tombol daya mati. Produk menggunakan mode Auto-Off [Nonaktif Otomatis] atau telah dimatikan.</allOff1_stateBody>
+		<allOff1_actionBody>Tekan tombol daya untuk menonaktifkan mode Auto-Off [Nonaktif Otomatis] atau menghidupkan produk.</allOff1_actionBody>
+		<allOff2_stateBody>Lampu latar tombol daya menyala. Formatter tidak tersambung ke produk dengan benar.</allOff2_stateBody>
+		<allOff2_actionBody>Tekan tombol daya untuk menonaktifkan mode Auto-Off [Nonaktif Otomatis] atau menghidupkan produk.</allOff2_actionBody>
+		<readyOn_title>Lampu siap menyala dan semua lampu lainnya mati.</readyOn_title>
+		<readyOn_stateBody>Produk dalam status siap.</readyOn_stateBody>
+		<readyOn_actionBody>Tidak diperlukan tindakan. Produk siap menerima tugas cetak.</readyOn_actionBody>
+		<readyBlinking_title>Lampu siap berkedip dan semua lampu lainnya mati.</readyBlinking_title>
+		<readyBlinking_stateBody>Produk sedang menerima atau memproses tugas cetak.</readyBlinking_stateBody>
+		<readyBlinking_actionBody>Tidak diperlukan tindakan. Produk sedang menerima atau memproses tugas cetak.
+Untuk membatalkan tugas yang ada, tekan tombol batal.</readyBlinking_actionBody>
+		<attnBlinking_title>Lampu peringatan berkedip dan semua lampu lainnya mati.</attnBlinking_title>
+		<attnBlinking_stateBody>Produk mengalami kesalahan yang dapat diperbaiki pada produk, misalnya kertas macet, pintu terbuka, kartrid cetak tidak ada, atau kertas tidak ada dalam baki yang sesuai.</attnBlinking_stateBody>
+		<attnBlinking_actionBody>Periksa produk, ketahui kesalahan, lalu perbaiki kesalahan.</attnBlinking_actionBody>
+		<alternating_title>Lampu peringatan, lampu siap, dan lampu mulai menyala bergantian. Lampu toner mati.</alternating_title>
+		<alternating_stateBody>Formatter melakukan inisialisasi.</alternating_stateBody>
+		<alternating_actionBody>Tidak diperlukan tindakan. Tunggu hingga periode inisialisasi selesai. Produk akan beralih ke status Ready [Siap] bila periode inisialisasi selesai.</alternating_actionBody>
+		<readyOn_attnBlinking_title>Lampu peringatan berkedip, lampu siap menyala, dan semua lampu lainnya mati.</readyOn_attnBlinking_title>
+		<readyOn_attnBlinking_stateBody>Produk mengalami kesalahan terus-menerus.</readyOn_attnBlinking_stateBody>
+		<readyOn_attnBlinking_actionBody>Untuk mengatasi kesalahan dan mencetak data yang tersedia, tekan tombol mulai. Jika berhasil diatasi, produk akan beralih ke status Processing Data [Memproses Data] dan menyelesaikan tugas.
+Jika tidak berhasil diatasi, produk akan beralih ke status Continuable Error [Kesalahan Berlanjut]. Coba keluarkan media apa pun dari jalur media dan matikan produk, kemudian hidupkan kembali.</readyOn_attnBlinking_actionBody>
+		<allOn_title>Lampu peringatan, lampu siap, dan lampu mulai menyala. Lampu toner mati.</allOn_title>
+		<allOn_stateBody>Produk mengalami kesalahan fatal yang tidak dapat diatasi.</allOn_stateBody>
+		<allOn_actionBody>1. Matikan produk.&#xD;2. Tunggu selama 30 detik, kemudian hidupkan produk.&#xD;3. Tunggu hingga produk melakukan inisialisasi.
+Jika kesalahan berlanjut, hubungi dukungan pelanggan HP.</allOn_actionBody>
+		<ready_tonerOn_title>Lampu siap dan lampu toner menyala. Semua lampu lainnya mati.</ready_tonerOn_title>
+		<ready_tonerOn_stateBody>Kartrid cetak hampir mendekati perkiraan akhir masa pakai.</ready_tonerOn_stateBody>
+		<ready_tonerOn_actionBody>Pesan kartrid baru, kemudian siapkan kartrid tersebut.</ready_tonerOn_actionBody>
+		<tonerBlinking_title>Lampu toner berkedip. Semua lampu lainnya mati.</tonerBlinking_title>
+		<tonerBlinking_stateBody>Kartrid cetak telah dikeluarkan dari produk.</tonerBlinking_stateBody>
+		<tonerBlinking_actionBody>Masukkan kembali kartrid cetak ke dalam produk.</tonerBlinking_actionBody>
+	</id>
+</document>
+

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<ca>
+		<header>Interpretar models de llum del quadre de comandament</header>
+		<view_labels>»Veure etiquetes del quadre de comandament</view_labels>
+		<toner_light>Llum Tòner</toner_light>
+		<attn_light>Llum Atenció</attn_light>
+		<ready_light>Llum A punt</ready_light>
+		<go_light>Llum Vés</go_light>
+		<go_button>Botó Vés</go_button>
+		<cancel_button>Botó Anul·la</cancel_button>
+		<state_of_the_product>Estat del producte</state_of_the_product>
+		<action>Acció</action>
+		<allOff_title>Tots els llums del quadre de comandament estan apagats.</allOff_title>
+		<allOff_choice>El llum de retroil·luminació del botó d'engegada està encès o apagat?</allOff_choice>
+		<off>Apagat</off>
+		<on>Encesa</on>
+		<allOff1_stateBody>El llum de retroil·luminació del botó d'engegada està apagat. El producte està en mode Desconnexió automàtica o està apagat.</allOff1_stateBody>
+		<allOff1_actionBody>Premeu el botó d’engegada per desactivar el mode Desconnexió automàtica o per engegar el producte.</allOff1_actionBody>
+		<allOff2_stateBody>El llum de retroil·luminació del botó d'engegada està engegat. La unitat formatadora no està ben connectada al producte.</allOff2_stateBody>
+		<allOff2_actionBody>Premeu el botó d’engegada per desactivar el mode Desconnexió automàtica o per engegar el producte.</allOff2_actionBody>
+		<readyOn_title>El llum A punt està encès i la resta de llums estan apagats.</readyOn_title>
+		<readyOn_stateBody>El producte està en l'estat A punt</readyOn_stateBody>
+		<readyOn_actionBody>No és necessària cap acció. El producte està a punt per rebre un treball d’impressió.</readyOn_actionBody>
+		<readyBlinking_title>El llum A punt parpelleja i la resta de llums estan apagats.</readyBlinking_title>
+		<readyBlinking_stateBody>El producte està rebent o processant un treball d’impressió.</readyBlinking_stateBody>
+		<readyBlinking_actionBody>No és necessària cap acció. El producte està rebent o processant un treball d’impressió.
+Per cancel·lar el treball d'impressió en curs, premeu el botó Anul·la.</readyBlinking_actionBody>
+		<attnBlinking_title>El llum Atenció parpelleja i la resta de llums estan apagats.</attnBlinking_title>
+		<attnBlinking_stateBody>S'ha produït un error al producte que es pot corregir localment, com pot ser un encallament, una porta oberta, la falta d'un cartutx d'impressió o la falta de paper a la safata corresponent. </attnBlinking_stateBody>
+		<attnBlinking_actionBody>Inspeccioneu el producte, determineu l’error i corregiu-lo.</attnBlinking_actionBody>
+		<alternating_title>El llum Atenció, el llum A punt i el llum Vés s’encenen i s’apaguen. El llum Tòner està apagat.</alternating_title>
+		<alternating_stateBody>S'està inicialitzant la unitat formatadora.</alternating_stateBody>
+		<alternating_actionBody>No és necessària cap acció. Espereu que finalitzi el període d’inicialització. El producte passa a l’estat A punt quan finalitza el període d’inicialització.</alternating_actionBody>
+		<readyOn_attnBlinking_title>El llum Atenció parpelleja, el llum A punt està encès i la resta de llums estan apagats.</readyOn_attnBlinking_title>
+		<readyOn_attnBlinking_stateBody>S'ha produït un error continuat en el producte.</readyOn_attnBlinking_stateBody>
+		<readyOn_attnBlinking_actionBody>Per intentar solucionar l'error i imprimir les dades disponibles, premeu el botó Vés. Si l'error se soluciona correctament, el producte passa a l'estat de processament de dades i finalitza el treball.
+Si l'error no se soluciona, el producte torna a l'estat d'error de continuació. Proveu de suprimir un suport de la ruta del suport, apagueu el producte i, a continuació, torneu-lo a engegar.</readyOn_attnBlinking_actionBody>
+		<allOn_title>El llum Atenció, el llum A punt i el llum Vés estan encesos. El llum Tòner està apagat.</allOn_title>
+		<allOn_stateBody>S'ha produït un error fatal al producte que no es pot solucionar de forma automàtica.</allOn_stateBody>
+		<allOn_actionBody>1. Apagueu el producte.&#xD;2. Espereu 30 segons i, a continuació, torneu a engegar el producte.&#xD;3. Espereu que el producte s’inicialitzi.
+Si l'error persisteix, poseu-vos en contacte amb el servei d'assistència al client d'HP.</allOn_actionBody>
+		<ready_tonerOn_title>El llum A punt i el llum Tòner estan encesos. La resta de llums estan apagats.</ready_tonerOn_title>
+		<ready_tonerOn_stateBody>El cartutx d'impressió està a punt d’exhaurir-se.</ready_tonerOn_stateBody>
+		<ready_tonerOn_actionBody>Encarregueu un cartutx d'impressió nou i tingueu-lo a punt.</ready_tonerOn_actionBody>
+		<tonerBlinking_title>El llum Tòner parpelleja. La resta de llums estan apagats.</tonerBlinking_title>
+		<tonerBlinking_stateBody>S'ha eliminat el cartutx d'impressió del producte.</tonerBlinking_stateBody>
+		<tonerBlinking_actionBody>Torneu a inserir el cartutx d'impressió al producte.</tonerBlinking_actionBody>
+	</ca>
+</document>
+

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><document>
+	<sl>
+		<header>Razumevanje vzorcev utripanja lučk na nadzorni plošči</header>
+		<view_labels>»Ogled oznak na nadzorni plošči</view_labels>
+		<state_of_the_product>Stanje izdelka</state_of_the_product>
+		<action>Dejanje</action>
+		<wlan_button>Tipka za brezžično omrežje</wlan_button>
+		<wlan_light>Lučka za brezžično omrežje</wlan_light>
+		<ready_light>Lučka za pripravljenost</ready_light>
+		<attn_light>Lučka za opozorilo</attn_light>
+		<cancel_button>Tipka za preklic</cancel_button>
+		<allOff_title>Nobena lučka ne sveti.</allOff_title>
+		<allOff_stateBody>Izdelek je v načinu samodejnega izklopa ali izklopljen.</allOff_stateBody>
+		<allOff_actionBody>Pritisnite tipko za napajanje, da deaktivirate način samodejnega izklopa ali vklopite izdelek.</allOff_actionBody>
+		<readyOn_title>Lučka za pripravljenost sveti, lučka za opozorilo pa ne.</readyOn_title>
+		<readyOn_stateBody>Izdelek je v stanju pripravljenosti.</readyOn_stateBody>
+		<readyOn_actionBody>Izvesti ni treba nobenega dejanja. Izdelek je pripravljen za prejem tiskalnega posla.</readyOn_actionBody>
+		<readyBlinking_title>Lučka za pripravljenost utripa, lučka za opozorilo pa ne sveti.</readyBlinking_title>
+		<readyBlinking_stateBody>Izdelek sprejema podatke.</readyBlinking_stateBody>
+		<readyBlinking_actionBody>Izvesti ni treba nobenega dejanja. Izdelek sprejema ali obdeluje tiskalni posel.</readyBlinking_actionBody>
+		<attnBlinking_title>Lučka za opozorilo utripa, lučka za pripravljenost pa ne sveti.</attnBlinking_title>
+		<attnBlinking_stateBody>V izdelku je prišlo do napake, ki jo je mogoče odpraviti v izdelku samem: zagozdil se je papir, pokrov je odprt, manjka tiskalni vložek ali pa ni papirja na ustreznem pladnju.</attnBlinking_stateBody>
+		<attnBlinking_actionBody>Oglejte si izdelek, ugotovite, kje je prišlo do napake, in jo nato odpravite. Če je do napake prišlo, ker na ustreznem pladnju ni papirja ali je izdelek v načinu ročnega podajanja, naložite papir na ustrezen pladenj in sledite navodilom na zaslonu ali odprite in zaprite pokrov za dostop do tiskalnih vložkov, da nadaljujete tiskanje.</attnBlinking_actionBody>
+		<alternating_title>Lučki stanja utripata izmenično.</alternating_title>
+		<alternating_stateBody>Lučki stanja utripata izmenično, ko izdelek obdeluje čistilno stran.</alternating_stateBody>
+		<alternating_actionBody>Izvesti ni treba nobenega dejanja. Izdelek bi se moral po dokončani obdelavi čistilne strani samodejno preklopiti v stanje pripravljenosti.</alternating_actionBody>
+		<unison_title>Lučki stanja utripata v enakomernih presledkih.</unison_title>
+		<unison_stateBody>Lučki stanja utripata v enakomernih presledkih med inicializacijo formaterja.</unison_stateBody>
+		<unison_actionBody>Izvesti ni treba nobenega dejanja. Počakajte, da se inicializacija dokonča. Izdelek bi se moral po dokončani inicializaciji samodejno preklopiti v stanje pripravljenosti.</unison_actionBody>
+		<readyOn_attnBlinking_title>Lučka za opozorilo utripa, lučka za pripravljenost pa sveti.</readyOn_attnBlinking_title>
+		<readyOn_attnBlinking_stateBody>V izdelku je prišlo do ponavljajoče se napake, ki jo bo izdelek odpravil sam.</readyOn_attnBlinking_stateBody>
+		<readyOn_attnBlinking_actionBody>Če je obnovitev delovanja po napaki uspešna, se izdelek vrne v stanje obdelave podatkov in dokonča tiskalni posel.
+Če obnovitev delovanja po napaki ni uspešna, se izdelek vrne v stanje ponavljajoče se napake. Poskusite odstraniti vse medije s poti medijev in nato izdelek izklopiti ter znova vklopiti.</readyOn_attnBlinking_actionBody>
+		<allOn_title>Lučka za pripravljenost in lučka za opozorilo svetita.</allOn_title>
+		<allOn_stateBody>V izdelku je prišlo do resne napake, ki je izdelek ne more odpraviti sam.</allOn_stateBody>
+		<allOn_actionBody>1. Izklopite izdelek.&#xD;2. Počakajte 30 sekund in znova vklopite izdelek ali priključite napajalni kabel na izdelek.&#xD;3. Počakajte, da se inicializacija izdelka dokonča.
+Če napake niste odpravili, se obrnite na HP-jevo službo za podporo.</allOn_actionBody>
+		<wirelessBlinking_title>Lučka za brezžično omrežje utripa.</wirelessBlinking_title>
+		<wirelessBlinking_stateBody>Izdelek poskuša najti brezžično omrežje.</wirelessBlinking_stateBody>
+		<wirelessBlinking_actionBody>Izvesti ni treba nobenega dejanja.</wirelessBlinking_actionBody>
+		<wirelessOn_title>Lučka za brezžično omrežje sveti.</wirelessOn_title>
+		<wirelessOn_stateBody>Izdelek ima vzpostavljeno povezavo z brezžičnim omrežjem.</wirelessOn_stateBody>
+		<wirelessOn_actionBody>Izvesti ni treba nobenega dejanja.</wirelessOn_actionBody>
+	</sl>
+</document>
+

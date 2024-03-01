@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?><document>
+	<text name="searchHP" targetName="searchHPCom"><span class="yellow12Bold">» ค้นหาใน HP.com</span></text>
+	<text name="search">ค้นหา</text>
+	<text name="close">ปิด</text>
+	<text name="productTitle" anchor="center" aX="546" y="203"><span class="white16Center">เครื่องพิมพ์ HP LaserJet Professional<br/>P1100 Series</span></text>
+	<text name="applicationTitle" anchor="right" aX="41" y="27"><span class="white24Right">ศูนย์ความช่วยเหลือและเรียนรู้</span></text>
+	<text name="laserjet" anchor="left" aX="100" y="24"><span class="white24Bold">LASERJET</span></text>
+	<topBarLinks>
+		<text name="webSupport" targetName="webSupport"><span class="white12">การสนับสนุนทางเว็บ</span></text>
+		<text name="sureSupply" targetName="sureSupply"><span class="white12">SureSupply</span></text>
+		<text name="hpSite" targetName="hpSite"><span class="white12">hp.com</span></text>
+	</topBarLinks>
+	<bottomButtons>
+		<button name="everydayJobs" menuName="menu1" x="9" y="532"><span class="white14Bold">งานทั่วไป</span></button>
+		<button name="manageMaintain" menuName="menu2" x="238" y="532"><span class="white14Bold">จัดการ &amp; บำรุงรักษา</span></button>
+		<button name="solveProblem" menuName="menu3" x="467" y="532"><span class="white14Bold">แก้ไขปัญหา</span></button>
+	</bottomButtons>
+	<menuList menuType="main" name="main1" x="20" y="200">
+		<text>
+			<span class="yellow16Bold">ค้นหาอย่างรวดเร็ว</span>
+		</text>
+		<text targetName="PrinterLightPatterns"><span class="white14">» รูปแบบไฟสัญญาณของเครื่องพิมพ์</span></text>
+		<text targetName="ReplaceThePrintCartridge"><span class="white14">» เปลี่ยนตลับหมึกพิมพ์</span></text>
+		<text targetName="ClearPaperJams"><span class="white14">» นำกระดาษที่ติดออก</span></text>
+		<text targetName="GetIpAddressOfAPrinterInNetwork"><span class="white14">» ดู IP แอดเดรสของเครื่องพิมพ์ในเครือข่าย</span></text>
+		<text targetName="PaperAndPrintMedia"><span class="white14">» กระดาษและวัสดุพิมพ์</span></text>
+		<text targetName="LoadPaperTrays"><span class="white14">» ใส่กระดาษลงในถาด</span></text>
+		<text targetName="UseHpEprint"><span class="white14">» ใช้ HP ePrint</span></text>
+	</menuList>
+	<menuList menuType="main" name="main2_local" x="20" y="430">
+		<text targetName="userGuideDialogTarget">
+			<span class="white18">» เรียกดูคู่มือผู้ใช้</span>
+		</text>
+	</menuList>
+	<menuList menuType="main" name="main2_si" x="20" y="430">
+		<text targetName="onlineUserGuide">
+			<span class="white18">» เรียกดูคู่มือผู้ใช้</span>
+		</text>
+	</menuList>
+	<menuList name="menu1">
+		<text><span class="yellow11Bold">งานพิมพ์</span></text>
+		<text targetName="CancelAPrintJob"><span class="white12">» ยกเลิกงานพิมพ์</span></text>
+		<text targetName="OpenThePrinterDriver"><span class="white12">» เปิดไดรเวอร์เครื่องพิมพ์</span></text>
+		<text targetName="GetHelpForAnyPrintOption"><span class="white12">» ขอความช่วยเหลือสำหรับตัวเลือกการพิมพ์ใดๆ</span></text>
+		<text targetName="SelectAPageSize"><span class="white12">» เลือกขนาดกระดาษ</span></text>
+		<text targetName="PrintOnBothSidesDuplex"><span class="white12">» พิมพ์บนกระดาษสองด้าน (การพิมพ์สองด้าน)</span></text>
+		<text targetName="SelectPageOrientation"><span class="white12">» เลือกการวางแนวกระดาษ</span></text>
+		<text targetName="SetPaperAndQualityOptions"><span class="white12">» ตั้งตัวเลือกกระดาษและคุณภาพ</span></text>
+		<text targetName="CreateABooklet"><span class="white12">» สร้างหนังสือเล่มเล็ก</span></text>
+		<text targetName="ScaleADocumentToFitPageSize"><span class="white12">» กำหนดสเกลของเอกสารให้เหมาะกับขนาดกระดาษ</span></text>
+		<text targetName="PrintOnPrePrintedLetterheadOrForms"><span class="white12">» พิมพ์บนกระดาษหัวจดหมายหรือแบบฟอร์ม</span></text>
+		<text targetName="PrintOnHeavyPaper"><span class="white12">» พิมพ์บนกระดาษหนา</span></text>
+		<text targetName="PrintOnSpecialPaper"><span class="white12">» พิมพ์บนกระดาษพิเศษ</span></text>
+		<text targetName="PrintTheFirstOrLastPageOnDifferentPaper"><span class="white12">» พิมพ์หน้าแรกหรือหน้าสุดท้ายบนกระดาษอื่น</span></text>
+	</menuList>
+	<menuList name="menu2">
+		<text targetName="PrintInformationPages"><span class="white12">» พิมพ์หน้าข้อมูล</span></text>
+		<text targetName="ReplaceThePrintCartridge"><span class="white12">» เปลี่ยนตลับหมึกพิมพ์</span></text>
+		<text targetName="PrintACleaningPage"><span class="white12">» พิมพ์หน้าทำความสะอาด</span></text>
+		<text targetName="ChangeEnergySettings"><span class="white12">» เปลี่ยนการตั้งค่าพลังงาน</span></text>
+	</menuList>
+	<menuList name="menu3">
+		<text targetName="ClearPaperJams"><span class="white12">» นำกระดาษที่ติดออก</span></text>
+		<text targetName="ReduceSteamOrVapor"><span class="white12">» ลดไอน้ำและการระเหย</span></text>
+		<text targetName="InterpretPrinterLightPatterns"><span class="white12">» ทำความเข้าใจรูปแบบไฟสัญญาณของเครื่องพิมพ์</span></text>
+		<text targetName="SolveImageQualityProblems"><span class="white12">» แก้ไขปัญหาคุณภาพของภาพ</span></text>
+		<text targetName="WirelessTroubleshooting"><span class="white12">» การแก้ไขปัญหาระบบไร้สาย</span></text>
+	</menuList>
+	<dialog name="userGuideDialog">
+		<menuList>
+			<text targetName="localUserGuide"><span class="white14">» เปิดคู่มือผู้ใช้บนคอมพิวเตอร์ของฉัน</span></text>
+			<text><span class="white14">หรือ</span></text>
+			<text targetName="onlineUserGuide"><span class="white14">» เปิดเวอร์ชันล่าสุดบนเว็บ</span></text>
+		</menuList>
+	</dialog>
+</document>

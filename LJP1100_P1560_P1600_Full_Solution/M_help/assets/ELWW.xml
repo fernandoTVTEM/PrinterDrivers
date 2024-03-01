@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?><document>
+	<text name="searchHP" targetName="searchHPCom"><span class="yellow12Bold">» Κάντε αναζήτηση στη διαδικτυακή τοποθεσία HP.com</span></text>
+	<text name="search">Αναζήτηση</text>
+	<text name="close">Κλείσιμο</text>
+	<text name="productTitle" anchor="center" aX="556" y="203"><span class="white16Center">HP LaserJet Professional<br/>Εκτυπωτές σειράς P1560 και P1600</span></text>
+	<text name="applicationTitle" anchor="right" aX="41" y="27"><span class="white24Right">Κέντρο βοήθειας και εκμάθησης</span></text>
+	<text name="laserjet" anchor="left" aX="100" y="24"><span class="white24Bold">LASERJET</span></text>
+	<topBarLinks>
+		<text name="webSupport" targetName="webSupport"><span class="white12">Υποστήριξη μέσω web</span></text>
+		<text name="sureSupply" targetName="sureSupply"><span class="white12">SureSupply</span></text>
+		<text name="hpSite" targetName="hpSite"><span class="white12">hp.com</span></text>
+	</topBarLinks>
+	<bottomButtons>
+		<button name="everydayJobs" menuName="menu1" x="9" y="532"><span class="white14Bold">Καθημερινές εργασίες</span></button>
+		<button name="manageMaintain" menuName="menu2" x="238" y="532"><span class="white14Bold">Διαχείριση και συντήρηση</span></button>
+		<button name="solveProblem" menuName="menu3" x="467" y="532"><span class="white14Bold">Επίλυση προβλήματος</span></button>
+	</bottomButtons>
+	<menuList menuType="main" name="main1" x="20" y="200">
+		<text>
+			<span class="yellow16Bold">ΓΡΗΓΟΡΗ ΕΥΡΕΣΗ</span>
+		</text>
+		<text targetName="PrinterLightPatterns"><span class="white14">» Φωτεινές ενδείξεις εκτυπωτή</span></text>
+		<text targetName="ReplaceThePrintCartridge"><span class="white14">» Αντικατάσταση της κασέτας γραφίτη</span></text>
+		<text targetName="ClearPaperJams"><span class="white14">» Καθαρισμός εμπλοκών χαρτιού</span></text>
+		<text targetName="FindTheIpAddress"><span class="white14">» Βρείτε τη διεύθυνση IP </span></text>
+		<text targetName="LoadPaperTrays"><span class="white14">» Τοποθέτηση δίσκων χαρτιού</span></text>
+		<text targetName="UseHpEprint"><span class="white14">» Χρήση HP ePrint</span></text>
+	</menuList>
+	<menuList menuType="main" name="main2_local" x="20" y="430">
+		<text targetName="userGuideDialogTarget">
+			<span class="white18">» Περιήγηση στον οδηγό χρήσης</span>
+		</text>
+	</menuList>
+	<menuList menuType="main" name="main2_si" x="20" y="430">
+		<text targetName="onlineUserGuide">
+			<span class="white18">» Περιήγηση στον οδηγό χρήσης</span>
+		</text>
+	</menuList>
+	<menuList name="menu1">
+		<text><span class="yellow11Bold">Εργασίες εκτύπωσης</span></text>
+		<text targetName="CancelAPrintJob"><span class="white12">» Ακύρωση μιας εργασίας εκτύπωσης</span></text>
+		<text targetName="OpenThePrinterDriver"><span class="white12">» Άνοιγμα του προγράμματος οδήγησης εκτυπωτή</span></text>
+		<text targetName="GetHelpForAnyPrintOption"><span class="white12">» Λάβετε βοήθεια για οποιαδήποτε επιλογή εκτύπωσης</span></text>
+		<text targetName="SelectAPageSize"><span class="white12">» Επιλογή μεγέθους χαρτιού</span></text>
+		<text targetName="PrintOnBothSidesDuplex"><span class="white12">» Εκτύπωση και στις δύο όψεις (duplex)</span></text>
+		<text targetName="PrintMultiplePagesPerSheet"><span class="white12">» Εκτύπωση πολλών σελίδων ανά φύλλο</span></text>
+		<text targetName="SelectPageOrientation"><span class="white12">» Επιλογή προσανατολισμού σελίδας</span></text>
+		<text targetName="SetPaperAndQualityOptions"><span class="white12">» Ρύθμιση επιλογών χαρτιού και ποιότητας</span></text>
+		<text targetName="CreateABooklet"><span class="white12">» Δημιουργία φυλλαδίου</span></text>
+		<text targetName="ScaleADocumentToFitPageSize"><span class="white12">» Προσαρμογή ενός εγγράφου ώστε να ταιριάζει στο μέγεθος της σελίδας</span></text>
+		<text targetName="PrintOnPrePrintedLetterheadOrForms"><span class="white12">» Εκτύπωση σε προτυπωμένο επιστολόχαρτο ή φόρμες</span></text>
+		<text targetName="PrintOnSpecialPaper"><span class="white12">» Εκτύπωση σε ειδικό χαρτί</span></text>
+		<text targetName="PrintTheFirstOrLastPageOnDifferentPaper"><span class="white12">» Εκτύπωση της πρώτης ή της τελευταίας σελίδας σε διαφορετικό χαρτί</span></text>
+	</menuList>
+	<menuList name="menu2">
+		<text targetName="ViewTheHpEmbeddedWebServerEws"><span class="white12">» Προβολή του ενσωματωμένου διακομιστή Web της ΗΡ (EWS)</span></text>
+		<text targetName="PrintInformationPages"><span class="white12">» Εκτύπωση σελίδων πληροφοριών</span></text>
+		<text targetName="ReplaceThePrintCartridge"><span class="white12">» Αντικατάσταση της κασέτας γραφίτη</span></text>
+		<text targetName="PrintACleaningPage"><span class="white12">» Εκτύπωση σελίδας καθαρισμού</span></text>
+		<text targetName="ChangeEnergySettings"><span class="white12">» Αλλαγή ρυθμίσεων κατανάλωσης ενέργειας</span></text>
+		<text targetName="SetQuietMode"><span class="white12">» Ρύθμιση αθόρυβης λειτουργίας</span></text>
+		<text targetName="FindOrChangeTheIpAddress"><span class="white12">» Εύρεση ή αλλαγής της διεύθυνσης IP</span></text>
+	</menuList>
+	<menuList name="menu3">
+		<text targetName="ClearPaperJams"><span class="white12">» Καθαρισμός εμπλοκών χαρτιού</span></text>
+		<text targetName="ReduceSteamOrVapor"><span class="white12">» Μείωση ατμού</span></text>
+		<text targetName="InterpretPrinterLightPatterns"><span class="white12">» Ερμηνεία φωτεινών ενδείξεων εκτυπωτή</span></text>
+		<text targetName="SolveImageQualityProblems"><span class="white12">» Επίλυση προβλημάτων ποιότητας εικόνας</span></text>
+	</menuList>
+	<dialog name="userGuideDialog">
+		<menuList>
+			<text targetName="localUserGuide"><span class="white14">» Ανοίξτε τον οδηγό χρήσης στον υπολογιστή.</span></text>
+			<text><span class="white14">Ή</span></text>
+			<text targetName="onlineUserGuide"><span class="white14">» Ανοίξτε την πιο πρόσφατη έκδοση στο web.</span></text>
+		</menuList>
+	</dialog>
+	<dialog name="webSupportDialog">
+		<menuList>
+			<text targetName="webSupport1560"><span class="white14">» HP Laserjet Pro P1560</span></text>
+			<text targetName="webSupport1600"><span class="white14">» HP Laserjet Pro P1600</span></text>
+		</menuList>
+	</dialog>
+</document>

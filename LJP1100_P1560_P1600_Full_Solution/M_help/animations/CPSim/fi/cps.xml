@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<fi>
+		<header>Tulkitse ohjauspaneelin valokuviot</header>
+		<view_labels>»Näytä ohjauspaneelin tekstit</view_labels>
+		<toner_light>Väriaineen merkkivalo</toner_light>
+		<attn_light>Huomio-merkkivalo</attn_light>
+		<ready_light>Valmis-merkkivalo</ready_light>
+		<go_light>Siirry-merkkivalo</go_light>
+		<go_button>Siirry-painike</go_button>
+		<cancel_button>Peruutuspainike</cancel_button>
+		<state_of_the_product>Tuotteen tila</state_of_the_product>
+		<action>Toimenpide</action>
+		<allOff_title>Kaikki ohjauspaneelin merkkivalot ovat sammuneina.</allOff_title>
+		<allOff_choice>Palaako virtakytkimen taustavalo vai ei?</allOff_choice>
+		<off>Ei pala</off>
+		<on>Palaa</on>
+		<allOff1_stateBody>Virtakytkimen taustavalo ei pala. Tuote on Autom. pois -tilassa tai siitä on katkaistu virta.</allOff1_stateBody>
+		<allOff1_actionBody>Poista Autom. pois -tila käytöstä tai kytke tuotteeseen virta painamalla virtakytkintä.</allOff1_actionBody>
+		<allOff2_stateBody>Virtakytkimen taustavalo palaa. Rasteroija on liitetty tuotteeseen väärin.</allOff2_stateBody>
+		<allOff2_actionBody>Poista Autom. pois -tila käytöstä tai kytke tuotteeseen virta painamalla virtakytkintä.</allOff2_actionBody>
+		<readyOn_title>Valmis-merkkivalo palaa, ja kaikki muut merkkivalot ovat sammuneina.</readyOn_title>
+		<readyOn_stateBody>Tuote on valmis-tilassa.</readyOn_stateBody>
+		<readyOn_actionBody>Tämä ei vaadi toimenpiteitä. Tuote on valmis vastaanottamaan tulostustyön.</readyOn_actionBody>
+		<readyBlinking_title>Valmis-merkkivalo vilkkuu, ja kaikki muut merkkivalot ovat sammuneina.</readyBlinking_title>
+		<readyBlinking_stateBody>Tuote vastaanottaa tai käsittelee tulostustyötä.</readyBlinking_stateBody>
+		<readyBlinking_actionBody>Tämä ei vaadi toimenpiteitä. Tuote vastaanottaa tai käsittelee tulostustyötä.
+Peruuta nykyinen työ painamalla peruutuspainiketta.</readyBlinking_actionBody>
+		<attnBlinking_title>Huomio-merkkivalo vilkkuu, ja kaikki muut merkkivalot ovat sammuneina.</attnBlinking_title>
+		<attnBlinking_stateBody>Tuotteessa on ilmennyt virhe, jonka voi korjata tuotteessa, kuten paperitukos, avoin luukku, puuttuva värikasetti tai valitusta lokerosta puuttuva paperi.</attnBlinking_stateBody>
+		<attnBlinking_actionBody>Tutki tuote, määritä virheen syy ja korjaa virhe.</attnBlinking_actionBody>
+		<alternating_title>Huomio-, Valmis- ja Siirry-merkkivalot palavat vuorotellen. Väriaineen merkkivalo ei pala.</alternating_title>
+		<alternating_stateBody>Rasteroijaa alustetaan.</alternating_stateBody>
+		<alternating_actionBody>Tämä ei vaadi toimenpiteitä. Odota alustuksen päättymistä. Tuote siirtyy valmis-tilaan, kun alustus on päättynyt.</alternating_actionBody>
+		<readyOn_attnBlinking_title>Huomio-merkkivalo vilkkuu, Valmis-merkkivalo palaa ja kaikki muut merkkivalot ovat sammuneina.</readyOn_attnBlinking_title>
+		<readyOn_attnBlinking_stateBody>Tuotteessa on ilmennyt jatkuva virhe.</readyOn_attnBlinking_stateBody>
+		<readyOn_attnBlinking_actionBody>Palauta normaalitila ja tulosta tulostettavissa olevat tiedot painamalla Siirry-painiketta. Jos palauttaminen onnistui, tuote siirtyy Käsitellään tietoja -tilaan ja tulostaa työn normaalisti.
+Jos palauttaminen ei onnistu, tuote palaa jatkon sallivan virheen tilaan. Kokeile materiaalin poistamista paperiradalta ja tuotteen virran katkaisemista ja kytkemistä uudelleen.</readyOn_attnBlinking_actionBody>
+		<allOn_title>Huomio-, Valmis- ja Siirry-merkkivalot palavat. Väriaineen merkkivalo ei pala.</allOn_title>
+		<allOn_stateBody>Tuotteessa on ilmennyt vakava virhe, josta se ei voi palata normaalitilaan.</allOn_stateBody>
+		<allOn_actionBody>1. Katkaise tuotteen virta.&#xD;2. Odota 30 sekuntia ja käynnistä tuote uudelleen.&#xD;3. Odota tuotteen alustuksen päättymistä.
+Jos ongelma ei poistu, ota yhteys HP:n asiakaspalveluun.</allOn_actionBody>
+		<ready_tonerOn_title>Huomio-merkkivalo ja väriaineen merkkivalo palavat. Kaikki muut merkkivalot ovat sammuneina.</ready_tonerOn_title>
+		<ready_tonerOn_stateBody>Värikasetin käyttöikä on lähellä arvioitua päättymistä.</ready_tonerOn_stateBody>
+		<ready_tonerOn_actionBody>Tilaa uusi värikasetti ja pidä se valmiina.</ready_tonerOn_actionBody>
+		<tonerBlinking_title>Väriaineen merkkivalo vilkkuu. Kaikki muut merkkivalot ovat sammuneina.</tonerBlinking_title>
+		<tonerBlinking_stateBody>Värikasetti on poistettu tuotteesta.</tonerBlinking_stateBody>
+		<tonerBlinking_actionBody>Aseta värikasetti takaisin tuotteeseen.</tonerBlinking_actionBody>
+	</fi>
+</document>
+

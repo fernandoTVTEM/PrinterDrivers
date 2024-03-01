@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<he>
+		<header>פירושן של דפוסי הנוריות בלוח הבקרה</header>
+		<view_labels>»הצגת תוויות לוח הבקרה</view_labels>
+		<toner_light>נורית טונר</toner_light>
+		<attn_light>נורית התראה</attn_light>
+		<ready_light>נורית מצב מוכן</ready_light>
+		<go_light>נורית בצע</go_light>
+		<go_button>לחצן בצע</go_button>
+		<cancel_button>לחצן ביטול</cancel_button>
+		<state_of_the_product>מצב המוצר</state_of_the_product>
+		<action>פעולה</action>
+		<allOff_title>כל נוריות לוח הבקרה כבויות.</allOff_title>
+		<allOff_choice>האם התאורה האחורית של לחצן ההפעלה דולקת או כבויה?</allOff_choice>
+		<off>כבויה</off>
+		<on>דולקת</on>
+		<allOff1_stateBody>התאורה האחורית של לחצן ההפעלה כבויה. המוצר נמצא במצב Auto-Off (כיבוי אוטומטי) או שהוא כבוי.</allOff1_stateBody>
+		<allOff1_actionBody>לחץ על לחצן ההפעלה כדי לבטל את הפעלת מצב Auto-Off (כיבוי אוטומטי), או כדי לכבות את המוצר.</allOff1_actionBody>
+		<allOff2_stateBody>התאורה האחורית של לחצן ההפעלה דולקת. המפרמט לא מחובר למוצר באופן תקין.</allOff2_stateBody>
+		<allOff2_actionBody>לחץ על לחצן ההפעלה כדי לבטל את הפעלת מצב Auto-Off (כיבוי אוטומטי), או כדי לכבות את המוצר.</allOff2_actionBody>
+		<readyOn_title>נורית מצב מוכן דולקת וכל יתר הנוריות כבויות.</readyOn_title>
+		<readyOn_stateBody>המוצר נמצא במצב מוכן.</readyOn_stateBody>
+		<readyOn_actionBody>לא נדרשת פעולה. המוצר מוכן לקבלת עבודת הדפסה.</readyOn_actionBody>
+		<readyBlinking_title>נורית מצב מוכן מהבהבת וכל יתר הנוריות כבויות.</readyBlinking_title>
+		<readyBlinking_stateBody>המוצר מקבל או מעבד עבודת הדפסה.</readyBlinking_stateBody>
+		<readyBlinking_actionBody>לא נדרשת פעולה. המוצר מקבל או מעבד עבודת הדפסה.
+לביטול העבודה הנוכחית, לחץ על לחצן הביטול.</readyBlinking_actionBody>
+		<attnBlinking_title>נורית התראה מהבהבת וכל יתר הנוריות כבויות.</attnBlinking_title>
+		<attnBlinking_stateBody>המוצר נתקל בשגיאה הניתנת לתיקון במוצר עצמו כדוגמת חסימת נייר, דלת פתוחה, היעדר מחסנית הדפסה או היעדר נייר במגש המתאים.</attnBlinking_stateBody>
+		<attnBlinking_actionBody>בדוק את המוצר, זהה את השגיאה ולאחר מכן תקן אותה.</attnBlinking_actionBody>
+		<alternating_title>נורית ההתראה, נורית מצב מוכן ונורית בצע מהבהבות בסבב. נורית הטונר כבויה.</alternating_title>
+		<alternating_stateBody>המפרמט מבצע אתחול.</alternating_stateBody>
+		<alternating_actionBody>לא נדרשת פעולה. המתן עד שפעולת האתחול תסתיים. המוצר עובר למצב מוכן לאחר סיום פעולת האתחול.</alternating_actionBody>
+		<readyOn_attnBlinking_title>נורית ההתראה מהבהבת, נורית מצב מוכן דולקת וכל יתר הנוריות כבויות.</readyOn_attnBlinking_title>
+		<readyOn_attnBlinking_stateBody>המוצר חווה שגיאה מתמשכת.</readyOn_attnBlinking_stateBody>
+		<readyOn_attnBlinking_actionBody>להתאוששות מהשגיאה ולהדפסת הנתונים הזמינים, לחץ על לחצן בצע. אם פעולת השחזור הצליחה, המוצר ימשיך למצב Processing Data (עיבוד נתונים) וישלים את הפעולה. 
+אם פעולת השחזור לא הצליחה, המוצר ימשיך למצב Continuable Error (שגיאה שניתן להמשיך ממנה). נסה להוציא את כל חומרי ההדפסה מנתיב חומרי ההדפסה, כבה את המוצר והפעל אותו שוב.</readyOn_attnBlinking_actionBody>
+		<allOn_title>נורית ההתראה, נורית מצב מוכן ונורית בצע דולקות. נורית הטונר כבויה.</allOn_title>
+		<allOn_stateBody>המוצר נתקל בשגיאה חמורה, ממנה הוא לא מצליח להתאושש.</allOn_stateBody>
+		<allOn_actionBody>1. כבה את המוצר. &#xD;2. המתן 30 שניות ולאחר מכן הפעל את המוצר. &#xD;3. המתן עד לסיום פעולת האתחול של המוצר.
+אם הבעיה נמשכת, פנה לתמיכת הלקוחות של HP.</allOn_actionBody>
+		<ready_tonerOn_title>נורית מצב מוכן ונורית הטונר דולקות. כל יתר הנוריות כבויות.</ready_tonerOn_title>
+		<ready_tonerOn_stateBody>מחסנית ההדפסה מתקרבת לסוף תוחלת החיים המשוערת שלה.</ready_tonerOn_stateBody>
+		<ready_tonerOn_actionBody>הזמן מחסנית הדפסה חדשה והכן אותה לשימוש.</ready_tonerOn_actionBody>
+		<tonerBlinking_title>נורית הטונר מהבהבת. כל יתר הנוריות כבויות.</tonerBlinking_title>
+		<tonerBlinking_stateBody>מחסנית ההדפסה הוסרה מהמוצר.</tonerBlinking_stateBody>
+		<tonerBlinking_actionBody>הכנס מחדש את מחסנית ההדפסה למוצר.</tonerBlinking_actionBody>
+	</he>
+</document>

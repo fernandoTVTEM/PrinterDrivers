@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<sk>
+		<header>Vysvetlenie vzorov svetelnej signalizácie ovládacieho panela</header>
+		<view_labels>»Zobrazenie štítkov ovládacieho panela</view_labels>
+		<toner_light>Indikátor tlačovej kazety</toner_light>
+		<attn_light>Indikátor Pozor</attn_light>
+		<ready_light>Indikátor Pripravené</ready_light>
+		<go_light>Indikátor Vykonať</go_light>
+		<go_button>Tlačidlo Vykonať</go_button>
+		<cancel_button>Tlačidlo Zrušiť</cancel_button>
+		<state_of_the_product>Stav produktu</state_of_the_product>
+		<action>Odporúčaný postup</action>
+		<allOff_title>Nesvieti žiadny indikátor ovládacieho panela.</allOff_title>
+		<allOff_choice>Svieti alebo nesvieti podsvietenie tlačidla napájania?</allOff_choice>
+		<off>Nesvieti</off>
+		<on>Svieti</on>
+		<allOff1_stateBody>Nesvieti podsvietenie tlačidla napájania. Produkt je v režime Automatické vypnutie alebo je vypnutý.</allOff1_stateBody>
+		<allOff1_actionBody>Stlačením tlačidla napájania deaktivujete režim Automatické vypnutie alebo zapnete produkt.</allOff1_actionBody>
+		<allOff2_stateBody>Svieti podsvietenie tlačidla napájania. Formátovač je k produktu pripojený nesprávne.</allOff2_stateBody>
+		<allOff2_actionBody>Stlačením tlačidla napájania deaktivujete režim Automatické vypnutie alebo zapnete produkt.</allOff2_actionBody>
+		<readyOn_title>Svieti indikátor Pripravené a nesvietia ostatné indikátory.</readyOn_title>
+		<readyOn_stateBody>Produkt je v stave Pripravené.</readyOn_stateBody>
+		<readyOn_actionBody>Nevyžaduje sa žiadny úkon. Produkt je pripravený na prijatie tlačovej úlohy.</readyOn_actionBody>
+		<readyBlinking_title>Bliká indikátor Pripravené a nesvietia ostatné indikátory.</readyBlinking_title>
+		<readyBlinking_stateBody>Produkt prijíma alebo spracováva tlačovú úlohu.</readyBlinking_stateBody>
+		<readyBlinking_actionBody>Nevyžaduje sa žiadny úkon. Produkt prijíma alebo spracováva tlačovú úlohu.
+Aktuálnu úlohu zrušíte stlačením tlačidla Zrušiť.</readyBlinking_actionBody>
+		<attnBlinking_title>Bliká indikátor Pozor a nesvietia ostatné indikátory.</attnBlinking_title>
+		<attnBlinking_stateBody>Vyskytla sa chyba, ktorú je možné odstrániť v produkte, napríklad uviaznutie papiera, otvorené dvierka, chýbajúca tlačová kazeta alebo chýbajúci papier v príslušnom zásobníku.</attnBlinking_stateBody>
+		<attnBlinking_actionBody>Produkt skontrolujte, určte chybu a následne ju odstráňte.</attnBlinking_actionBody>
+		<alternating_title>Súčasne svietia indikátory Pozor, Pripravené a Vykonať. Nesvieti indikátor tlačovej kazety.</alternating_title>
+		<alternating_stateBody>Inicializuje sa formátovač.</alternating_stateBody>
+		<alternating_actionBody>Nevyžaduje sa žiadny úkon. Počkajte na koniec inicializácie. Po dokončení inicializácie sa produkt uvedie do stavu Pripravené.</alternating_actionBody>
+		<readyOn_attnBlinking_title>Bliká indikátor Pozor, svieti indikátor Pripravené a nesvietia ostatné indikátory.</readyOn_attnBlinking_title>
+		<readyOn_attnBlinking_stateBody>Vyskytla sa pokračovateľná chyba.</readyOn_attnBlinking_stateBody>
+		<readyOn_attnBlinking_actionBody>Stlačením tlačidla Vykonať odstráňte chybu a vytlačte zostávajúce údaje. Ak bolo obnovenie úspešné, produkt prejde do stavu Spracovávanie údajov a dokončí úlohu.
+Ak bolo obnovenie neúspešné, produkt sa vráti do stavu Pokračovateľná chyba. Skúste odstrániť médiá z dráhy médií a potom vypnúť a zapnúť napájanie produktu.</readyOn_attnBlinking_actionBody>
+		<allOn_title>Svietia indikátory Pozor, Pripravené a Vykonať. Nesvieti indikátor tlačovej kazety.</allOn_title>
+		<allOn_stateBody>Vyskytla sa fatálna chyba, ktorú produkt nedokáže sám odstrániť.</allOn_stateBody>
+		<allOn_actionBody>1. Vypnite produkt.&#xD;2. Počkajte 30 sekúnd a produkt zapnite.&#xD;3. Počkajte na inicializáciu produktu.
+Ak problém pretrváva, obráťte sa na zákaznícku podporu spoločnosti HP.</allOn_actionBody>
+		<ready_tonerOn_title>Svietia indikátor Pripravené a indikátor tlačovej kazety. Nesvieti žiadny iný indikátor.</ready_tonerOn_title>
+		<ready_tonerOn_stateBody>Tlačová kazeta je na konci svojej odhadovanej životnosti.</ready_tonerOn_stateBody>
+		<ready_tonerOn_actionBody>Objednajte novú tlačovú kazetu a majte ju pripravenú.</ready_tonerOn_actionBody>
+		<tonerBlinking_title>Bliká indikátor tlačovej kazety. Nesvieti žiadny iný indikátor.</tonerBlinking_title>
+		<tonerBlinking_stateBody>Tlačová kazeta bola vybratá z produktu.</tonerBlinking_stateBody>
+		<tonerBlinking_actionBody>Znovu vložte tlačovú kazetu do produktu.</tonerBlinking_actionBody>
+	</sk>
+</document>
+

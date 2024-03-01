@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<lv>
+		<header>Mainīt vadības paneļa indikatoru norādes</header>
+		<view_labels>»Skatīt vadības paneļa uzlīmes</view_labels>
+		<toner_light>Tonera līmeņa indikators</toner_light>
+		<attn_light>Brīdinājuma indikators</attn_light>
+		<ready_light>Gatavības indikators</ready_light>
+		<go_light>Darbības indikators</go_light>
+		<go_button>Poga Aiziet!</go_button>
+		<cancel_button>Poga Atcelt</cancel_button>
+		<state_of_the_product>Produkta stāvoklis</state_of_the_product>
+		<action>Darbība</action>
+		<allOff_title>Visi vadības paneļa indikatori ir izslēgti.</allOff_title>
+		<allOff_choice>Vai strāvas pogas aizmugurgaisma ir ieslēgta vai izslēgta?</allOff_choice>
+		<off>Izslēgts</off>
+		<on>Ieslēgts</on>
+		<allOff1_stateBody>Strāvas pogas aizmugurgaisma ir izslēgta. Produkts ir automātiskas izslēgšanas režīmā vai ir izslēgts.</allOff1_stateBody>
+		<allOff1_actionBody>Nospiediet strāvas pogu, lai deaktivizētu automātiskas izslēgšanas režīmu vai ieslēgtu produktu.</allOff1_actionBody>
+		<allOff2_stateBody>Strāvas pogas aizmugurgaisma ir ieslēgta. Formatētājs nav pareizi savienots ar produktu.</allOff2_stateBody>
+		<allOff2_actionBody>Nospiediet strāvas pogu, lai deaktivizētu automātiskas izslēgšanas režīmu vai ieslēgtu produktu.</allOff2_actionBody>
+		<readyOn_title>Gatavības indikators ir ieslēgts, bet visi pārējie indikatori ir izsl.</readyOn_title>
+		<readyOn_stateBody>Produkts ir gatavības stāvoklī.</readyOn_stateBody>
+		<readyOn_actionBody>Nav nepieciešama nekāda darbība. Produkts ir gatavs saņemt drukas uzdevumu.</readyOn_actionBody>
+		<readyBlinking_title>Gatavības indikators mirgo, bet visi pārējie indikatori ir izsl.</readyBlinking_title>
+		<readyBlinking_stateBody>Produkts saņem vai apstrādā drukas uzdevumu.</readyBlinking_stateBody>
+		<readyBlinking_actionBody>Nav nepieciešama nekāda darbība. Produkts saņem vai apstrādā drukas uzdevumu.
+Lai atceltu pašreizējo drukas uzdevumu, nospiediet pogu Cancel (Atcelt).</readyBlinking_actionBody>
+		<attnBlinking_title>Brīdinājuma indikators mirgo, bet visi pārējie indikatori ir izsl.</attnBlinking_title>
+		<attnBlinking_stateBody>Produktā radās kļūda, kas turpat novēršama, piemēram, iesprūšana, atvērts vāks, drukas kasetnes trūkums vai arī papīra trūkums attiecīgajā teknē.</attnBlinking_stateBody>
+		<attnBlinking_actionBody>Pārbaudiet produktu, nosakiet kļūdu un pēc tam to izlabojiet.</attnBlinking_actionBody>
+		<alternating_title>Brīdinājuma, gatavības un darbības indikatoru cikls. Tonera līmeņa indikators ir izslēgts.</alternating_title>
+		<alternating_stateBody>Notiek formatētāja inicializēšana.</alternating_stateBody>
+		<alternating_actionBody>Nav nepieciešama nekāda darbība. Gaidiet, līdz beigsies inicializācija. Tiklīdz inicializācija ir pabeigta, produkts nonāk gatavības stāvoklī.</alternating_actionBody>
+		<readyOn_attnBlinking_title>Brīdinājuma indikators mirgo, gatavības indikators ir ieslēgts, bet visi pārējie indikatori ir izslēgti.</readyOn_attnBlinking_title>
+		<readyOn_attnBlinking_stateBody>Produktā ir radusies nekritiska kļūda.</readyOn_attnBlinking_stateBody>
+		<readyOn_attnBlinking_actionBody>Lai izlabotu kļūdu un izdrukātu pieejamo informāciju, nospiediet pogu Go (Aiziet!). Ja izlabošana ir sekmīga, produkts pāriet uz datu saņemšanas režīmu un pabeidz darbu.
+Ja izlabošana ir nesekmīga, produkts atgriežas nekritiskās kļūdas stāvoklī. Izņemiet visus apdrukājamos materiālus no materiālu ceļa un atslēdziet produkta strāvas padevi, pēc tam atkal ieslēdziet.</readyOn_attnBlinking_actionBody>
+		<allOn_title>Brīdinājuma, gatavības un darbības indikatori ir ieslēgti. Tonera līmeņa indikators ir izslēgts.</allOn_title>
+		<allOn_stateBody>Produktā ir radusies fatāla kļūda, kuru produkts pats izlabot nevar.</allOn_stateBody>
+		<allOn_actionBody>1. Izslēdziet produktu.&#xD;2. Pagaidiet 30 sekundes un vēlreiz ieslēdziet produktu.&#xD;3. Gaidiet produkta inicializāciju.
+Ja kļūda joprojām pastāv, sazinieties ar HP klientu atbalstu.</allOn_actionBody>
+		<ready_tonerOn_title>Gatavības un tonera līmeņa indikatori ir ieslēgti. Visi pārējie indikatori ir izslēgti.</ready_tonerOn_title>
+		<ready_tonerOn_stateBody>Drukas kasetne ir gandrīz tukša.</ready_tonerOn_stateBody>
+		<ready_tonerOn_actionBody>Pasūtiet jaunu drukas kasetni un izmantojiet to.</ready_tonerOn_actionBody>
+		<tonerBlinking_title>Tonera līmeņa indikators mirgo. Visi pārējie indikatori ir izslēgti.</tonerBlinking_title>
+		<tonerBlinking_stateBody>Drukas kasetne ir izņemta no produkta.</tonerBlinking_stateBody>
+		<tonerBlinking_actionBody>Ielieciet drukas kasetni atpakaļ produktā.</tonerBlinking_actionBody>
+	</lv>
+</document>
+

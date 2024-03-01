@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><document>
+	<sk>
+		<header>Vysvetlenie vzorov svetelnej signalizácie ovládacieho panela</header>
+		<view_labels>»Zobrazenie štítkov ovládacieho panela</view_labels>
+		<state_of_the_product>Stav produktu</state_of_the_product>
+		<action>Odporúčaný postup</action>
+		<wlan_button>Tlačidlo bezdrôtovej siete</wlan_button>
+		<wlan_light>Indikátor bezdrôtovej siete</wlan_light>
+		<ready_light>Indikátor Pripravené</ready_light>
+		<attn_light>Indikátor Pozor</attn_light>
+		<cancel_button>Tlačidlo Zrušiť</cancel_button>
+		<allOff_title>Nesvieti žiadny indikátor.</allOff_title>
+		<allOff_stateBody>Produkt je v režime Automatické vypnutie alebo je vypnutý.</allOff_stateBody>
+		<allOff_actionBody>Stlačením tlačidla napájania deaktivujete režim Automatické vypnutie alebo zapnete produkt.</allOff_actionBody>
+		<readyOn_title>Svieti indikátor Pripravené a nesvieti indikátor Pozor.</readyOn_title>
+		<readyOn_stateBody>Produkt je v stave Pripravené.</readyOn_stateBody>
+		<readyOn_actionBody>Nevyžaduje sa žiadny úkon. Produkt je pripravený na prijatie tlačovej úlohy.</readyOn_actionBody>
+		<readyBlinking_title>Bliká indikátor Pripravené a nesvieti indikátor Pozor.</readyBlinking_title>
+		<readyBlinking_stateBody>Produkt prijíma alebo spracováva údaje.</readyBlinking_stateBody>
+		<readyBlinking_actionBody>Nevyžaduje sa žiadny úkon. Produkt prijíma alebo spracováva tlačovú úlohu.</readyBlinking_actionBody>
+		<attnBlinking_title>Bliká indikátor Pozor a nesvieti indikátor Pripravené.</attnBlinking_title>
+		<attnBlinking_stateBody>Vyskytla sa chyba, ktorú je možné odstrániť v produkte, napríklad uviaznutie papiera, otvorené dvierka, chýbajúca tlačová kazeta alebo chýbajúci papier v príslušnom zásobníku.</attnBlinking_stateBody>
+		<attnBlinking_actionBody>Produkt skontrolujte, určte chybu a následne ju odstráňte. Ak chybu spôsobil chýbajúci papier v príslušnom zásobníku alebo ak je produkt v režime manuálneho podávania, do zásobníka vložte správny typ papiera a riaďte sa inštalačnými pokynmi na obrazovke alebo otvorením a zatvorením dvierok tlačovej kazety obnovte tlač.</attnBlinking_actionBody>
+		<alternating_title>Cyklicky svietia indikátory stavu.</alternating_title>
+		<alternating_stateBody>Počas spracovávania čistiacej stránky cyklicky svietia indikátory stavu.</alternating_stateBody>
+		<alternating_actionBody>Nevyžaduje sa žiadny úkon. Počas spracovávania čistiacej stránky sa produkt uvedie do stavu Pripravené.</alternating_actionBody>
+		<unison_title>Indikátory stavu blikajú súčasne.</unison_title>
+		<unison_stateBody>Indikátory stavu blikajú súčasne počas inicializácie formátovača.</unison_stateBody>
+		<unison_actionBody>Nevyžaduje sa žiadny úkon. Počkajte na koniec inicializácie. Po dokončení inicializácie sa produkt uvedie do stavu Pripravené.</unison_actionBody>
+		<readyOn_attnBlinking_title>Bliká indikátor Pozor a svieti indikátor Pripravené.</readyOn_attnBlinking_title>
+		<readyOn_attnBlinking_stateBody>Vyskytla sa pokračovateľná chyba, ktorú produkt odstráni sám.</readyOn_attnBlinking_stateBody>
+		<readyOn_attnBlinking_actionBody>Ak bolo obnovenie úspešné, produkt prejde do stavu Spracovávanie údajov a dokončí úlohu.
+Ak bolo obnovenie neúspešné, produkt sa vráti do stavu Pokračovateľná chyba. Skúste odstrániť médiá z dráhy médií a potom vypnúť a zapnúť produkt.</readyOn_attnBlinking_actionBody>
+		<allOn_title>Svietia indikátory Pozor a Pripravené.</allOn_title>
+		<allOn_stateBody>Vyskytla sa fatálna chyba, ktorú produkt nedokáže sám odstrániť.</allOn_stateBody>
+		<allOn_actionBody>1. Vypnite produkt.&#xD;2. Počkajte 30 sekúnd a potom produkt zapnite alebo k nemu opäť pripojte napájací kábel.&#xD;3. Počkajte na inicializáciu produktu.
+Ak problém pretrváva, obráťte sa na zákaznícku podporu spoločnosti HP.</allOn_actionBody>
+		<wirelessBlinking_title>Bliká indikátor bezdrôtovej siete.</wirelessBlinking_title>
+		<wirelessBlinking_stateBody>Produkt sa pokúša vyhľadať bezdrôtovú sieť.</wirelessBlinking_stateBody>
+		<wirelessBlinking_actionBody>Nevyžaduje sa žiadny úkon.</wirelessBlinking_actionBody>
+		<wirelessOn_title>Svieti indikátor bezdrôtovej siete.</wirelessOn_title>
+		<wirelessOn_stateBody>Produkt je pripojený k bezdrôtovej sieti.</wirelessOn_stateBody>
+		<wirelessOn_actionBody>Nevyžaduje sa žiadny úkon.</wirelessOn_actionBody>
+	</sk>
+</document>
+

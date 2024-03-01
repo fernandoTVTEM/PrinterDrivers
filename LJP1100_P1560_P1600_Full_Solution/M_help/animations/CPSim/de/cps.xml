@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<de>
+		<header>LED-Leuchtmuster auf dem Bedienfeld</header>
+		<view_labels>»Erläuterungen anzeigen</view_labels>
+		<toner_light>Toner-LED</toner_light>
+		<attn_light>Achtung-LED</attn_light>
+		<ready_light>Bereit-LED</ready_light>
+		<go_light>Start-LED</go_light>
+		<go_button>Start</go_button>
+		<cancel_button>Abbrechen</cancel_button>
+		<state_of_the_product>Zustand des Druckers</state_of_the_product>
+		<action>Aktion</action>
+		<allOff_title>Alle LEDs auf dem Bedienfeld sind deaktiviert.</allOff_title>
+		<allOff_choice>Leuchtet die hintergrundbeleuchtete LED der Einschalttaste?</allOff_choice>
+		<off>Aus</off>
+		<on>Ein</on>
+		<allOff1_stateBody>Die hintergrundbeleuchtete LED der Einschalttaste leuchtet nicht. Der Drucker befindet sich im Auto-Aus-Modus oder ist ausgeschaltet.</allOff1_stateBody>
+		<allOff1_actionBody>Drücken Sie die Einschalttaste, um den Auto-Aus-Modus zu deaktivieren bzw. den Drucker einzuschalten.</allOff1_actionBody>
+		<allOff2_stateBody>Die hintergrundbeleuchtete LED der Einschalttaste leuchtet. Der Formatierer ist nicht korrekt an den Drucker angeschlossen.</allOff2_stateBody>
+		<allOff2_actionBody>Drücken Sie die Einschalttaste, um den Auto-Aus-Modus zu deaktivieren bzw. den Drucker einzuschalten.</allOff2_actionBody>
+		<readyOn_title>Die Bereit-LED leuchtet, alle anderen LEDs leuchten nicht.</readyOn_title>
+		<readyOn_stateBody>Der Drucker befindet sich im Bereitschaftsmodus.</readyOn_stateBody>
+		<readyOn_actionBody>Es sind keine weiteren Maßnahmen erforderlich. Das Gerät ist druckbereit.</readyOn_actionBody>
+		<readyBlinking_title>Die Bereit-LED blinkt, alle anderen LEDs leuchten nicht.</readyBlinking_title>
+		<readyBlinking_stateBody>Der Drucker empfängt oder verarbeitet gerade einen Druckauftrag.</readyBlinking_stateBody>
+		<readyBlinking_actionBody>Es sind keine weiteren Maßnahmen erforderlich. Der Drucker empfängt oder verarbeitet gerade einen Druckauftrag.
+Wenn Sie den aktuellen Auftrag abbrechen möchten, drücken Sie die Abbruch-Taste.</readyBlinking_actionBody>
+		<attnBlinking_title>Die Achtung-LED blinkt, alle anderen LEDs leuchten nicht.</attnBlinking_title>
+		<attnBlinking_stateBody>Es ist ein Problem aufgetreten, das direkt am Drucker behoben werden kann (Papierstau, offene Klappe, fehlende Druckpatrone, kein Papier).</attnBlinking_stateBody>
+		<attnBlinking_actionBody>Überprüfen Sie den Drucker, um das Problem zu lokalisieren und zu beheben.</attnBlinking_actionBody>
+		<alternating_title>Die Achtung-, Bereit- und Start-LEDs leuchten abwechselnd. Die Toner-LED leuchtet nicht.</alternating_title>
+		<alternating_stateBody>Der Formatierer wird initialisiert.</alternating_stateBody>
+		<alternating_actionBody>Es sind keine weiteren Maßnahmen erforderlich. Warten Sie, bis die Initialisierung abgeschlossen ist. Der Drucker wechselt nach dem Initialisieren automatisch in den Bereitschaftsmodus.</alternating_actionBody>
+		<readyOn_attnBlinking_title>Die Achtung-LED blinkt, die Bereit-LED leuchtet, alle anderen LEDs leuchten nicht.</readyOn_attnBlinking_title>
+		<readyOn_attnBlinking_stateBody>Es ist ein übergehbarer Fehler aufgetreten.</readyOn_attnBlinking_stateBody>
+		<readyOn_attnBlinking_actionBody>Um den Druckerbetrieb fortzusetzen und die verfügbaren Daten zu drucken, drücken Sie die Start-Taste. Wenn der Betrieb fortgesetzt werden kann, wechselt der Drucker in den Datenverarbeitungszustand und schließt den Druckauftrag ab.
+Kann die Fehlerbedingung nicht überwunden und der Betrieb nicht fortgesetzt werden, bleibt das Gerät im Zustand „Übergehbarer Fehler“. Entfernen Sie alle Medien aus dem Medienpfad, und schalten Sie das Gerät aus und wieder ein.</readyOn_attnBlinking_actionBody>
+		<allOn_title>Die Achtung-, Bereit- und Start-LEDs leuchten. Die Toner-LED leuchtet nicht.</allOn_title>
+		<allOn_stateBody>Es ist ein schwerwiegender Fehler aufgetreten, den der Drucker nicht selbsttätig beheben kann.</allOn_stateBody>
+		<allOn_actionBody>1. Schalten Sie den Drucker aus.&#xD;2. Warten Sie 30 Sekunden, und schalten Sie das Gerät dann wieder ein.&#xD;3. Warten Sie, bis die Initialisierung abgeschlossen ist.
+Wenn der Fehler weiterhin auftritt, wenden Sie sich an den HP Kundendienst.</allOn_actionBody>
+		<ready_tonerOn_title>Die Bereit- und Toner-LEDs leuchten. Alle anderen LEDs sind deaktiviert.</ready_tonerOn_title>
+		<ready_tonerOn_stateBody>Die Druckpatrone ist fast leer.</ready_tonerOn_stateBody>
+		<ready_tonerOn_actionBody>Bestellen Sie eine neue Druckpatrone, und halten Sie sie bereit.</ready_tonerOn_actionBody>
+		<tonerBlinking_title>Die Toner-LED blinkt. Alle anderen LEDs sind deaktiviert.</tonerBlinking_title>
+		<tonerBlinking_stateBody>Die Druckpatrone wurde aus dem Drucker genommen.</tonerBlinking_stateBody>
+		<tonerBlinking_actionBody>Setzen Sie die Druckpatrone wieder in den Drucker ein.</tonerBlinking_actionBody>
+	</de>
+</document>
+

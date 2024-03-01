@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<zhtw>
+		<header>解讀控制面板指示燈模式</header>
+		<view_labels>»檢視控制面板標籤</view_labels>
+		<toner_light>碳粉匣指示燈</toner_light>
+		<attn_light>注意指示燈</attn_light>
+		<ready_light>就緒指示燈</ready_light>
+		<go_light>列印指示燈</go_light>
+		<go_button>列印按鈕</go_button>
+		<cancel_button>取消按鈕</cancel_button>
+		<state_of_the_product>產品狀態</state_of_the_product>
+		<action>操作</action>
+		<allOff_title>控制面板指示燈全部熄滅。</allOff_title>
+		<allOff_choice>電源按鈕的背景光源是亮起或熄滅？</allOff_choice>
+		<off>熄滅</off>
+		<on>亮起</on>
+		<allOff1_stateBody>電源按鈕的背景光源熄滅。 產品處於「自動關閉」模式或電源已關閉。</allOff1_stateBody>
+		<allOff1_actionBody>請按下電源按鈕以解除「自動關閉」模式，或開啟產品電源。</allOff1_actionBody>
+		<allOff2_stateBody>電源按鈕的背景光源亮起。 電路板尚未正確連接至產品。</allOff2_stateBody>
+		<allOff2_actionBody>請按下電源按鈕以解除「自動關閉」模式，或開啟產品電源。</allOff2_actionBody>
+		<readyOn_title>就緒指示燈亮起，且其他指示燈全部熄滅。</readyOn_title>
+		<readyOn_stateBody>產品處於就緒狀態。</readyOn_stateBody>
+		<readyOn_actionBody>不需要採取任何動作。 產品已就緒，可以開始接收列印工作。</readyOn_actionBody>
+		<readyBlinking_title>就緒指示燈閃爍，且其他指示燈全部熄滅。</readyBlinking_title>
+		<readyBlinking_stateBody>印表機正在接收或處理列印工作。</readyBlinking_stateBody>
+		<readyBlinking_actionBody>不需要採取任何動作。 印表機正在接收或處理列印工作。
+若要取消目前的工作，請按取消列印按鈕。</readyBlinking_actionBody>
+		<attnBlinking_title>注意指示燈閃爍，且其他指示燈全部熄滅。</attnBlinking_title>
+		<attnBlinking_stateBody>產品發生錯誤，此錯誤可於產品部位進行修正，例如卡紙、機門未關上、缺少碳粉匣、或是紙匣缺紙。</attnBlinking_stateBody>
+		<attnBlinking_actionBody>請檢查產品，判斷錯誤為何，然後加以修正。</attnBlinking_actionBody>
+		<alternating_title>注意、就緒與列印指示燈循環亮起。 碳粉匣指示燈熄滅。</alternating_title>
+		<alternating_stateBody>電路板正在初始化。</alternating_stateBody>
+		<alternating_actionBody>不需要採取任何動作。 請等候初始化階段結束。 當初始化階段完成後，產品會進入「就緒」狀態。</alternating_actionBody>
+		<readyOn_attnBlinking_title>注意指示燈閃爍，就緒指示燈亮起，且其他指示燈全部熄滅。</readyOn_attnBlinking_title>
+		<readyOn_attnBlinking_stateBody>產品發生連續錯誤。</readyOn_attnBlinking_stateBody>
+		<readyOn_attnBlinking_actionBody>若要從錯誤中恢復並列印可用的資料，請按列印按鈕。 如果能成功恢復，產品會變成「處理資料中」狀態並完成工作。
+如果無法成功恢復，產品會變成「可繼續的錯誤」狀態。 嘗試由紙材通道中移除所有紙材並將產品電源關閉，然後再次開啟電源。</readyOn_attnBlinking_actionBody>
+		<allOn_title>注意、就緒和列印指示燈亮起。 碳粉匣指示燈熄滅。</allOn_title>
+		<allOn_stateBody>產品發生嚴重錯誤，無法從此錯誤中恢復。</allOn_stateBody>
+		<allOn_actionBody>1. 關閉產品電源。&#xD;2. 等候 30 秒，然後開啟產品電源。&#xD;3. 等候產品初始化。
+如果持續發生錯誤，請聯絡 HP 客戶支援部門。</allOn_actionBody>
+		<ready_tonerOn_title>就緒和碳粉匣指示燈亮起。 其他指示燈全部熄滅。</ready_tonerOn_title>
+		<ready_tonerOn_stateBody>碳粉匣接近估計使用壽命。</ready_tonerOn_stateBody>
+		<ready_tonerOn_actionBody>訂購新碳粉匣並安裝妥當。</ready_tonerOn_actionBody>
+		<tonerBlinking_title>碳粉匣指示燈閃爍。 其他指示燈全部熄滅。</tonerBlinking_title>
+		<tonerBlinking_stateBody>碳粉匣已從產品中取出。</tonerBlinking_stateBody>
+		<tonerBlinking_actionBody>將碳粉匣重新裝入產品中。</tonerBlinking_actionBody>
+	</zhtw>
+</document>
+

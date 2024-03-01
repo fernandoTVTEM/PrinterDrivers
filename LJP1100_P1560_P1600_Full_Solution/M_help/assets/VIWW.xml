@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?><document>
+	<text name="searchHP" targetName="searchHPCom"><span class="yellow12Bold">» Thực hiện tìm kiếm trên HP.com</span></text>
+	<text name="search">Tìm kiếm</text>
+	<text name="close">Đóng</text>
+	<text name="productTitle" anchor="center" aX="556" y="203"><span class="white16Center">Dòng Máy in<br/>HP LaserJet Professional<br/>P1560 và P1600</span></text>
+	<text name="applicationTitle" anchor="right" aX="41" y="27"><span class="white20Right">Trung tâm Hướng dẫn sử dụng và Trợ giúp</span></text>
+	<text name="laserjet" anchor="left" aX="100" y="24"><span class="white24Bold">LASERJET</span></text>
+	<topBarLinks>
+		<text name="webSupport" targetName="webSupport"><span class="white12">Hỗ trợ Web</span></text>
+		<text name="sureSupply" targetName="sureSupply"><span class="white12">SureSupply</span></text>
+		<text name="hpSite" targetName="hpSite"><span class="white12">hp.com</span></text>
+	</topBarLinks>
+	<bottomButtons>
+		<button name="everydayJobs" menuName="menu1" x="9" y="532"><span class="white14Bold">Các công việc Hàng ngày</span></button>
+		<button name="manageMaintain" menuName="menu2" x="238" y="532"><span class="white14Bold">Quản lý &amp; Bảo trì</span></button>
+		<button name="solveProblem" menuName="menu3" x="467" y="532"><span class="white14Bold">Giải quyết Sự cố</span></button>
+	</bottomButtons>
+	<menuList menuType="main" name="main1" x="20" y="200">
+		<text>
+			<span class="yellow16Bold">TÌM NHANH</span>
+		</text>
+		<text targetName="PrinterLightPatterns"><span class="white14">» Các mẫu đèn trên máy in</span></text>
+		<text targetName="ReplaceThePrintCartridge"><span class="white14">» Thay hộp mực in</span></text>
+		<text targetName="ClearPaperJams"><span class="white14">» Xử lý kẹt giấy</span></text>
+		<text targetName="FindTheIpAddress"><span class="white14">» Tìm địa chỉ IP </span></text>
+		<text targetName="LoadPaperTrays"><span class="white14">» Nạp giấy vào khay</span></text>
+		<text targetName="UseHpEprint"><span class="white14">» Sử dụng HP ePrint</span></text>
+	</menuList>
+	<menuList menuType="main" name="main2_local" x="20" y="430">
+		<text targetName="userGuideDialogTarget">
+			<span class="white18">» Duyệt Hướng dẫn Sử dụng</span>
+		</text>
+	</menuList>
+	<menuList menuType="main" name="main2_si" x="20" y="430">
+		<text targetName="onlineUserGuide">
+			<span class="white18">» Duyệt Hướng dẫn Sử dụng</span>
+		</text>
+	</menuList>
+	<menuList name="menu1">
+		<text><span class="yellow11Bold">Các thao tác in</span></text>
+		<text targetName="CancelAPrintJob"><span class="white12">» Huỷ lệnh in</span></text>
+		<text targetName="OpenThePrinterDriver"><span class="white12">» Mở trình điều khiển máy in</span></text>
+		<text targetName="GetHelpForAnyPrintOption"><span class="white12">» Tìm sự trợ giúp về các tùy chọn in ấn</span></text>
+		<text targetName="SelectAPageSize"><span class="white12">» Chọn kích thước giấy</span></text>
+		<text targetName="PrintOnBothSidesDuplex"><span class="white12">» In hai mặt (hai mặt)</span></text>
+		<text targetName="PrintMultiplePagesPerSheet"><span class="white12">» In nhiều trang một tờ</span></text>
+		<text targetName="SelectPageOrientation"><span class="white12">» Chọn hướng giấy</span></text>
+		<text targetName="SetPaperAndQualityOptions"><span class="white12">» Đặt các tùy chọn chất lượng và giấy in</span></text>
+		<text targetName="CreateABooklet"><span class="white12">» Tạo một tập sách mỏng</span></text>
+		<text targetName="ScaleADocumentToFitPageSize"><span class="white12">» Co giãn tài liệu cho vừa với kích thước trang</span></text>
+		<text targetName="PrintOnPrePrintedLetterheadOrForms"><span class="white12">» In trên giấy tiêu đề hoặc mẫu in sẵn</span></text>
+		<text targetName="PrintOnSpecialPaper"><span class="white12">» In trên giấy đặc biệt</span></text>
+		<text targetName="PrintTheFirstOrLastPageOnDifferentPaper"><span class="white12">» In trang đầu hoặc trang cuối trên giấy khác nhau</span></text>
+	</menuList>
+	<menuList name="menu2">
+		<text targetName="ViewTheHpEmbeddedWebServerEws"><span class="white12">» Xem máy chủ Web nhúng của HP (EWS)</span></text>
+		<text targetName="PrintInformationPages"><span class="white12">» In trang thông tin</span></text>
+		<text targetName="ReplaceThePrintCartridge"><span class="white12">» Thay hộp mực in</span></text>
+		<text targetName="PrintACleaningPage"><span class="white12">» In một trang lau dọn</span></text>
+		<text targetName="ChangeEnergySettings"><span class="white12">» Thay đổi cài đặt năng lượng</span></text>
+		<text targetName="SetQuietMode"><span class="white12">» Cài chế độ yên tĩnh</span></text>
+		<text targetName="FindOrChangeTheIpAddress"><span class="white12">» Tìm hoặc thay đổi địa chỉ IP</span></text>
+	</menuList>
+	<menuList name="menu3">
+		<text targetName="ClearPaperJams"><span class="white12">» Xử lý kẹt giấy</span></text>
+		<text targetName="ReduceSteamOrVapor"><span class="white12">» Giảm hơi nước hoặc bốc hơi</span></text>
+		<text targetName="InterpretPrinterLightPatterns"><span class="white12">» Giải thích các mẫu đèn máy in</span></text>
+		<text targetName="SolveImageQualityProblems"><span class="white12">» Giải quyết các vấn đề về chất lượng hình ảnh</span></text>
+	</menuList>
+	<dialog name="userGuideDialog">
+		<menuList>
+			<text targetName="localUserGuide"><span class="white14">» Mở hướng dẫn sử dụng trên máy tính của tôi.</span></text>
+			<text><span class="white14">Hoặc</span></text>
+			<text targetName="onlineUserGuide"><span class="white14">» Mở phiên bản mới nhất trên trang Web.</span></text>
+		</menuList>
+	</dialog>
+	<dialog name="webSupportDialog">
+		<menuList>
+			<text targetName="webSupport1560"><span class="white14">» HP Laserjet Pro P1560</span></text>
+			<text targetName="webSupport1600"><span class="white14">» HP Laserjet Pro P1600</span></text>
+		</menuList>
+	</dialog>
+</document>

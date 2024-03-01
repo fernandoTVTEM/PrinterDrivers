@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><document>
+	<el>
+		<header>Ερμηνεία συνδυασμών λυχνιών πίνακα ελέγχου</header>
+		<view_labels>»Προβολή ετικετών πίνακα ελέγχου</view_labels>
+		<state_of_the_product>Κατάσταση προϊόντος</state_of_the_product>
+		<action>Ενέργεια</action>
+		<wlan_button>Κουμπί ασύρματου δικτύου</wlan_button>
+		<wlan_light>Λυχνία ασύρματου δικτύου</wlan_light>
+		<ready_light>Λυχνία ετοιμότητας</ready_light>
+		<attn_light>Λυχνία προσοχής</attn_light>
+		<cancel_button>Κουμπί ακύρωσης</cancel_button>
+		<allOff_title>Όλες οι λυχνίες είναι σβηστές.</allOff_title>
+		<allOff_stateBody>Το προϊόν είναι σε λειτουργία αυτόματης απενεργοποίησης ή είναι απενεργοποιημένο.</allOff_stateBody>
+		<allOff_actionBody>Πατήστε το κουμπί λειτουργίας για να απενεργοποιήσετε τη λειτουργία αυτόματης απενεργοποίησης ή να ενεργοποιήσετε το προϊόν.</allOff_actionBody>
+		<readyOn_title>Η λυχνία ετοιμότητας είναι αναμμένη και η λυχνία προσοχής σβηστή.</readyOn_title>
+		<readyOn_stateBody>Το προϊόν είναι σε κατάσταση ετοιμότητας.</readyOn_stateBody>
+		<readyOn_actionBody>Δεν απαιτείται καμία ενέργεια. Το προϊόν είναι έτοιμο να λάβει εργασία εκτύπωσης.</readyOn_actionBody>
+		<readyBlinking_title>Η λυχνία ετοιμότητας αναβοσβήνει και η λυχνία προσοχής είναι σβηστή.</readyBlinking_title>
+		<readyBlinking_stateBody>Το προϊόν λαμβάνει ή επεξεργάζεται δεδομένα.</readyBlinking_stateBody>
+		<readyBlinking_actionBody>Δεν απαιτείται καμία ενέργεια. Το προϊόν λαμβάνει ή επεξεργάζεται μια εργασία εκτύπωσης.</readyBlinking_actionBody>
+		<attnBlinking_title>Η λυχνία προσοχής αναβοσβήνει και η λυχνία ετοιμότητας είναι σβηστή.</attnBlinking_title>
+		<attnBlinking_stateBody>Το προϊόν παρουσίασε κάποιο σφάλμα το οποίο μπορεί να διορθωθεί στο προϊόν, όπως εμπλοκή, ανοιχτή θύρα, απουσία δοχείου εκτύπωσης ή απουσία χαρτιού στο σωστό δίσκο.</attnBlinking_stateBody>
+		<attnBlinking_actionBody>Ελέγξτε το προϊόν, προσδιορίστε το σφάλμα και, στη συνέχεια, διορθώστε το. Εάν το σφάλμα είναι η απουσία χαρτιού στο σωστό δίσκο ή εάν το προϊόν είναι σε λειτουργία τροφοδοσίας με το χέρι, τοποθετήστε το κατάλληλο χαρτί στο δίσκο και ακολουθήστε τις οδηγίες στην οθόνη ή ανοίξτε και κλείστε τη θύρα δοχείων εκτύπωσης για να συνεχιστεί η εκτύπωση.</attnBlinking_actionBody>
+		<alternating_title>Οι λυχνίες κατάστασης αναβοσβήνουν διαδοχικά.</alternating_title>
+		<alternating_stateBody>Οι λυχνίες κατάστασης αναβοσβήνουν διαδοχικά όταν το προϊόν επεξεργάζεται μια σελίδα καθαρισμού.</alternating_stateBody>
+		<alternating_actionBody>Δεν απαιτείται καμία ενέργεια. Το προϊόν θα τεθεί σε κατάσταση ετοιμότητας όταν ολοκληρωθεί η επεξεργασία της σελίδας καθαρισμού.</alternating_actionBody>
+		<unison_title>Οι λυχνίες κατάστασης αναβοσβήνουν ταυτόχρονα.</unison_title>
+		<unison_stateBody>Οι λυχνίες κατάστασης αναβοσβήνουν ταυτόχρονα κατά την προετοιμασία του μορφοποιητή.</unison_stateBody>
+		<unison_actionBody>Δεν απαιτείται καμία ενέργεια. Περιμένετε έως ότου ολοκληρωθεί η προετοιμασία. Το προϊόν θα τεθεί σε κατάσταση ετοιμότητας όταν ολοκληρωθεί η προετοιμασία.</unison_actionBody>
+		<readyOn_attnBlinking_title>Η λυχνία προσοχής αναβοσβήνει και η λυχνία ετοιμότητας είναι αναμμένη.</readyOn_attnBlinking_title>
+		<readyOn_attnBlinking_stateBody>Το προϊόν παρουσίασε επαναλαμβανόμενο σφάλμα από το οποίο θα επανέλθει μόνο του.</readyOn_attnBlinking_stateBody>
+		<readyOn_attnBlinking_actionBody>Εάν η επαναφορά είναι επιτυχής, το προϊόν προχωρά στην κατάσταση επεξεργασίας δεδομένων και ολοκληρώνει την εργασία.
+Εάν η επαναφορά δεν είναι επιτυχής, το προϊόν παραμένει στην κατάσταση επαναλαμβανόμενου σφάλματος. Δοκιμάστε να αφαιρέσετε τυχόν μέσα εκτύπωσης από τη διαδρομή μέσων εκτύπωσης και έπειτα απενεργοποιήστε και ενεργοποιήστε ξανά το προϊόν.</readyOn_attnBlinking_actionBody>
+		<allOn_title>Οι λυχνίες προσοχής και ετοιμότητας είναι αναμμένες.</allOn_title>
+		<allOn_stateBody>Το προϊόν αντιμετώπισε ανεπανόρθωτο σφάλμα από το οποίο δεν μπορεί να επανέλθει.</allOn_stateBody>
+		<allOn_actionBody>1. Απενεργοποιήστε το προϊόν.&#xD;2. Περιμένετε 30 δευτερόλεπτα και έπειτα ενεργοποιήστε το προϊόν ή επανασυνδέστε το καλώδιο τροφοδοσίας στο προϊόν.&#xD;3. Περιμένετε να γίνει προετοιμασία του προϊόντος.
+Εάν εξακολουθεί να εμφανίζεται το σφάλμα, επικοινωνήστε με την εξυπηρέτηση πελατών της ΗΡ.</allOn_actionBody>
+		<wirelessBlinking_title>Η λυχνία ασύρματης λειτουργίας αναβοσβήνει.</wirelessBlinking_title>
+		<wirelessBlinking_stateBody>Το προϊόν προσπαθεί να εντοπίσει ασύρματο δίκτυο.</wirelessBlinking_stateBody>
+		<wirelessBlinking_actionBody>Δεν απαιτείται καμία ενέργεια.</wirelessBlinking_actionBody>
+		<wirelessOn_title>Η λυχνία ασύρματης λειτουργίας είναι αναμμένη.</wirelessOn_title>
+		<wirelessOn_stateBody>Το προϊόν είναι συνδεδεμένο σε ασύρματο δίκτυο.</wirelessOn_stateBody>
+		<wirelessOn_actionBody>Δεν απαιτείται καμία ενέργεια.</wirelessOn_actionBody>
+	</el>
+</document>
+

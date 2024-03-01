@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<th>
+		<header>ตีความรูปแบบไฟสัญญาณแผงควบคุม</header>
+		<view_labels>»ดูป้ายกำกับบนแผงควบคุม</view_labels>
+		<toner_light>ไฟสถานะตลับหมึก</toner_light>
+		<attn_light>ไฟสัญญาณเตือน</attn_light>
+		<ready_light>ไฟสัญญาณพร้อม</ready_light>
+		<go_light>ไฟสัญญาณทำงาน</go_light>
+		<go_button>ปุ่มทำงาน</go_button>
+		<cancel_button>ปุ่มยกเลิก</cancel_button>
+		<state_of_the_product>สภาพของอุปกรณ์</state_of_the_product>
+		<action>การปฏิบัติ</action>
+		<allOff_title>ไฟสัญญาณทั้งหมดบนแผงควบคุมดับ</allOff_title>
+		<allOff_choice>ไฟแบ็คไลท์ของปุ่มเพาเวอร์สว่างหรือดับอยู่?</allOff_choice>
+		<off>ดับ</off>
+		<on>สว่าง</on>
+		<allOff1_stateBody>ไฟแบ็คไลท์ของปุ่มเพาเวอร์ดับอยู่ อุปกรณ์อยู่ในโหมดปิดอัตโนมัติหรือปิดเครื่องอยู่</allOff1_stateBody>
+		<allOff1_actionBody>กดปุ่มเพาเวอร์เพื่อยกเลิกการใช้งานโหมดปิดอัตโนมัติหรือเปิดเครื่อง</allOff1_actionBody>
+		<allOff2_stateBody>ไฟแบ็คไลท์ของปุ่มเพาเวอร์สว่างอยู่ ตัวจัดรูปแบบไม่ได้เชื่อมต่อกับอุปกรณ์อย่างถูกต้อง</allOff2_stateBody>
+		<allOff2_actionBody>กดปุ่มเพาเวอร์เพื่อยกเลิกการใช้งานโหมดปิดอัตโนมัติหรือเปิดเครื่อง</allOff2_actionBody>
+		<readyOn_title>ไฟสัญญาณพร้อมติดสว่าง และไฟสัญญาณอื่นๆ ทั้งหมดดับอยู่</readyOn_title>
+		<readyOn_stateBody>อุปกรณ์อยู่ในสถานะพร้อม</readyOn_stateBody>
+		<readyOn_actionBody>ไม่จำเป็นต้องดำเนินการใดๆ อุปกรณ์พร้อมที่จะรับงานพิมพ์</readyOn_actionBody>
+		<readyBlinking_title>ไฟสัญญาณพร้อมกะพริบ และไฟสัญญาณอื่นๆ ทั้งหมดดับอยู่</readyBlinking_title>
+		<readyBlinking_stateBody>อุปกรณ์กำลังรับหรือประมวลผลงานพิมพ์</readyBlinking_stateBody>
+		<readyBlinking_actionBody>ไม่จำเป็นต้องดำเนินการใดๆ อุปกรณ์กำลังรับหรือประมวลผลงานพิมพ์
+ในการยกเลิกงานปัจจุบัน ให้กดปุ่มยกเลิก</readyBlinking_actionBody>
+		<attnBlinking_title>ไฟสัญญาณเตือนกะพริบ และไฟสัญญาณอื่นๆ ทั้งหมดดับอยู่</attnBlinking_title>
+		<attnBlinking_stateBody>อุปกรณ์เกิดข้อผิดพลาดซึ่งสามารถแก้ไขได้ที่อุปกรณ์ เช่น กระดาษติด ฝาเปิดอยู่ ไม่มีตลับหมึกพิมพ์ หรือไม่มีกระดาษในถาดที่เหมาะสม</attnBlinking_stateBody>
+		<attnBlinking_actionBody>ตรวจสอบอุปกรณ์ ระบุข้อผิดพลาด แล้วแก้ไขข้อผิดพลาด</attnBlinking_actionBody>
+		<alternating_title>ไฟสัญญาณเตือน ไฟสัญญาณพร้อม และไฟสัญญาณทำงานสว่างสลับกันทีละดวง ไฟสถานะตลับหมึกดับอยู่</alternating_title>
+		<alternating_stateBody>ตัวจัดรูปแบบกำลังเริ่มต้นการทำงาน</alternating_stateBody>
+		<alternating_actionBody>ไม่จำเป็นต้องดำเนินการใดๆ รอให้กระบวนการเริ่มการทำงานสิ้นสุดลง อุปกรณ์จะเข้าสู่สถานะพร้อมเมื่อกระบวนการเริ่มการทำงานเสร็จสิ้น</alternating_actionBody>
+		<readyOn_attnBlinking_title>ไฟสัญญาณเตือนกะพริบ ไฟสัญญาณพร้อมติดสว่าง และไฟสัญญาณอื่นๆ ทั้งหมดดับอยู่</readyOn_attnBlinking_title>
+		<readyOn_attnBlinking_stateBody>อุปกรณ์เกิดข้อผิดพลาดอย่างต่อเนื่อง</readyOn_attnBlinking_stateBody>
+		<readyOn_attnBlinking_actionBody>ในการกลับสู่การทำงานปกติ และพิมพ์ข้อมูลที่พร้อมใช้งาน ให้กดปุ่มทำงาน หากกลับสู่การทำงานปกติสำเร็จแล้ว อุปกรณ์จะเข้าสู่สถานะกำลังประมวลผลข้อมูล และจะพิมพ์งานต่อจนเสร็จ
+แต่ถ้าไม่สามารถกลับสู่การทำงานปกติได้ อุปกรณ์จะยังคงอยู่ในสถานะข้อผิดพลาดที่ยังทำงานต่อได้ ลองเอากระดาษออกจากทางผ่านของกระดาษหรือวัสดุพิมพ์ แล้วปิดและเปิดเครื่องอีกครั้ง</readyOn_attnBlinking_actionBody>
+		<allOn_title>ไฟสัญญาณเตือน ไฟสัญญาณพร้อม และไฟสัญญาณทำงานติดสว่าง ไฟสถานะตลับหมึกดับอยู่</allOn_title>
+		<allOn_stateBody>อุปกรณ์เกิดข้อผิดพลาดร้ายแรงและไม่สามารถกลับสู่การทำงานปกติได้</allOn_stateBody>
+		<allOn_actionBody>1. ปิดอุปกรณ์&#xD;2. รอ 30 วินาที จากนั้นเปิดอุปกรณ์อีกครั้ง&#xD;3. รอให้อุปกรณ์เริ่มการทำงาน
+หากข้อผิดพลาดยังคงอยู่ โปรดติดต่อฝ่ายบริการลูกค้าของ HP</allOn_actionBody>
+		<ready_tonerOn_title>ไฟสัญญาณพร้อม และไฟสถานะตลับหมึกติดสว่าง ไฟสัญญาณอื่นๆ ทั้งหมดดับ</ready_tonerOn_title>
+		<ready_tonerOn_stateBody>ตลับหมึกพิมพ์ใกล้จะหมดอายุการใช้งาน</ready_tonerOn_stateBody>
+		<ready_tonerOn_actionBody>สั่งซื้อตลับหมึกพิมพ์ใหม่และเตรียมไว้ให้พร้อม</ready_tonerOn_actionBody>
+		<tonerBlinking_title>ไฟสถานะตลับหมึกกะพริบ ไฟสัญญาณอื่นๆ ทั้งหมดดับ</tonerBlinking_title>
+		<tonerBlinking_stateBody>มีการถอดตลับหมึกพิมพ์ออกจากอุปกรณ์</tonerBlinking_stateBody>
+		<tonerBlinking_actionBody>ใส่ตลับหมึกกลับเข้าสู่อุปกรณ์</tonerBlinking_actionBody>
+	</th>
+</document>
+

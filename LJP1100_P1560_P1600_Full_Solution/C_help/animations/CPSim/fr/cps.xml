@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><document>
+	<fr>
+		<header>Interpréter l'état des voyants du panneau de commande</header>
+		<view_labels>»Afficher les descriptions du panneau de commande</view_labels>
+		<state_of_the_product>Etat de l'imprimante</state_of_the_product>
+		<action>Action</action>
+		<wlan_button>Touche du réseau sans fil</wlan_button>
+		<wlan_light>Voyant du réseau sans fil</wlan_light>
+		<ready_light>Voyant Prête</ready_light>
+		<attn_light>Voyant Attention</attn_light>
+		<cancel_button>Touche Annuler</cancel_button>
+		<allOff_title>Tous les voyants sont éteints.</allOff_title>
+		<allOff_stateBody>L'imprimante est en mode Auto-Désactivé ou est éteinte.</allOff_stateBody>
+		<allOff_actionBody>Appuyez sur le bouton d'alimentation pour désactiver le mode Auto-Désactivé ou mettre l'imprimante sous tension.</allOff_actionBody>
+		<readyOn_title>Le voyant Prête est allumé et le voyant Attention est éteint.</readyOn_title>
+		<readyOn_stateBody>L'imprimante est en mode Prête.</readyOn_stateBody>
+		<readyOn_actionBody>Aucune action n'est requise. L'imprimante est prête à recevoir une tâche d'impression.</readyOn_actionBody>
+		<readyBlinking_title>Le voyant Prête clignote et le voyant Attention est éteint.</readyBlinking_title>
+		<readyBlinking_stateBody>L'imprimante reçoit ou traite des données.</readyBlinking_stateBody>
+		<readyBlinking_actionBody>Aucune action n'est requise. L'imprimante reçoit ou traite une tâche d'impression.</readyBlinking_actionBody>
+		<attnBlinking_title>Le voyant Attention clignote et le voyant Prête est éteint.</attnBlinking_title>
+		<attnBlinking_stateBody>L'imprimante a rencontré une erreur récupérable, telle qu'un bourrage, un panneau d'accès ouvert, l'absence de cartouche d'imprimante ou l'absence de papier dans le bac approprié.</attnBlinking_stateBody>
+		<attnBlinking_actionBody>Vérifiez l'imprimante, puis déterminez et corrigez l'erreur. Si l'erreur est l'absence de papier dans le bac approprié ou l'activation du mode d'alimentation manuelle, placez le papier dans le bac et suivez les instructions à l'écran ou ouvrez et fermez le panneau d'accès à la cartouche pour reprendre l'impression.</attnBlinking_actionBody>
+		<alternating_title>Les voyants d'état s'allument en alternance.</alternating_title>
+		<alternating_stateBody>Les voyants d'état s'allument en alternance lorsque l'imprimante traite une page de nettoyage.</alternating_stateBody>
+		<alternating_actionBody>Aucune action n'est requise. L'imprimante doit passer en mode Prête une fois la page de nettoyage traitée.</alternating_actionBody>
+		<unison_title>Les voyants d'état clignotent simultanément.</unison_title>
+		<unison_stateBody>Les voyants d'état clignotent simultanément pendant l'initialisation du formateur.</unison_stateBody>
+		<unison_actionBody>Aucune action n'est requise. Patientez jusqu'à la fin de l'initialisation. L'imprimante doit passer en mode Prête une fois l'initialisation terminée.</unison_actionBody>
+		<readyOn_attnBlinking_title>Le voyant Attention clignote et le voyant Prête est allumé.</readyOn_attnBlinking_title>
+		<readyOn_attnBlinking_stateBody>L'imprimante rencontre une erreur non bloquante dont elle va récupérer automatiquement.</readyOn_attnBlinking_stateBody>
+		<readyOn_attnBlinking_actionBody>En cas de succès de la récupération, l'imprimante passe à l'état Traitement de données et achève la tâche.
+En cas d'échec de la récupération, l'imprimante passe à l'état Erreur non bloquante. Essayez de retirer le support du chemin d'accès, puis éteignez et rallumez l'imprimante.</readyOn_attnBlinking_actionBody>
+		<allOn_title>Les voyants Attention et Prête sont allumés.</allOn_title>
+		<allOn_stateBody>L'imprimante rencontre une erreur fatale qu'elle ne peut pas résoudre.</allOn_stateBody>
+		<allOn_actionBody>1. Mettez l'imprimante hors tension.&#xD;2. Attendez 30 secondes, puis allumez l'imprimante ou rebranchez le cordon d'alimentation à l'imprimante.&#xD;3. Patientez pendant l'initialisation de l'imprimante.
+Si l'erreur persiste, contactez l'assistance clientèle HP.</allOn_actionBody>
+		<wirelessBlinking_title>Le voyant du réseau sans fil clignote.</wirelessBlinking_title>
+		<wirelessBlinking_stateBody>L'imprimante tente de localiser un réseau sans fil.</wirelessBlinking_stateBody>
+		<wirelessBlinking_actionBody>Aucune action n'est requise.</wirelessBlinking_actionBody>
+		<wirelessOn_title>Le voyant du réseau sans fil est allumé.</wirelessOn_title>
+		<wirelessOn_stateBody>L'imprimante est connectée à un réseau sans fil.</wirelessOn_stateBody>
+		<wirelessOn_actionBody>Aucune action n'est requise.</wirelessOn_actionBody>
+	</fr>
+</document>
+

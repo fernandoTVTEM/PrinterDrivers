@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<ru>
+		<header>Интерпретация схем индикаторов панели управления</header>
+		<view_labels>»Просмотр наклеек панели управления</view_labels>
+		<toner_light>Индикатор картриджа</toner_light>
+		<attn_light>Индикатор «Внимание»</attn_light>
+		<ready_light>Индикатор готовности</ready_light>
+		<go_light>Индикатор пуска</go_light>
+		<go_button>"Go" (кнопка пуск)</go_button>
+		<cancel_button>Клавиша «Отмена»</cancel_button>
+		<state_of_the_product>Состояние продукта</state_of_the_product>
+		<action>Действие</action>
+		<allOff_title>Все индикаторы панели управления не горят.</allOff_title>
+		<allOff_choice>Горит или нет подсветка клавиши питания?</allOff_choice>
+		<off>Нет</off>
+		<on>Горит</on>
+		<allOff1_stateBody>Подсветка клавиши питания не горит. Продукт находится в режиме автоматического отключения или выключен.</allOff1_stateBody>
+		<allOff1_actionBody>Нажмите кнопку питания для выключения режима автоматического отключения или включения продукта.</allOff1_actionBody>
+		<allOff2_stateBody>Подсветка клавиши питания горит. Форматтер подключен к продукту неправильно.</allOff2_stateBody>
+		<allOff2_actionBody>Нажмите кнопку питания для выключения режима автоматического отключения или включения продукта.</allOff2_actionBody>
+		<readyOn_title>Индикатор готовности горит, все остальные индикаторы не горят.</readyOn_title>
+		<readyOn_stateBody>Продукт находится в состоянии готовности.</readyOn_stateBody>
+		<readyOn_actionBody>Вмешательства пользователя не требуется. Продукт готов к получению задания на печать.</readyOn_actionBody>
+		<readyBlinking_title>Индикатор готовности мигает, все остальные индикаторы не горят.</readyBlinking_title>
+		<readyBlinking_stateBody>Продукт получает или обрабатывает задание на печать.</readyBlinking_stateBody>
+		<readyBlinking_actionBody>Вмешательства пользователя не требуется. Продукт получает или обрабатывает задание на печать.
+Для отмены текущего задания нажмите клавишу отмены.</readyBlinking_actionBody>
+		<attnBlinking_title>Индикатор «Внимание» мигает, все остальные индикаторы не горят.</attnBlinking_title>
+		<attnBlinking_stateBody>В продукте произошла ошибка, которая не может быть им исправлена, например, замятие, открытая дверца, отсутствие картриджа или бумаги в верном лотке.</attnBlinking_stateBody>
+		<attnBlinking_actionBody>Внимательно осмотрите продукт, определите ошибку и исправьте ее.</attnBlinking_actionBody>
+		<alternating_title>Индикаторы готовности, пуска и «Внимание» мигают. Индикатор картриджа не горит.</alternating_title>
+		<alternating_stateBody>Выполняется инициализация форматтера.</alternating_stateBody>
+		<alternating_actionBody>Вмешательства пользователя не требуется. Дождитесь завершения инициализации. По завершении инициализации продукт переходит в состояние готовности.</alternating_actionBody>
+		<readyOn_attnBlinking_title>Индикатор «Внимание» мигает, индикатор готовности горит, все остальные индикаторы не горят.</readyOn_attnBlinking_title>
+		<readyOn_attnBlinking_stateBody>В продукте произошла ошибка, допускающая продолжение работы.</readyOn_attnBlinking_stateBody>
+		<readyOn_attnBlinking_actionBody>Чтобы попытаться устранить ошибку и распечатать все возможные данные, нажмите клавишу пуска. Если ошибка будет устранена, продукт перейдет в состояние обработки информации и завершит задание.
+Если ошибка не будет устранена, продукт перейдет в состояние, требующее вмешательства пользователя. Попробуйте извлечь носитель из пути прохождения носителя, а затем выключить и снова включить продукт.</readyOn_attnBlinking_actionBody>
+		<allOn_title>Индикаторы готовности, пуска и «Внимание» горят. Индикатор картриджа не горит.</allOn_title>
+		<allOn_stateBody>В продукте произошла неустранимая ошибка, которая не может быть исправлена.</allOn_stateBody>
+		<allOn_actionBody>1. Выключите продукт.&#xD;2. Подождите 30 секунд и снова включите продукт.&#xD;3. Дождитесь инициализации продукта.
+Если ошибка повторяется, обратитесь в службу Поддержка заказчиков HP.</allOn_actionBody>
+		<ready_tonerOn_title>Индикаторы готовности и картриджа горят. Все остальные индикаторы не горят.</ready_tonerOn_title>
+		<ready_tonerOn_stateBody>Заканчивается срок службы картриджа.</ready_tonerOn_stateBody>
+		<ready_tonerOn_actionBody>Закажите новый картридж и установите его.</ready_tonerOn_actionBody>
+		<tonerBlinking_title>Индикатор картриджа мигает. Все остальные индикаторы не горят.</tonerBlinking_title>
+		<tonerBlinking_stateBody>Картридж извлечен из продукта.</tonerBlinking_stateBody>
+		<tonerBlinking_actionBody>Снова установите картридж в продукт.</tonerBlinking_actionBody>
+	</ru>
+</document>
+

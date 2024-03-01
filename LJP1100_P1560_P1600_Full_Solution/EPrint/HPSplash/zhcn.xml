@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+  <enww>
+    <tagline>可以随时随地通过移动电话、笔记本计算机或其它移动设备进行打印。</tagline>
+    <messageLine>仅限连接到网络上的打印机。</messageLine>
+    <getStarted>ePrint 功能必须下载才能使用。</getStarted>
+    <urlLine>请访问下列网站了解更多信息：</urlLine>
+    <anchorHref>http://www.hp.com/go/eprint</anchorHref>
+    <finePrint>需要将打印机连接到 Internet。功能适用于任何支持 Internet 和电子邮件的设备。有关在线详细信息，请参阅：</finePrint>
+  </enww>
+</document>

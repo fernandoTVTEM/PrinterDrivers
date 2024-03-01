@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><document>
+	<tr>
+		<header>Kontrol paneli ışığı düzenlerini yorumlama</header>
+		<view_labels>»Kontrol paneli etiketlerini görüntüleme</view_labels>
+		<state_of_the_product>Ürünün durumu</state_of_the_product>
+		<action>Yapılacak işlem</action>
+		<wlan_button>Kablosuz ağ düğmesi</wlan_button>
+		<wlan_light>Kablosuz ağ ışığı</wlan_light>
+		<ready_light>Hazır ışığı</ready_light>
+		<attn_light>Dikkat ışığı</attn_light>
+		<cancel_button>İptal düğmesi</cancel_button>
+		<allOff_title>Tüm ışıklar kapalı.</allOff_title>
+		<allOff_stateBody>Ürün Otomatik Kapama modunda veya kapalı.</allOff_stateBody>
+		<allOff_actionBody>Otomatik Kapama modunu devre dışı bırakmak veya ürünü çalıştırmak için güç düğmesine basın.</allOff_actionBody>
+		<readyOn_title>Hazır ışığı açık ve dikkat ışığı kapalı.</readyOn_title>
+		<readyOn_stateBody>Ürün hazır durumda.</readyOn_stateBody>
+		<readyOn_actionBody>Herhangi bir işlem yapılması gerekmiyor. Ürün bir yazdırma işi almaya hazır.</readyOn_actionBody>
+		<readyBlinking_title>Hazır ışığı yanıp sönüyor ve dikkat ışığı kapalı.</readyBlinking_title>
+		<readyBlinking_stateBody>Ürün veri almakta veya işlemekte.</readyBlinking_stateBody>
+		<readyBlinking_actionBody>Herhangi bir işlem yapılması gerekmiyor. Ürün bir yazdırma işi almakta veya işlemekte.</readyBlinking_actionBody>
+		<attnBlinking_title>Dikkat ışığı yanıp sönüyor ve hazır ışığı kapalı.</attnBlinking_title>
+		<attnBlinking_stateBody>Ürün, kağıt sıkışması, bir kapının açık kalması, baskı kartuşunun olmaması veya uygun tepside kağıt olmaması gibi, üründe düzeltilebilecek bir hatayla karşılaştı.</attnBlinking_stateBody>
+		<attnBlinking_actionBody>Ürünü inceleyin, hatayı belirleyin ve ardından hatayı düzeltin. Hata uygun tepside kağıt olmamasıysa veya ürün el ile besleme modundaysa, tepsiye uygun kağıt yerleştirin ve ekranda görüntülenen yönergeleri uygulayın veya yazdırmaya devam etmek için baskı kartuşu kapısını açıp kapatın.</attnBlinking_actionBody>
+		<alternating_title>Durum ışıkları çevrimi.</alternating_title>
+		<alternating_stateBody>Ürün bir temizleme sayfasını işlerken durum ışıkları bir çevrim halinde yanar.</alternating_stateBody>
+		<alternating_actionBody>Herhangi bir işlem yapılması gerekmiyor. Temizleme sayfası işlendiğinde, ürün hazır durumuna girmelidir.</alternating_actionBody>
+		<unison_title>Durum ışıkları birlikte yanıp sönüyor.</unison_title>
+		<unison_stateBody>Biçimlendiricinin başlatılması sırasında, durum ışıkları birlikte yanıp söner.</unison_stateBody>
+		<unison_actionBody>Herhangi bir işlem yapılması gerekmiyor. Başlatma sürecinin sona ermesini bekleyin. Başlatma süreci sona erdiğinde, ürün hazır durumuna girmelidir.</unison_actionBody>
+		<readyOn_attnBlinking_title>Dikkat ışığı yanıp sönüyor ve hazır ışığı açık.</readyOn_attnBlinking_title>
+		<readyOn_attnBlinking_stateBody>Ürün, kendi kendine düzelteceği sürekli bir hatayla karşılaştı.</readyOn_attnBlinking_stateBody>
+		<readyOn_attnBlinking_actionBody>Kurtarma başarılıysa, ürün Veriler İşleniyor durumunu sürdürür ve işi tamamlar.
+Kurtarma başarısızsa, ürün Devam Edilebilir Hata durumunu sürdürür. Ortam yolunda kalan ortamı çıkarmayı ve ürünü kapatıp açmayı deneyin.</readyOn_attnBlinking_actionBody>
+		<allOn_title>Dikkat ve hazır ışıkları açık.</allOn_title>
+		<allOn_stateBody>Ürün, kendi kendine düzeltemeyeceği önemli bir hatayla karşılaştı.</allOn_stateBody>
+		<allOn_actionBody>1. Ürünü kapatın.&#xD;2. 30 saniye bekleyin ve ardından ürünü çalıştırın ve güç kablosunu yeniden ürüne bağlayın.&#xD;3. Ürünün başlamasını bekleyin.
+Hata devam ederse, HP müşteri desteğiyle görüşün.</allOn_actionBody>
+		<wirelessBlinking_title>Kablosuz ışığı yanıp sönüyor.</wirelessBlinking_title>
+		<wirelessBlinking_stateBody>Ürün kablosuz bir ağ bulmaya çalışıyor.</wirelessBlinking_stateBody>
+		<wirelessBlinking_actionBody>Herhangi bir işlem yapılması gerekmiyor.</wirelessBlinking_actionBody>
+		<wirelessOn_title>Kablosuz ışığı açık.</wirelessOn_title>
+		<wirelessOn_stateBody>Ürün kablosuz bir ağa bağlı.</wirelessOn_stateBody>
+		<wirelessOn_actionBody>Herhangi bir işlem yapılması gerekmiyor.</wirelessOn_actionBody>
+	</tr>
+</document>
+

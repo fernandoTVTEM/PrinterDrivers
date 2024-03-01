@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<no>
+		<header>Tolke lampemønstre på kontrollpanelet</header>
+		<view_labels>»Vis kontrollpaneletiketter</view_labels>
+		<toner_light>Toner-lampe</toner_light>
+		<attn_light>Obs!-lampe</attn_light>
+		<ready_light>Klar-lampe</ready_light>
+		<go_light>Start-lampe</go_light>
+		<go_button>Start-knapp</go_button>
+		<cancel_button>Avbryt-knapp</cancel_button>
+		<state_of_the_product>Produktstatus</state_of_the_product>
+		<action>Handling</action>
+		<allOff_title>Alle lampene på kontrollpanelet er slått av.</allOff_title>
+		<allOff_choice>Er bakgrunnslyset på på/av-knappen slått på eller av?</allOff_choice>
+		<off>Av</off>
+		<on>På</on>
+		<allOff1_stateBody>Bakgrunnslyset på på/av-knappen er slått av. Produktet er i Automatisk av-modus eller det er slått av.</allOff1_stateBody>
+		<allOff1_actionBody>Trykk på på/av-knappen for å deaktivere Automatisk av-modus, eller for å slå på produktet.</allOff1_actionBody>
+		<allOff2_stateBody>Bakgrunnslyset på på/av-knappen er slått på. Formateringskortet er ikke koblet til produktet på riktig måte.</allOff2_stateBody>
+		<allOff2_actionBody>Trykk på på/av-knappen for å deaktivere Automatisk av-modus, eller for å slå på produktet.</allOff2_actionBody>
+		<readyOn_title>Klar-lampen lyser, og alle andre lamper er slått av.</readyOn_title>
+		<readyOn_stateBody>Produktet er i klarstatus.</readyOn_stateBody>
+		<readyOn_actionBody>Du behøver ikke å gjøre noe. Produktet er klar til å motta en utskriftsjobb.</readyOn_actionBody>
+		<readyBlinking_title>Klar-lampen blinker, og alle andre lamper er slått av.</readyBlinking_title>
+		<readyBlinking_stateBody>Produktet mottar eller behandler en utskriftsjobb.</readyBlinking_stateBody>
+		<readyBlinking_actionBody>Du behøver ikke å gjøre noe. Produktet mottar eller behandler en utskriftsjobb.
+Hvis du vil avbryte gjeldende jobb, trykker du på Avbryt-knappen.</readyBlinking_actionBody>
+		<attnBlinking_title>Obs!-lampen blinker, og alle andre lamper er slått av.</attnBlinking_title>
+		<attnBlinking_stateBody>Det har oppstått en feil som kan rettes på produktet, for eksempel fastkjørt papir, et åpent deksel, manglende skriverkassett eller det er tomt for papir i den aktuelle skuffen.</attnBlinking_stateBody>
+		<attnBlinking_actionBody>Kontroller produktet, finn ut hva feilen består i, og rett feilen.</attnBlinking_actionBody>
+		<alternating_title>Obs!-lampen, Klar-lampen og Start-lampen går i syklus. Toner-lampen er slått av.</alternating_title>
+		<alternating_stateBody>Formateringskortet initialiseres.</alternating_stateBody>
+		<alternating_actionBody>Du behøver ikke å gjøre noe. Vent til initialiseringen er avsluttet. Produktet går til klarstatus når initialiseringen er avsluttet.</alternating_actionBody>
+		<readyOn_attnBlinking_title>Obs!-lampen blinker, Klar-lampen lyser, og alle andre lamper er slått av.</readyOn_attnBlinking_title>
+		<readyOn_attnBlinking_stateBody>Det har oppstått en feil som ikke hindrer fortsetting i produktet.</readyOn_attnBlinking_stateBody>
+		<readyOn_attnBlinking_actionBody>Trykk på Start-knappen for å gjenopprette etter feilen og skrive ut tilgjengelige data. Hvis gjenopprettingen var vellykket, går produktet til statusen Behandler data, og fullfører jobben.
+Hvis gjenopprettingen ikke var vellykket, går produktet til statusen Feil som ikke forhindrer fortsetting. Prøv å fjerne eventuelt utskriftsmateriale fra papirbanen, og slå produktet av og på igjen.</readyOn_attnBlinking_actionBody>
+		<allOn_title>Obs!-lampen, Klar-lampen og Start-lampen lyser. Toner-lampen er slått av.</allOn_title>
+		<allOn_stateBody>Det har oppstått en uopprettelig feil på produktet. Feilen blir ikke rettet av seg selv.</allOn_stateBody>
+		<allOn_actionBody>1. Slå av produktet.&#xD;2. Vent i 30 sekunder, og slå produktet på igjen.&#xD;3. Vent til produktet er initialisert.
+Hvis problemet vedvarer, bør du ta kontakt med HPs kundestøtte.</allOn_actionBody>
+		<ready_tonerOn_title>Klar-lampen og Toner-lampen lyser. Alle andre lamper er slått av.</ready_tonerOn_title>
+		<ready_tonerOn_stateBody>Skriverkassetten er nesten utbrukt.</ready_tonerOn_stateBody>
+		<ready_tonerOn_actionBody>Bestill en ny skriverkassett og ha den klar.</ready_tonerOn_actionBody>
+		<tonerBlinking_title>Toner-lampen blinker. Alle andre lamper er slått av.</tonerBlinking_title>
+		<tonerBlinking_stateBody>Skriverkassetten er tatt ut av produktet.</tonerBlinking_stateBody>
+		<tonerBlinking_actionBody>Sett skriverkassetten inn i produktet igjen.</tonerBlinking_actionBody>
+	</no>
+</document>
+
